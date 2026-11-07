@@ -1,0 +1,252 @@
+<meta charset="utf-8">
+<title>Tablero Subte Buenos Aires</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600&display=swap">
+<style>
+/* Layout: barra de filtros fija arriba, indicadores, y una grilla de paneles que pasa a una columna en pantallas chicas */
+:root {
+  --bg: #f3f5f8;
+  --panel: #ffffff;
+  --ink: #17202b;
+  --muted: #5b6676;
+  --line: #dde2ea;
+  --accent: #1d4f9c;
+  --expulsora: #c8432f;
+  --atractora: #2a6fbf;
+  --font-display: "Barlow Semi Condensed", "Arial Narrow", Arial, sans-serif;
+  --font-body: "Barlow", "Segoe UI", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #10151c; --panel: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --line: #2b3542;
+    --accent: #7fa8e8; --expulsora: #ec7a66; --atractora: #6fa3e6; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #10151c; --panel: #18202a; --ink: #e8edf3; --muted: #9aa6b5; --line: #2b3542;
+  --accent: #7fa8e8; --expulsora: #ec7a66; --atractora: #6fa3e6; color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; }
+.envoltura { max-width: 1280px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 20px 40px; display: grid; gap: 16px; }
+header { display: grid; gap: 4px; }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(1.6rem, 3vw, 2.2rem); margin: 0; letter-spacing: 0.01em; text-wrap: balance; }
+.bajada { color: var(--muted); margin: 0; max-width: 70ch; }
+.lineas-chip { display: inline-flex; gap: 4px; vertical-align: middle; margin-right: 6px; }
+.lineas-chip span { width: 20px; height: 20px; border-radius: 50%; color: #fff; font: 600 12px/20px var(--font-display); text-align: center; }
+.filtros { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px; display: flex; flex-wrap: wrap; gap: 12px; align-items: end; border-bottom: 1px solid var(--line); }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.filtro { display: grid; gap: 4px; min-width: 0; }
+.filtro label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+select, button { font: 500 15px var(--font-body); color: var(--ink); background: var(--panel); border: 1px solid var(--line); border-radius: 6px; padding: 7px 10px; }
+select:focus-visible, button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+button { cursor: pointer; }
+button:hover { border-color: var(--accent); }
+.seleccion { font-size: 13px; color: var(--muted); margin-left: auto; align-self: center; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.kpi { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px; display: grid; gap: 2px; }
+.kpi .rotulo { font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 600; }
+.kpi .valor { font-family: var(--font-display); font-size: 2rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.kpi .nota { font-size: 13px; color: var(--muted); }
+.grilla { display: grid; grid-template-columns: repeat(12, 1fr); gap: 16px; }
+.panel { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 14px 16px 8px; min-width: 0; display: grid; grid-template-rows: auto auto 1fr; }
+.panel h2 { font-family: var(--font-display); font-size: 1.15rem; font-weight: 600; margin: 0; }
+.panel p { margin: 2px 0 6px; font-size: 13px; color: var(--muted); }
+.ancho { grid-column: span 12; }
+.mitad { grid-column: span 6; }
+.siete { grid-column: span 7; }
+.cinco { grid-column: span 5; }
+.grafico { width: 100%; min-height: 300px; }
+.alto { min-height: 460px; }
+footer { font-size: 12.5px; color: var(--muted); }
+@media (max-width: 600px) { .filtros { position: static; } }
+@media (max-width: 900px) { .mitad, .siete, .cinco { grid-column: span 12; } .seleccion { margin-left: 0; width: 100%; } }
+</style>
+
+<div class="envoltura">
+  <header>
+    <h1><span class="lineas-chip" aria-hidden="true"><span style="background:#18b4cc">A</span><span style="background:#e2231a">B</span><span style="background:#1d4f9c">C</span><span style="background:#00a650">D</span><span style="background:#7d3f98">E</span><span style="background:#f2b705">H</span></span>Afluencia en el Subte de Buenos Aires, 2014–2021</h1>
+    <p class="bajada">Ingresos registrados por los molinetes de la red. Elegí una línea, una estación, un año y un tipo de día, o hacé clic en una estación del mapa.</p>
+  </header>
+
+  <div class="filtros" role="group" aria-label="Filtros">
+    <div class="filtro"><label for="f-linea">Línea</label><select id="f-linea"></select></div>
+    <div class="filtro"><label for="f-estacion">Estación</label><select id="f-estacion"></select></div>
+    <div class="filtro"><label for="f-anio">Año</label><select id="f-anio"></select></div>
+    <div class="filtro"><label for="f-tipo">Tipo de día</label><select id="f-tipo"></select></div>
+    <button id="f-limpiar" type="button">Ver toda la red</button>
+    <span class="seleccion" id="seleccion"></span>
+  </div>
+
+  <section class="kpis" aria-label="Indicadores">
+    <div class="kpi"><span class="rotulo">Pasajeros en el año</span><span class="valor" id="k-total">–</span><span class="nota" id="k-total-nota"></span></div>
+    <div class="kpi"><span class="rotulo">Pasajeros por día</span><span class="valor" id="k-dia">–</span><span class="nota" id="k-dia-nota"></span></div>
+    <div class="kpi"><span class="rotulo">Respecto de 2019</span><span class="valor" id="k-var">–</span><span class="nota" id="k-var-nota"></span></div>
+  </section>
+
+  <div class="grilla">
+    <section class="panel ancho"><h2>Evolución mensual</h2><p>Pasajeros por día de cada mes. La banda marca el año elegido.</p><div id="g-serie" class="grafico"></div></section>
+    <section class="panel siete"><h2>Mapa de estaciones</h2><p>Tamaño: pasajeros por día. Color: estación expulsora (más ingresos a la mañana) o atractora (más ingresos a la tarde), días hábiles de 2019.</p><div id="g-mapa" class="grafico alto"></div></section>
+    <section class="panel cinco"><h2>Ranking de estaciones</h2><p>Las 15 estaciones con más pasajeros por día según los filtros.</p><div id="g-ranking" class="grafico alto"></div></section>
+    <section class="panel mitad"><h2>Perfil horario</h2><p>Porcentaje de los pasajeros del día que ingresa en cada hora, comparado con 2019.</p><div id="g-perfil" class="grafico"></div></section>
+    <section class="panel mitad"><h2>Tarifa y afluencia</h2><p>Precio real del boleto (pesos de abril de 2019, deflactado con el IPCBA) y pasajeros por día hábil de la red, enero 2014–abril 2019.</p><div id="g-tarifa" class="grafico"></div></section>
+  </div>
+
+  <footer>Fuente: registros de molinetes del GCBA (Portal de Datos Abiertos), registro histórico del precio del boleto e IPCBA (IDECBA). Elaboración propia, Grupo 30 — Metodología de la Investigación, Universidad del Gran Rosario.</footer>
+</div>
+
+<script id="datos" type="application/json">__DATOS__</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/plotly.js/2.27.0/plotly.min.js"></script>
+<script>
+(function () {
+  const D = JSON.parse(document.getElementById("datos").textContent);
+  const TIPOS = ["Hábil", "Sábado", "Domingo"];
+  const COLOR = { A: "#18b4cc", B: "#e2231a", C: "#1d4f9c", D: "#00a650", E: "#7d3f98", H: "#f2b705" };
+  const MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"];
+  const est = D.estaciones;            // [{l, n, lon, lat, rol, ub}]
+  const M = D.mensual;                 // columnas: s, a, m, t, p, d
+  const Hh = D.horario;                // columnas: s, a, t, h, p
+  const diasRed = D.dias_red;          // "a-m-t" -> días de la red
+  const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  const fmt = v => Math.round(v).toLocaleString("es-AR");
+  const fmtM = v => v >= 1e6 ? (v / 1e6).toLocaleString("es-AR", { maximumFractionDigits: 1 }) + " M" : fmt(v);
+
+  const st = { linea: "", estacion: -1, anio: 2019, tipo: -1 };
+  const $ = id => document.getElementById(id);
+
+  // ---------- filtros ----------
+  const selL = $("f-linea"), selE = $("f-estacion"), selA = $("f-anio"), selT = $("f-tipo");
+  selL.innerHTML = '<option value="">Todas</option>' + ["A", "B", "C", "D", "E", "H"].map(l => `<option value="${l}">Línea ${l}</option>`).join("");
+  selA.innerHTML = D.anios.map(a => `<option value="${a}"${a === 2019 ? " selected" : ""}>${a}</option>`).join("");
+  selT.innerHTML = '<option value="-1">Todos</option>' + TIPOS.map((t, i) => `<option value="${i}">${t}</option>`).join("");
+  function opcionesEstacion() {
+    const lista = est.map((e, i) => ({ e, i })).filter(o => !st.linea || o.e.l === st.linea)
+      .sort((x, y) => x.e.n.localeCompare(y.e.n, "es"));
+    selE.innerHTML = '<option value="-1">Todas</option>' + lista.map(o => `<option value="${o.i}">${titulo(o.e.n)}${st.linea ? "" : " (" + o.e.l + ")"}</option>`).join("");
+    selE.value = String(st.estacion);
+  }
+  const MENORES = new Set(["de", "del", "la", "los", "y"]);
+  const titulo = s => s.toLowerCase().split(" ").map((w, i) => i > 0 && MENORES.has(w) ? w : w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
+  selL.onchange = () => { st.linea = selL.value; if (st.estacion >= 0 && est[st.estacion].l !== st.linea && st.linea) st.estacion = -1; opcionesEstacion(); render(); };
+  selE.onchange = () => { st.estacion = +selE.value; if (st.estacion >= 0) { st.linea = est[st.estacion].l; selL.value = st.linea; opcionesEstacion(); } render(); };
+  selA.onchange = () => { st.anio = +selA.value; render(); };
+  selT.onchange = () => { st.tipo = +selT.value; render(); };
+  $("f-limpiar").onclick = () => { st.linea = ""; st.estacion = -1; selL.value = ""; opcionesEstacion(); render(); };
+
+  const enSeleccion = s => st.estacion >= 0 ? s === st.estacion : (!st.linea || est[s].l === st.linea);
+  const tipoOk = t => st.tipo < 0 || t === st.tipo;
+  const nombreSel = () => st.estacion >= 0 ? `${titulo(est[st.estacion].n)} (línea ${est[st.estacion].l})` : st.linea ? `Línea ${st.linea}` : "Toda la red";
+
+  // pasajeros y días de la selección para (año, mes) -> {p, d}
+  function agregadoMensual(filtroAnio) {
+    const out = new Map();
+    const porEst = st.estacion >= 0;
+    for (let i = 0; i < M.s.length; i++) {
+      if (!enSeleccion(M.s[i]) || !tipoOk(M.t[i])) continue;
+      if (filtroAnio && M.a[i] !== filtroAnio) continue;
+      const k = M.a[i] * 100 + M.m[i];
+      let o = out.get(k); if (!o) { o = { p: 0, d: 0, tipos: new Set() }; out.set(k, o); }
+      o.p += M.p[i];
+      if (porEst) o.d += M.d[i]; else o.tipos.add(M.t[i]);
+    }
+    if (!porEst) for (const [k, o] of out) { const a = Math.floor(k / 100), m = k % 100; o.d = [...o.tipos].reduce((s, t) => s + (diasRed[`${a}-${m}-${t}`] || 0), 0); }
+    return out;
+  }
+
+  // ---------- gráficos ----------
+  const cfg = { displayModeBar: false, responsive: true };
+  function base(extra) {
+    const ink = css("--ink"), muted = css("--muted"), line = css("--line");
+    return Object.assign({ paper_bgcolor: "rgba(0,0,0,0)", plot_bgcolor: "rgba(0,0,0,0)",
+      font: { family: "Barlow, Segoe UI, Arial, sans-serif", color: ink, size: 13 },
+      margin: { l: 80, r: 16, t: 8, b: 40 }, hoverlabel: { font: { family: "Barlow, Arial, sans-serif" } },
+      xaxis: { gridcolor: line, linecolor: line, tickfont: { color: muted }, zeroline: false },
+      yaxis: { gridcolor: line, linecolor: line, tickfont: { color: muted }, zeroline: false, tickformat: ",.0f" },
+      separators: ",." }, extra || {});
+  }
+
+  function render() {
+    $("seleccion").textContent = `${nombreSel()} · ${st.anio} · ${st.tipo < 0 ? "todos los días" : TIPOS[st.tipo].toLowerCase()}`;
+    const serie = agregadoMensual(0);
+    const claves = [...serie.keys()].sort((a, b) => a - b);
+    const x = claves.map(k => `${Math.floor(k / 100)}-${String(k % 100).padStart(2, "0")}-01`);
+    const y = claves.map(k => serie.get(k).d ? serie.get(k).p / serie.get(k).d : null);
+
+    // indicadores
+    const tot = (anio) => { let p = 0, d = 0; for (const k of claves) if (Math.floor(k / 100) === anio) { p += serie.get(k).p; d += serie.get(k).d; } return { p, d }; };
+    const a = tot(st.anio), b = tot(2019);
+    $("k-total").textContent = a.p ? fmtM(a.p) : "sin datos";
+    $("k-total-nota").textContent = `${nombreSel()}, ${st.anio}`;
+    $("k-dia").textContent = a.d ? fmt(a.p / a.d) : "–";
+    $("k-dia-nota").textContent = st.tipo < 0 ? "promedio de todos los días" : `promedio por día ${TIPOS[st.tipo].toLowerCase()}`;
+    if (st.anio === 2019 || !b.d || !a.d) { $("k-var").textContent = st.anio === 2019 ? "año base" : "–"; $("k-var-nota").textContent = "pasajeros por día, mismo filtro"; }
+    else { const v = (a.p / a.d) / (b.p / b.d) * 100; $("k-var").textContent = v.toLocaleString("es-AR", { maximumFractionDigits: 1 }) + " %"; $("k-var-nota").textContent = "de los pasajeros por día de 2019"; }
+
+    const colorSel = st.estacion >= 0 || st.linea ? COLOR[st.estacion >= 0 ? est[st.estacion].l : st.linea] : css("--accent");
+    Plotly.react("g-serie", [{ x, y, type: "scatter", mode: "lines", line: { color: colorSel, width: 2 },
+      hovertemplate: "%{x|%b %Y}<br>%{y:,.0f} pasajeros por día<extra></extra>" }],
+      base({ shapes: [{ type: "rect", xref: "x", yref: "paper", x0: `${st.anio}-01-01`, x1: `${st.anio}-12-31`, y0: 0, y1: 1, fillcolor: css("--accent"), opacity: 0.08, line: { width: 0 } },
+        { type: "line", xref: "x", yref: "paper", x0: "2020-03-20", x1: "2020-03-20", y0: 0, y1: 1, line: { color: css("--muted"), width: 1, dash: "dot" } }],
+        annotations: [{ x: "2020-03-20", y: 1, xref: "x", yref: "paper", text: "20/03/2020", showarrow: false, xanchor: "left", yanchor: "top", font: { size: 12, color: css("--muted") } }],
+        xaxis: Object.assign(base().xaxis, { type: "date", tickformat: "%Y" }), yaxis: Object.assign(base().yaxis, { rangemode: "tozero" }) }), cfg);
+
+    // por estación (año y tipo elegidos, sin filtrar línea)
+    const pe = est.map(() => ({ p: 0, d: 0 }));
+    for (let i = 0; i < M.s.length; i++) if (M.a[i] === st.anio && tipoOk(M.t[i])) { pe[M.s[i]].p += M.p[i]; pe[M.s[i]].d += M.d[i]; }
+    const porDia = pe.map(o => o.d ? o.p / o.d : 0);
+
+    // mapa
+    const maxV = Math.max(...porDia) || 1;
+    const lineasTr = D.trazado.map(t => ({ type: "scatter", mode: "lines", x: t.x, y: t.y, hoverinfo: "skip", showlegend: false,
+      line: { color: COLOR[t.l], width: 3 }, opacity: !st.linea || st.linea === t.l ? 0.55 : 0.12 }));
+    const idx = est.map((e, i) => i).filter(i => porDia[i] > 0);
+    const capa = rol => {
+      const ii = idx.filter(i => est[i].rol === rol);
+      return { type: "scatter", mode: "markers", name: rol, x: ii.map(i => est[i].lon), y: ii.map(i => est[i].lat), customdata: ii,
+        text: ii.map(i => `<b>${titulo(est[i].n)}</b> · línea ${est[i].l}<br>${fmt(porDia[i])} pasajeros por día<br>${est[i].ub}, ${rol.toLowerCase()}`),
+        hovertemplate: "%{text}<extra></extra>",
+        marker: { size: ii.map(i => 6 + 34 * Math.sqrt(porDia[i] / maxV)), color: css(rol === "Expulsora" ? "--expulsora" : "--atractora"),
+          opacity: ii.map(i => enSeleccion(i) ? 0.85 : 0.18), line: { color: ii.map(i => i === st.estacion ? css("--ink") : css("--panel")), width: ii.map(i => i === st.estacion ? 3 : 1) } } };
+    };
+    const latMid = -34.605;
+    Plotly.react("g-mapa", [...lineasTr, capa("Expulsora"), capa("Atractora")], base({
+      margin: { l: 4, r: 4, t: 4, b: 4 }, showlegend: true, legend: { orientation: "h", x: 0, y: 1.02, bgcolor: "rgba(0,0,0,0)" },
+      xaxis: { visible: false, scaleanchor: "y", scaleratio: 1 / Math.cos(latMid * Math.PI / 180) }, yaxis: { visible: false }, dragmode: "pan" }), cfg);
+    const gm = $("g-mapa");
+    if (!gm._clickBound) { gm.on("plotly_click", ev => { const p = ev.points.find(q => q.customdata !== undefined); if (!p) return; st.estacion = p.customdata; st.linea = est[st.estacion].l; selL.value = st.linea; opcionesEstacion(); render(); }); gm._clickBound = true; }
+
+    // ranking
+    const rk = est.map((e, i) => i).filter(i => porDia[i] > 0 && (!st.linea || est[i].l === st.linea)).sort((p, q) => porDia[q] - porDia[p]).slice(0, 15).reverse();
+    Plotly.react("g-ranking", [{ type: "bar", orientation: "h", x: rk.map(i => porDia[i]), y: rk.map(i => `${titulo(est[i].n)} (${est[i].l})`),
+      marker: { color: rk.map(i => COLOR[est[i].l]), opacity: rk.map(i => st.estacion < 0 || i === st.estacion ? 1 : 0.35) },
+      hovertemplate: "%{y}<br>%{x:,.0f} pasajeros por día<extra></extra>" }],
+      base({ margin: { l: 170, r: 16, t: 4, b: 36 }, xaxis: Object.assign(base().xaxis, { tickformat: ",.0f" }), yaxis: Object.assign(base().yaxis, { automargin: true, gridcolor: "rgba(0,0,0,0)" }) }), cfg);
+
+    // perfil horario
+    const perfil = anio => { const h = new Array(24).fill(0); for (let i = 0; i < Hh.s.length; i++) if (Hh.a[i] === anio && enSeleccion(Hh.s[i]) && tipoOk(Hh.t[i])) h[Hh.h[i]] += Hh.p[i]; const t = h.reduce((s, v) => s + v, 0); return h.map(v => t ? v / t * 100 : 0); };
+    const horas = Array.from({ length: 19 }, (_, i) => i + 5);
+    const pA = perfil(st.anio), p19 = perfil(2019);
+    const trazas = [{ x: horas, y: horas.map(h => pA[h]), name: String(st.anio), type: "scatter", mode: "lines+markers", line: { color: colorSel, width: 2.5 }, marker: { size: 5 }, hovertemplate: "%{x} h: %{y:.1f} %<extra>" + st.anio + "</extra>" }];
+    if (st.anio !== 2019) trazas.push({ x: horas, y: horas.map(h => p19[h]), name: "2019", type: "scatter", mode: "lines", line: { color: css("--muted"), width: 1.5, dash: "dash" }, hovertemplate: "%{x} h: %{y:.1f} %<extra>2019</extra>" });
+    Plotly.react("g-perfil", trazas, base({ showlegend: true, legend: { orientation: "h", x: 0, y: 1.1 },
+      xaxis: Object.assign(base().xaxis, { dtick: 1, range: [4.5, 23.5], title: { text: "Hora de ingreso", font: { size: 12, color: css("--muted") } } }),
+      yaxis: Object.assign(base().yaxis, { tickformat: ".0f", ticksuffix: " %", rangemode: "tozero" }) }), cfg);
+  }
+
+  // tarifa (no depende de los filtros)
+  function tarifa() {
+    const T = D.tarifa;
+    Plotly.react("g-tarifa", [
+      { x: T.mes, y: T.pax, name: "Pasajeros por día hábil", type: "scatter", mode: "lines", line: { color: css("--accent"), width: 2 }, hovertemplate: "%{x|%b %Y}<br>%{y:,.0f} pasajeros<extra></extra>" },
+      { x: T.mes, y: T.real, name: "Precio real ($)", yaxis: "y2", type: "scatter", mode: "lines", line: { color: css("--expulsora"), width: 2, shape: "hv" }, hovertemplate: "%{x|%b %Y}<br>$ %{y:.2f} (abr-2019)<extra></extra>" }],
+      base({ margin: { l: 64, r: 52, t: 8, b: 40 }, showlegend: true, legend: { orientation: "h", x: 0, y: 1.12 },
+        xaxis: Object.assign(base().xaxis, { type: "date", tickformat: "%Y" }), yaxis: Object.assign(base().yaxis, { rangemode: "tozero" }),
+        yaxis2: { overlaying: "y", side: "right", showgrid: false, tickprefix: "$ ", tickfont: { color: css("--muted") }, rangemode: "tozero" } }), cfg);
+  }
+
+  opcionesEstacion();
+  render(); tarifa();
+  try { matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { render(); tarifa(); }); } catch (e) {}
+  new MutationObserver(() => { render(); tarifa(); }).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+})();
+</script>
