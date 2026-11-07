@@ -1,0 +1,2918 @@
+fecha,anio,mes,tipo_dia,periodo,atipico,pax
+2014-01-02,2014,1,Hábil,Prepandemia,False,583110
+2014-01-03,2014,1,Hábil,Prepandemia,False,797380
+2014-01-04,2014,1,Sábado,Prepandemia,False,196948
+2014-01-05,2014,1,Domingo,Prepandemia,False,94922
+2014-01-06,2014,1,Hábil,Prepandemia,False,779038
+2014-01-07,2014,1,Hábil,Prepandemia,False,711977
+2014-01-08,2014,1,Hábil,Prepandemia,False,809494
+2014-01-09,2014,1,Hábil,Prepandemia,False,781735
+2014-01-10,2014,1,Hábil,Prepandemia,False,775108
+2014-01-11,2014,1,Sábado,Prepandemia,False,200057
+2014-01-12,2014,1,Domingo,Prepandemia,False,102485
+2014-01-13,2014,1,Hábil,Prepandemia,False,755996
+2014-01-14,2014,1,Hábil,Prepandemia,False,764019
+2014-01-15,2014,1,Hábil,Prepandemia,False,756427
+2014-01-16,2014,1,Hábil,Prepandemia,False,733099
+2014-01-17,2014,1,Hábil,Prepandemia,False,702794
+2014-01-18,2014,1,Sábado,Prepandemia,False,169167
+2014-01-19,2014,1,Domingo,Prepandemia,False,85987
+2014-01-20,2014,1,Hábil,Prepandemia,False,693487
+2014-01-21,2014,1,Hábil,Prepandemia,False,644482
+2014-01-22,2014,1,Hábil,Prepandemia,False,686213
+2014-01-23,2014,1,Hábil,Prepandemia,False,629658
+2014-01-24,2014,1,Hábil,Prepandemia,False,704465
+2014-01-25,2014,1,Sábado,Prepandemia,False,193738
+2014-01-26,2014,1,Domingo,Prepandemia,False,101564
+2014-01-27,2014,1,Hábil,Prepandemia,False,718157
+2014-01-28,2014,1,Hábil,Prepandemia,False,673972
+2014-01-29,2014,1,Hábil,Prepandemia,False,760375
+2014-01-30,2014,1,Hábil,Prepandemia,False,747868
+2014-01-31,2014,1,Hábil,Prepandemia,False,726536
+2014-02-01,2014,2,Sábado,Prepandemia,False,216703
+2014-02-02,2014,2,Domingo,Prepandemia,False,119527
+2014-02-03,2014,2,Hábil,Prepandemia,False,725951
+2014-02-04,2014,2,Hábil,Prepandemia,False,816485
+2014-02-05,2014,2,Hábil,Prepandemia,False,817322
+2014-02-06,2014,2,Hábil,Prepandemia,False,788048
+2014-02-07,2014,2,Hábil,Prepandemia,False,606779
+2014-02-08,2014,2,Sábado,Prepandemia,False,247354
+2014-02-09,2014,2,Domingo,Prepandemia,False,130349
+2014-02-10,2014,2,Hábil,Prepandemia,False,837954
+2014-02-11,2014,2,Hábil,Prepandemia,False,759112
+2014-02-12,2014,2,Hábil,Prepandemia,False,857486
+2014-02-13,2014,2,Hábil,Prepandemia,False,820131
+2014-02-14,2014,2,Hábil,Prepandemia,False,879955
+2014-02-15,2014,2,Sábado,Prepandemia,False,276973
+2014-02-16,2014,2,Domingo,Prepandemia,False,135055
+2014-02-17,2014,2,Hábil,Prepandemia,False,848200
+2014-02-18,2014,2,Hábil,Prepandemia,False,823312
+2014-02-19,2014,2,Hábil,Prepandemia,False,851796
+2014-02-20,2014,2,Hábil,Prepandemia,False,861460
+2014-02-21,2014,2,Hábil,Prepandemia,False,769265
+2014-02-22,2014,2,Sábado,Prepandemia,False,289778
+2014-02-23,2014,2,Domingo,Prepandemia,False,137855
+2014-02-24,2014,2,Hábil,Prepandemia,False,847289
+2014-02-25,2014,2,Hábil,Prepandemia,False,886955
+2014-02-26,2014,2,Hábil,Prepandemia,False,896970
+2014-02-27,2014,2,Hábil,Prepandemia,False,908536
+2014-02-28,2014,2,Hábil,Prepandemia,False,911593
+2014-03-01,2014,3,Sábado,Prepandemia,False,320076
+2014-03-02,2014,3,Domingo,Prepandemia,False,155608
+2014-03-03,2014,3,Hábil,Prepandemia,True,186598
+2014-03-04,2014,3,Hábil,Prepandemia,True,163929
+2014-03-05,2014,3,Hábil,Prepandemia,False,921961
+2014-03-06,2014,3,Hábil,Prepandemia,False,966110
+2014-03-07,2014,3,Hábil,Prepandemia,False,976093
+2014-03-08,2014,3,Sábado,Prepandemia,False,326106
+2014-03-09,2014,3,Domingo,Prepandemia,False,151718
+2014-03-10,2014,3,Hábil,Prepandemia,False,935310
+2014-03-11,2014,3,Hábil,Prepandemia,False,988473
+2014-03-12,2014,3,Hábil,Prepandemia,False,1025354
+2014-03-13,2014,3,Hábil,Prepandemia,False,996404
+2014-03-14,2014,3,Hábil,Prepandemia,False,1005756
+2014-03-15,2014,3,Sábado,Prepandemia,False,321472
+2014-03-16,2014,3,Domingo,Prepandemia,False,138835
+2014-03-17,2014,3,Hábil,Prepandemia,False,966540
+2014-03-18,2014,3,Hábil,Prepandemia,False,961230
+2014-03-19,2014,3,Hábil,Prepandemia,False,973230
+2014-03-20,2014,3,Hábil,Prepandemia,False,995304
+2014-03-21,2014,3,Hábil,Prepandemia,False,995267
+2014-03-22,2014,3,Sábado,Prepandemia,False,316950
+2014-03-23,2014,3,Domingo,Prepandemia,False,164376
+2014-03-24,2014,3,Hábil,Prepandemia,True,218015
+2014-03-25,2014,3,Hábil,Prepandemia,False,998591
+2014-03-26,2014,3,Hábil,Prepandemia,False,1029314
+2014-03-27,2014,3,Hábil,Prepandemia,False,1023026
+2014-03-28,2014,3,Hábil,Prepandemia,False,1009378
+2014-03-29,2014,3,Sábado,Prepandemia,False,320513
+2014-03-30,2014,3,Domingo,Prepandemia,False,120873
+2014-03-31,2014,3,Hábil,Prepandemia,False,1017479
+2014-04-01,2014,4,Hábil,Prepandemia,False,1040102
+2014-04-02,2014,4,Hábil,Prepandemia,True,188292
+2014-04-03,2014,4,Hábil,Prepandemia,False,1038416
+2014-04-04,2014,4,Hábil,Prepandemia,False,1043201
+2014-04-05,2014,4,Sábado,Prepandemia,False,279675
+2014-04-06,2014,4,Domingo,Prepandemia,False,131250
+2014-04-07,2014,4,Hábil,Prepandemia,False,941148
+2014-04-08,2014,4,Hábil,Prepandemia,False,1037135
+2014-04-09,2014,4,Hábil,Prepandemia,False,1092595
+2014-04-10,2014,4,Hábil,Prepandemia,True,68
+2014-04-11,2014,4,Hábil,Prepandemia,False,1086594
+2014-04-12,2014,4,Sábado,Prepandemia,False,350538
+2014-04-13,2014,4,Domingo,Prepandemia,False,158243
+2014-04-14,2014,4,Hábil,Prepandemia,False,1047721
+2014-04-15,2014,4,Hábil,Prepandemia,False,1078792
+2014-04-16,2014,4,Hábil,Prepandemia,False,1088325
+2014-04-17,2014,4,Hábil,Prepandemia,True,408589
+2014-04-18,2014,4,Hábil,Prepandemia,True,183648
+2014-04-19,2014,4,Sábado,Prepandemia,False,285587
+2014-04-20,2014,4,Domingo,Prepandemia,False,146520
+2014-04-21,2014,4,Hábil,Prepandemia,False,991902
+2014-04-22,2014,4,Hábil,Prepandemia,False,1024327
+2014-04-23,2014,4,Hábil,Prepandemia,False,948339
+2014-04-24,2014,4,Hábil,Prepandemia,False,1040956
+2014-04-25,2014,4,Hábil,Prepandemia,False,1033492
+2014-04-26,2014,4,Sábado,Prepandemia,False,362125
+2014-04-27,2014,4,Domingo,Prepandemia,False,161295
+2014-04-28,2014,4,Hábil,Prepandemia,False,1020560
+2014-04-29,2014,4,Hábil,Prepandemia,False,1066366
+2014-04-30,2014,4,Hábil,Prepandemia,False,1090957
+2014-05-01,2014,5,Hábil,Prepandemia,True,151478
+2014-05-02,2014,5,Hábil,Prepandemia,True,286912
+2014-05-03,2014,5,Sábado,Prepandemia,False,314132
+2014-05-04,2014,5,Domingo,Prepandemia,False,145329
+2014-05-05,2014,5,Hábil,Prepandemia,False,1021019
+2014-05-06,2014,5,Hábil,Prepandemia,False,1031242
+2014-05-07,2014,5,Hábil,Prepandemia,False,1041384
+2014-05-08,2014,5,Hábil,Prepandemia,False,1063394
+2014-05-09,2014,5,Hábil,Prepandemia,False,1059257
+2014-05-10,2014,5,Sábado,Prepandemia,False,316319
+2014-05-11,2014,5,Domingo,Prepandemia,False,109256
+2014-05-12,2014,5,Hábil,Prepandemia,False,1014249
+2014-05-13,2014,5,Hábil,Prepandemia,False,1025031
+2014-05-14,2014,5,Hábil,Prepandemia,False,1036257
+2014-05-15,2014,5,Hábil,Prepandemia,False,1030690
+2014-05-16,2014,5,Hábil,Prepandemia,False,1004375
+2014-05-17,2014,5,Sábado,Prepandemia,False,288410
+2014-05-18,2014,5,Domingo,Prepandemia,False,122062
+2014-05-19,2014,5,Hábil,Prepandemia,False,980325
+2014-05-20,2014,5,Hábil,Prepandemia,False,1016013
+2014-05-21,2014,5,Hábil,Prepandemia,False,926000
+2014-05-22,2014,5,Hábil,Prepandemia,False,1020400
+2014-05-23,2014,5,Hábil,Prepandemia,False,1023906
+2014-05-24,2014,5,Sábado,Prepandemia,False,288459
+2014-05-25,2014,5,Domingo,Prepandemia,False,151553
+2014-05-26,2014,5,Hábil,Prepandemia,False,969134
+2014-05-27,2014,5,Hábil,Prepandemia,False,999710
+2014-05-28,2014,5,Hábil,Prepandemia,False,939825
+2014-05-29,2014,5,Hábil,Prepandemia,False,1002745
+2014-05-30,2014,5,Hábil,Prepandemia,False,993458
+2014-05-31,2014,5,Sábado,Prepandemia,False,276089
+2014-06-01,2014,6,Domingo,Prepandemia,False,118497
+2014-06-02,2014,6,Hábil,Prepandemia,False,818664
+2014-06-03,2014,6,Hábil,Prepandemia,False,821670
+2014-06-04,2014,6,Hábil,Prepandemia,False,786032
+2014-06-05,2014,6,Hábil,Prepandemia,False,887343
+2014-06-06,2014,6,Hábil,Prepandemia,False,904144
+2014-06-07,2014,6,Sábado,Prepandemia,False,266863
+2014-06-08,2014,6,Domingo,Prepandemia,False,112964
+2014-06-09,2014,6,Hábil,Prepandemia,False,920589
+2014-06-10,2014,6,Hábil,Prepandemia,False,980701
+2014-06-11,2014,6,Hábil,Prepandemia,False,887089
+2014-06-12,2014,6,Hábil,Prepandemia,True,309531
+2014-06-13,2014,6,Hábil,Prepandemia,False,940692
+2014-06-14,2014,6,Sábado,Prepandemia,False,279490
+2014-06-15,2014,6,Domingo,Prepandemia,False,90772
+2014-06-16,2014,6,Hábil,Prepandemia,False,883365
+2014-06-17,2014,6,Hábil,Prepandemia,False,947572
+2014-06-18,2014,6,Hábil,Prepandemia,False,971650
+2014-06-19,2014,6,Hábil,Prepandemia,False,994354
+2014-06-20,2014,6,Hábil,Prepandemia,True,164666
+2014-06-21,2014,6,Sábado,Prepandemia,False,212135
+2014-06-22,2014,6,Domingo,Prepandemia,False,100174
+2014-06-23,2014,6,Hábil,Prepandemia,False,924188
+2014-06-24,2014,6,Hábil,Prepandemia,False,955826
+2014-06-25,2014,6,Hábil,Prepandemia,False,864925
+2014-06-26,2014,6,Hábil,Prepandemia,False,998832
+2014-06-27,2014,6,Hábil,Prepandemia,False,938731
+2014-06-28,2014,6,Sábado,Prepandemia,False,266823
+2014-06-29,2014,6,Domingo,Prepandemia,False,108889
+2014-06-30,2014,6,Hábil,Prepandemia,False,967503
+2014-07-01,2014,7,Hábil,Prepandemia,False,860156
+2014-07-02,2014,7,Hábil,Prepandemia,False,990367
+2014-07-03,2014,7,Hábil,Prepandemia,False,1018728
+2014-07-04,2014,7,Hábil,Prepandemia,False,981608
+2014-07-05,2014,7,Sábado,Prepandemia,False,205546
+2014-07-06,2014,7,Domingo,Prepandemia,False,106770
+2014-07-07,2014,7,Hábil,Prepandemia,False,996728
+2014-07-08,2014,7,Hábil,Prepandemia,False,982744
+2014-07-09,2014,7,Hábil,Prepandemia,True,129172
+2014-07-10,2014,7,Hábil,Prepandemia,False,1001201
+2014-07-11,2014,7,Hábil,Prepandemia,False,1000472
+2014-07-12,2014,7,Sábado,Prepandemia,False,261563
+2014-07-13,2014,7,Domingo,Prepandemia,False,99921
+2014-07-14,2014,7,Hábil,Prepandemia,False,938754
+2014-07-15,2014,7,Hábil,Prepandemia,False,933494
+2014-07-16,2014,7,Hábil,Prepandemia,False,1034095
+2014-07-17,2014,7,Hábil,Prepandemia,False,1013819
+2014-07-18,2014,7,Hábil,Prepandemia,False,1031210
+2014-07-19,2014,7,Sábado,Prepandemia,False,313528
+2014-07-20,2014,7,Domingo,Prepandemia,False,160870
+2014-07-21,2014,7,Hábil,Prepandemia,False,855761
+2014-07-22,2014,7,Hábil,Prepandemia,False,802130
+2014-07-23,2014,7,Hábil,Prepandemia,False,937624
+2014-07-24,2014,7,Hábil,Prepandemia,False,938770
+2014-07-25,2014,7,Hábil,Prepandemia,False,933889
+2014-07-26,2014,7,Sábado,Prepandemia,False,272559
+2014-07-27,2014,7,Domingo,Prepandemia,False,149815
+2014-07-28,2014,7,Hábil,Prepandemia,False,857702
+2014-07-29,2014,7,Hábil,Prepandemia,False,873101
+2014-07-30,2014,7,Hábil,Prepandemia,False,925532
+2014-07-31,2014,7,Hábil,Prepandemia,False,887724
+2014-08-01,2014,8,Hábil,Prepandemia,False,899181
+2014-08-02,2014,8,Sábado,Prepandemia,False,261500
+2014-08-03,2014,8,Domingo,Prepandemia,False,125825
+2014-08-04,2014,8,Hábil,Prepandemia,False,983470
+2014-08-05,2014,8,Hábil,Prepandemia,False,1015242
+2014-08-06,2014,8,Hábil,Prepandemia,False,1022282
+2014-08-07,2014,8,Hábil,Prepandemia,False,1031658
+2014-08-08,2014,8,Hábil,Prepandemia,False,1009091
+2014-08-09,2014,8,Sábado,Prepandemia,False,313829
+2014-08-10,2014,8,Domingo,Prepandemia,False,125970
+2014-08-11,2014,8,Hábil,Prepandemia,False,1014859
+2014-08-12,2014,8,Hábil,Prepandemia,False,1032161
+2014-08-13,2014,8,Hábil,Prepandemia,False,1047935
+2014-08-14,2014,8,Hábil,Prepandemia,False,1050823
+2014-08-15,2014,8,Hábil,Prepandemia,False,1042856
+2014-08-16,2014,8,Sábado,Prepandemia,False,287781
+2014-08-17,2014,8,Domingo,Prepandemia,False,135789
+2014-08-18,2014,8,Hábil,Prepandemia,True,139359
+2014-08-19,2014,8,Hábil,Prepandemia,False,1043086
+2014-08-20,2014,8,Hábil,Prepandemia,False,1061006
+2014-08-21,2014,8,Hábil,Prepandemia,False,1067657
+2014-08-22,2014,8,Hábil,Prepandemia,False,992731
+2014-08-23,2014,8,Sábado,Prepandemia,False,284582
+2014-08-24,2014,8,Domingo,Prepandemia,False,104368
+2014-08-25,2014,8,Hábil,Prepandemia,False,1022708
+2014-08-26,2014,8,Hábil,Prepandemia,False,1025849
+2014-08-27,2014,8,Hábil,Prepandemia,False,1087830
+2014-08-28,2014,8,Hábil,Prepandemia,True,180560
+2014-08-29,2014,8,Hábil,Prepandemia,False,1078564
+2014-08-30,2014,8,Sábado,Prepandemia,False,297894
+2014-08-31,2014,8,Domingo,Prepandemia,False,98583
+2014-09-01,2014,9,Hábil,Prepandemia,False,1045060
+2014-09-02,2014,9,Hábil,Prepandemia,False,1022388
+2014-09-03,2014,9,Hábil,Prepandemia,False,1081158
+2014-09-04,2014,9,Hábil,Prepandemia,False,1056888
+2014-09-05,2014,9,Hábil,Prepandemia,False,1010964
+2014-09-06,2014,9,Sábado,Prepandemia,False,284047
+2014-09-07,2014,9,Domingo,Prepandemia,False,134188
+2014-09-08,2014,9,Hábil,Prepandemia,False,1057266
+2014-09-09,2014,9,Hábil,Prepandemia,False,964903
+2014-09-10,2014,9,Hábil,Prepandemia,False,1101266
+2014-09-11,2014,9,Hábil,Prepandemia,False,1066412
+2014-09-12,2014,9,Hábil,Prepandemia,False,841368
+2014-09-13,2014,9,Sábado,Prepandemia,False,276691
+2014-09-14,2014,9,Domingo,Prepandemia,False,106354
+2014-09-15,2014,9,Hábil,Prepandemia,False,1038389
+2014-09-16,2014,9,Hábil,Prepandemia,False,1052103
+2014-09-17,2014,9,Hábil,Prepandemia,False,1066152
+2014-09-18,2014,9,Hábil,Prepandemia,False,1068698
+2014-09-19,2014,9,Hábil,Prepandemia,False,1056960
+2014-09-20,2014,9,Sábado,Prepandemia,False,305578
+2014-09-21,2014,9,Domingo,Prepandemia,False,129446
+2014-09-22,2014,9,Hábil,Prepandemia,False,975204
+2014-09-23,2014,9,Hábil,Prepandemia,False,967233
+2014-09-24,2014,9,Hábil,Prepandemia,False,1054754
+2014-09-25,2014,9,Hábil,Prepandemia,False,1008834
+2014-09-26,2014,9,Hábil,Prepandemia,False,1036797
+2014-09-27,2014,9,Sábado,Prepandemia,False,304373
+2014-09-28,2014,9,Domingo,Prepandemia,False,113805
+2014-09-29,2014,9,Hábil,Prepandemia,False,1003971
+2014-09-30,2014,9,Hábil,Prepandemia,False,1009824
+2014-10-01,2014,10,Hábil,Prepandemia,False,1054404
+2014-10-02,2014,10,Hábil,Prepandemia,False,1075758
+2014-10-03,2014,10,Hábil,Prepandemia,False,1026249
+2014-10-04,2014,10,Sábado,Prepandemia,False,281090
+2014-10-05,2014,10,Domingo,Prepandemia,False,89901
+2014-10-06,2014,10,Hábil,Prepandemia,False,1054421
+2014-10-07,2014,10,Hábil,Prepandemia,False,1080606
+2014-10-08,2014,10,Hábil,Prepandemia,False,1085339
+2014-10-09,2014,10,Hábil,Prepandemia,False,1033821
+2014-10-10,2014,10,Hábil,Prepandemia,False,1083947
+2014-10-11,2014,10,Sábado,Prepandemia,False,304886
+2014-10-12,2014,10,Domingo,Prepandemia,False,143495
+2014-10-13,2014,10,Hábil,Prepandemia,True,135986
+2014-10-14,2014,10,Hábil,Prepandemia,False,1060639
+2014-10-15,2014,10,Hábil,Prepandemia,False,1078464
+2014-10-16,2014,10,Hábil,Prepandemia,False,1077706
+2014-10-17,2014,10,Hábil,Prepandemia,False,993017
+2014-10-18,2014,10,Sábado,Prepandemia,False,325185
+2014-10-19,2014,10,Domingo,Prepandemia,False,121569
+2014-10-20,2014,10,Hábil,Prepandemia,False,1027723
+2014-10-21,2014,10,Hábil,Prepandemia,False,1058969
+2014-10-22,2014,10,Hábil,Prepandemia,False,1047015
+2014-10-23,2014,10,Hábil,Prepandemia,False,1048866
+2014-10-24,2014,10,Hábil,Prepandemia,False,1028254
+2014-10-25,2014,10,Sábado,Prepandemia,False,300869
+2014-10-26,2014,10,Domingo,Prepandemia,False,135338
+2014-10-27,2014,10,Hábil,Prepandemia,False,973245
+2014-10-28,2014,10,Hábil,Prepandemia,False,1026534
+2014-10-29,2014,10,Hábil,Prepandemia,False,824915
+2014-10-30,2014,10,Hábil,Prepandemia,False,1069866
+2014-10-31,2014,10,Hábil,Prepandemia,False,1038092
+2014-11-01,2014,11,Sábado,Prepandemia,False,294148
+2014-11-02,2014,11,Domingo,Prepandemia,False,90457
+2014-11-03,2014,11,Hábil,Prepandemia,False,869090
+2014-11-04,2014,11,Hábil,Prepandemia,False,1084050
+2014-11-05,2014,11,Hábil,Prepandemia,False,1089009
+2014-11-06,2014,11,Hábil,Prepandemia,False,1031878
+2014-11-07,2014,11,Hábil,Prepandemia,False,1058673
+2014-11-08,2014,11,Sábado,Prepandemia,False,324349
+2014-11-09,2014,11,Domingo,Prepandemia,False,136494
+2014-11-10,2014,11,Hábil,Prepandemia,False,1037181
+2014-11-11,2014,11,Hábil,Prepandemia,False,1065587
+2014-11-12,2014,11,Hábil,Prepandemia,False,1073373
+2014-11-13,2014,11,Hábil,Prepandemia,False,1081720
+2014-11-14,2014,11,Hábil,Prepandemia,False,1078376
+2014-11-15,2014,11,Sábado,Prepandemia,False,341989
+2014-11-16,2014,11,Domingo,Prepandemia,False,135894
+2014-11-17,2014,11,Hábil,Prepandemia,False,1027998
+2014-11-18,2014,11,Hábil,Prepandemia,False,1028444
+2014-11-19,2014,11,Hábil,Prepandemia,False,1001301
+2014-11-20,2014,11,Hábil,Prepandemia,False,1081193
+2014-11-21,2014,11,Hábil,Prepandemia,False,1047916
+2014-11-22,2014,11,Sábado,Prepandemia,False,311347
+2014-11-23,2014,11,Domingo,Prepandemia,False,134834
+2014-11-24,2014,11,Hábil,Prepandemia,True,121651
+2014-11-25,2014,11,Hábil,Prepandemia,False,1065163
+2014-11-26,2014,11,Hábil,Prepandemia,False,1083688
+2014-11-27,2014,11,Hábil,Prepandemia,False,799977
+2014-11-28,2014,11,Hábil,Prepandemia,False,1059210
+2014-11-29,2014,11,Sábado,Prepandemia,False,301215
+2014-11-30,2014,11,Domingo,Prepandemia,False,106090
+2014-12-01,2014,12,Hábil,Prepandemia,False,735375
+2014-12-02,2014,12,Hábil,Prepandemia,False,1018144
+2014-12-03,2014,12,Hábil,Prepandemia,False,1060671
+2014-12-04,2014,12,Hábil,Prepandemia,False,1076788
+2014-12-05,2014,12,Hábil,Prepandemia,False,1070333
+2014-12-06,2014,12,Sábado,Prepandemia,False,315534
+2014-12-07,2014,12,Domingo,Prepandemia,False,103856
+2014-12-08,2014,12,Hábil,Prepandemia,True,145665
+2014-12-09,2014,12,Hábil,Prepandemia,False,1036350
+2014-12-10,2014,12,Hábil,Prepandemia,False,1077959
+2014-12-11,2014,12,Hábil,Prepandemia,False,1081716
+2014-12-12,2014,12,Hábil,Prepandemia,False,1051370
+2014-12-13,2014,12,Sábado,Prepandemia,False,321560
+2014-12-14,2014,12,Domingo,Prepandemia,False,135541
+2014-12-15,2014,12,Hábil,Prepandemia,False,1039627
+2014-12-16,2014,12,Hábil,Prepandemia,False,1039143
+2014-12-17,2014,12,Hábil,Prepandemia,False,1064429
+2014-12-18,2014,12,Hábil,Prepandemia,False,1072426
+2014-12-19,2014,12,Hábil,Prepandemia,False,1064045
+2014-12-20,2014,12,Sábado,Prepandemia,False,288613
+2014-12-21,2014,12,Domingo,Prepandemia,False,142394
+2014-12-22,2014,12,Hábil,Prepandemia,False,1113527
+2014-12-23,2014,12,Hábil,Prepandemia,False,872079
+2014-12-24,2014,12,Hábil,Prepandemia,True,329551
+2014-12-25,2014,12,Hábil,Prepandemia,True,55525
+2014-12-26,2014,12,Hábil,Prepandemia,True,134937
+2014-12-27,2014,12,Sábado,Prepandemia,False,189759
+2014-12-28,2014,12,Domingo,Prepandemia,False,106796
+2014-12-29,2014,12,Hábil,Prepandemia,False,869278
+2014-12-30,2014,12,Hábil,Prepandemia,False,822507
+2014-12-31,2014,12,Hábil,Prepandemia,True,191484
+2015-01-01,2015,1,Hábil,Prepandemia,True,51922
+2015-01-02,2015,1,Hábil,Prepandemia,True,330942
+2015-01-03,2015,1,Sábado,Prepandemia,False,204117
+2015-01-04,2015,1,Domingo,Prepandemia,False,103821
+2015-01-05,2015,1,Hábil,Prepandemia,False,805147
+2015-01-06,2015,1,Hábil,Prepandemia,False,754577
+2015-01-07,2015,1,Hábil,Prepandemia,False,804958
+2015-01-08,2015,1,Hábil,Prepandemia,False,786853
+2015-01-09,2015,1,Hábil,Prepandemia,False,757502
+2015-01-10,2015,1,Sábado,Prepandemia,False,198585
+2015-01-11,2015,1,Domingo,Prepandemia,False,99490
+2015-01-12,2015,1,Hábil,Prepandemia,False,652790
+2015-01-13,2015,1,Hábil,Prepandemia,False,671973
+2015-01-14,2015,1,Hábil,Prepandemia,False,803102
+2015-01-15,2015,1,Hábil,Prepandemia,False,792783
+2015-01-16,2015,1,Hábil,Prepandemia,False,755812
+2015-01-17,2015,1,Sábado,Prepandemia,False,192587
+2015-01-18,2015,1,Domingo,Prepandemia,False,96723
+2015-01-19,2015,1,Hábil,Prepandemia,False,697123
+2015-01-20,2015,1,Hábil,Prepandemia,False,781363
+2015-01-21,2015,1,Hábil,Prepandemia,False,775584
+2015-01-22,2015,1,Hábil,Prepandemia,False,767918
+2015-01-23,2015,1,Hábil,Prepandemia,False,745077
+2015-01-24,2015,1,Sábado,Prepandemia,False,192602
+2015-01-25,2015,1,Domingo,Prepandemia,False,97289
+2015-01-26,2015,1,Hábil,Prepandemia,False,701942
+2015-01-27,2015,1,Hábil,Prepandemia,False,702737
+2015-01-28,2015,1,Hábil,Prepandemia,False,660255
+2015-01-29,2015,1,Hábil,Prepandemia,False,799094
+2015-01-30,2015,1,Hábil,Prepandemia,False,773506
+2015-01-31,2015,1,Sábado,Prepandemia,False,199628
+2015-02-01,2015,2,Domingo,Prepandemia,False,103895
+2015-02-02,2015,2,Hábil,Prepandemia,False,808591
+2015-02-03,2015,2,Hábil,Prepandemia,False,807349
+2015-02-04,2015,2,Hábil,Prepandemia,False,832484
+2015-02-05,2015,2,Hábil,Prepandemia,False,833557
+2015-02-06,2015,2,Hábil,Prepandemia,False,821697
+2015-02-07,2015,2,Sábado,Prepandemia,False,255543
+2015-02-08,2015,2,Domingo,Prepandemia,False,103085
+2015-02-09,2015,2,Hábil,Prepandemia,False,822202
+2015-02-10,2015,2,Hábil,Prepandemia,False,862874
+2015-02-11,2015,2,Hábil,Prepandemia,False,856673
+2015-02-12,2015,2,Hábil,Prepandemia,False,853947
+2015-02-13,2015,2,Hábil,Prepandemia,False,862633
+2015-02-14,2015,2,Sábado,Prepandemia,False,280718
+2015-02-15,2015,2,Domingo,Prepandemia,False,121509
+2015-02-16,2015,2,Hábil,Prepandemia,True,124867
+2015-02-17,2015,2,Hábil,Prepandemia,True,120973
+2015-02-18,2015,2,Hábil,Prepandemia,False,951149
+2015-02-19,2015,2,Hábil,Prepandemia,False,896267
+2015-02-20,2015,2,Hábil,Prepandemia,False,903579
+2015-02-21,2015,2,Sábado,Prepandemia,False,274401
+2015-02-22,2015,2,Domingo,Prepandemia,False,116532
+2015-02-23,2015,2,Hábil,Prepandemia,False,867797
+2015-02-24,2015,2,Hábil,Prepandemia,False,874908
+2015-02-25,2015,2,Hábil,Prepandemia,False,879844
+2015-02-26,2015,2,Hábil,Prepandemia,False,886325
+2015-02-27,2015,2,Hábil,Prepandemia,False,921777
+2015-02-28,2015,2,Sábado,Prepandemia,False,309316
+2015-03-01,2015,3,Domingo,Prepandemia,False,185830
+2015-03-02,2015,3,Hábil,Prepandemia,False,891463
+2015-03-03,2015,3,Hábil,Prepandemia,False,894352
+2015-03-04,2015,3,Hábil,Prepandemia,False,920227
+2015-03-05,2015,3,Hábil,Prepandemia,False,975673
+2015-03-06,2015,3,Hábil,Prepandemia,False,980107
+2015-03-07,2015,3,Sábado,Prepandemia,False,324316
+2015-03-08,2015,3,Domingo,Prepandemia,False,158736
+2015-03-09,2015,3,Hábil,Prepandemia,False,990239
+2015-03-10,2015,3,Hábil,Prepandemia,False,1002415
+2015-03-11,2015,3,Hábil,Prepandemia,False,1012909
+2015-03-12,2015,3,Hábil,Prepandemia,False,1005733
+2015-03-13,2015,3,Hábil,Prepandemia,False,988216
+2015-03-14,2015,3,Sábado,Prepandemia,False,326383
+2015-03-15,2015,3,Domingo,Prepandemia,False,155842
+2015-03-16,2015,3,Hábil,Prepandemia,False,1031333
+2015-03-17,2015,3,Hábil,Prepandemia,False,1019366
+2015-03-18,2015,3,Hábil,Prepandemia,False,1019486
+2015-03-19,2015,3,Hábil,Prepandemia,False,1047740
+2015-03-20,2015,3,Hábil,Prepandemia,False,1036411
+2015-03-21,2015,3,Sábado,Prepandemia,False,334812
+2015-03-22,2015,3,Domingo,Prepandemia,False,170902
+2015-03-23,2015,3,Hábil,Prepandemia,True,191549
+2015-03-24,2015,3,Hábil,Prepandemia,True,243097
+2015-03-25,2015,3,Hábil,Prepandemia,False,1040747
+2015-03-26,2015,3,Hábil,Prepandemia,False,1083427
+2015-03-27,2015,3,Hábil,Prepandemia,False,1065931
+2015-03-28,2015,3,Sábado,Prepandemia,False,355224
+2015-03-29,2015,3,Domingo,Prepandemia,False,170894
+2015-03-30,2015,3,Hábil,Prepandemia,False,1118178
+2015-03-31,2015,3,Hábil,Prepandemia,True,6
+2015-04-01,2015,4,Hábil,Prepandemia,False,1176551
+2015-04-02,2015,4,Hábil,Prepandemia,True,244763
+2015-04-03,2015,4,Hábil,Prepandemia,True,185531
+2015-04-04,2015,4,Sábado,Prepandemia,False,290940
+2015-04-05,2015,4,Domingo,Prepandemia,False,154800
+2015-04-06,2015,4,Hábil,Prepandemia,False,1062254
+2015-04-07,2015,4,Hábil,Prepandemia,False,1095460
+2015-04-08,2015,4,Hábil,Prepandemia,False,1093178
+2015-04-09,2015,4,Hábil,Prepandemia,False,1111860
+2015-04-10,2015,4,Hábil,Prepandemia,False,1094751
+2015-04-11,2015,4,Sábado,Prepandemia,False,380563
+2015-04-12,2015,4,Domingo,Prepandemia,False,182772
+2015-04-13,2015,4,Hábil,Prepandemia,False,1066427
+2015-04-14,2015,4,Hábil,Prepandemia,False,1089284
+2015-04-15,2015,4,Hábil,Prepandemia,False,1111154
+2015-04-16,2015,4,Hábil,Prepandemia,False,1091359
+2015-04-17,2015,4,Hábil,Prepandemia,False,1115617
+2015-04-18,2015,4,Sábado,Prepandemia,False,393574
+2015-04-19,2015,4,Domingo,Prepandemia,False,189654
+2015-04-20,2015,4,Hábil,Prepandemia,False,1068953
+2015-04-21,2015,4,Hábil,Prepandemia,False,1094565
+2015-04-22,2015,4,Hábil,Prepandemia,False,1118772
+2015-04-23,2015,4,Hábil,Prepandemia,False,1110319
+2015-04-24,2015,4,Hábil,Prepandemia,False,1096891
+2015-04-25,2015,4,Sábado,Prepandemia,False,398252
+2015-04-26,2015,4,Domingo,Prepandemia,False,195376
+2015-04-27,2015,4,Hábil,Prepandemia,False,1063095
+2015-04-28,2015,4,Hábil,Prepandemia,False,1091692
+2015-04-29,2015,4,Hábil,Prepandemia,False,1071469
+2015-04-30,2015,4,Hábil,Prepandemia,False,1151586
+2015-05-01,2015,5,Hábil,Prepandemia,True,176287
+2015-05-02,2015,5,Sábado,Prepandemia,False,354339
+2015-05-03,2015,5,Domingo,Prepandemia,False,178380
+2015-05-04,2015,5,Hábil,Prepandemia,False,1097047
+2015-05-05,2015,5,Hábil,Prepandemia,False,1108489
+2015-05-06,2015,5,Hábil,Prepandemia,False,1125663
+2015-05-07,2015,5,Hábil,Prepandemia,False,1137305
+2015-05-08,2015,5,Hábil,Prepandemia,False,1126854
+2015-05-09,2015,5,Sábado,Prepandemia,False,430037
+2015-05-10,2015,5,Domingo,Prepandemia,False,193409
+2015-05-11,2015,5,Hábil,Prepandemia,False,1096194
+2015-05-12,2015,5,Hábil,Prepandemia,False,1081639
+2015-05-13,2015,5,Hábil,Prepandemia,False,1121603
+2015-05-14,2015,5,Hábil,Prepandemia,False,1105119
+2015-05-15,2015,5,Hábil,Prepandemia,False,1074921
+2015-05-16,2015,5,Sábado,Prepandemia,False,401974
+2015-05-17,2015,5,Domingo,Prepandemia,False,185299
+2015-05-18,2015,5,Hábil,Prepandemia,False,1055280
+2015-05-19,2015,5,Hábil,Prepandemia,False,1075311
+2015-05-20,2015,5,Hábil,Prepandemia,False,1094362
+2015-05-21,2015,5,Hábil,Prepandemia,False,1123414
+2015-05-22,2015,5,Hábil,Prepandemia,False,1118587
+2015-05-23,2015,5,Sábado,Prepandemia,False,393676
+2015-05-24,2015,5,Domingo,Prepandemia,False,252839
+2015-05-25,2015,5,Hábil,Prepandemia,True,288276
+2015-05-26,2015,5,Hábil,Prepandemia,False,1047984
+2015-05-27,2015,5,Hábil,Prepandemia,False,1086175
+2015-05-28,2015,5,Hábil,Prepandemia,False,1111493
+2015-05-29,2015,5,Hábil,Prepandemia,False,1112205
+2015-05-30,2015,5,Sábado,Prepandemia,False,390787
+2015-05-31,2015,5,Domingo,Prepandemia,False,186809
+2015-06-01,2015,6,Hábil,Prepandemia,False,1080947
+2015-06-02,2015,6,Hábil,Prepandemia,False,1110817
+2015-06-03,2015,6,Hábil,Prepandemia,False,1218179
+2015-06-04,2015,6,Hábil,Prepandemia,False,1127549
+2015-06-05,2015,6,Hábil,Prepandemia,False,1102132
+2015-06-06,2015,6,Sábado,Prepandemia,False,403524
+2015-06-07,2015,6,Domingo,Prepandemia,False,202596
+2015-06-08,2015,6,Hábil,Prepandemia,False,1121418
+2015-06-09,2015,6,Hábil,Prepandemia,True,3
+2015-06-10,2015,6,Hábil,Prepandemia,False,1190503
+2015-06-11,2015,6,Hábil,Prepandemia,False,1165205
+2015-06-12,2015,6,Hábil,Prepandemia,False,1136745
+2015-06-13,2015,6,Sábado,Prepandemia,False,397127
+2015-06-14,2015,6,Domingo,Prepandemia,False,194806
+2015-06-15,2015,6,Hábil,Prepandemia,False,1067650
+2015-06-16,2015,6,Hábil,Prepandemia,False,1117829
+2015-06-17,2015,6,Hábil,Prepandemia,False,1128159
+2015-06-18,2015,6,Hábil,Prepandemia,False,1123642
+2015-06-19,2015,6,Hábil,Prepandemia,False,1111586
+2015-06-20,2015,6,Sábado,Prepandemia,False,329287
+2015-06-21,2015,6,Domingo,Prepandemia,False,184039
+2015-06-22,2015,6,Hábil,Prepandemia,False,897289
+2015-06-23,2015,6,Hábil,Prepandemia,False,1067445
+2015-06-24,2015,6,Hábil,Prepandemia,False,1097885
+2015-06-25,2015,6,Hábil,Prepandemia,False,799825
+2015-06-26,2015,6,Hábil,Prepandemia,False,1082004
+2015-06-27,2015,6,Sábado,Prepandemia,False,392683
+2015-06-28,2015,6,Domingo,Prepandemia,False,148311
+2015-06-29,2015,6,Hábil,Prepandemia,False,974296
+2015-06-30,2015,6,Hábil,Prepandemia,False,1093701
+2015-07-01,2015,7,Hábil,Prepandemia,False,1098937
+2015-07-02,2015,7,Hábil,Prepandemia,False,1103696
+2015-07-03,2015,7,Hábil,Prepandemia,False,1111102
+2015-07-04,2015,7,Sábado,Prepandemia,False,384745
+2015-07-05,2015,7,Domingo,Prepandemia,False,225578
+2015-07-06,2015,7,Hábil,Prepandemia,False,1091471
+2015-07-07,2015,7,Hábil,Prepandemia,False,1155256
+2015-07-08,2015,7,Hábil,Prepandemia,False,1181953
+2015-07-09,2015,7,Hábil,Prepandemia,True,254333
+2015-07-10,2015,7,Hábil,Prepandemia,False,1115171
+2015-07-11,2015,7,Sábado,Prepandemia,False,431934
+2015-07-12,2015,7,Domingo,Prepandemia,False,211396
+2015-07-13,2015,7,Hábil,Prepandemia,False,1110667
+2015-07-14,2015,7,Hábil,Prepandemia,False,1156795
+2015-07-15,2015,7,Hábil,Prepandemia,False,1137012
+2015-07-16,2015,7,Hábil,Prepandemia,False,1082002
+2015-07-17,2015,7,Hábil,Prepandemia,False,1124032
+2015-07-18,2015,7,Sábado,Prepandemia,False,462970
+2015-07-19,2015,7,Domingo,Prepandemia,False,245983
+2015-07-20,2015,7,Hábil,Prepandemia,False,1019802
+2015-07-21,2015,7,Hábil,Prepandemia,False,1011251
+2015-07-22,2015,7,Hábil,Prepandemia,False,1053498
+2015-07-23,2015,7,Hábil,Prepandemia,False,1029029
+2015-07-24,2015,7,Hábil,Prepandemia,False,1028270
+2015-07-25,2015,7,Sábado,Prepandemia,False,423075
+2015-07-26,2015,7,Domingo,Prepandemia,False,264646
+2015-07-27,2015,7,Hábil,Prepandemia,False,947874
+2015-07-28,2015,7,Hábil,Prepandemia,False,979095
+2015-07-29,2015,7,Hábil,Prepandemia,False,980485
+2015-07-30,2015,7,Hábil,Prepandemia,False,944457
+2015-07-31,2015,7,Hábil,Prepandemia,False,865178
+2015-08-01,2015,8,Sábado,Prepandemia,False,416370
+2015-08-02,2015,8,Domingo,Prepandemia,False,217150
+2015-08-03,2015,8,Hábil,Prepandemia,False,1066384
+2015-08-04,2015,8,Hábil,Prepandemia,False,1088362
+2015-08-05,2015,8,Hábil,Prepandemia,False,1104893
+2015-08-06,2015,8,Hábil,Prepandemia,False,958037
+2015-08-07,2015,8,Hábil,Prepandemia,False,1098549
+2015-08-08,2015,8,Sábado,Prepandemia,False,365416
+2015-08-09,2015,8,Domingo,Prepandemia,False,179794
+2015-08-10,2015,8,Hábil,Prepandemia,False,994433
+2015-08-11,2015,8,Hábil,Prepandemia,False,1116810
+2015-08-12,2015,8,Hábil,Prepandemia,False,1108013
+2015-08-13,2015,8,Hábil,Prepandemia,False,1080527
+2015-08-14,2015,8,Hábil,Prepandemia,False,1146831
+2015-08-15,2015,8,Sábado,Prepandemia,False,394995
+2015-08-16,2015,8,Domingo,Prepandemia,False,210791
+2015-08-17,2015,8,Hábil,Prepandemia,True,206605
+2015-08-18,2015,8,Hábil,Prepandemia,False,1131322
+2015-08-19,2015,8,Hábil,Prepandemia,False,1155338
+2015-08-20,2015,8,Hábil,Prepandemia,False,1148675
+2015-08-21,2015,8,Hábil,Prepandemia,False,1139563
+2015-08-22,2015,8,Sábado,Prepandemia,False,427522
+2015-08-23,2015,8,Domingo,Prepandemia,False,214134
+2015-08-24,2015,8,Hábil,Prepandemia,False,1127908
+2015-08-25,2015,8,Hábil,Prepandemia,False,1145178
+2015-08-26,2015,8,Hábil,Prepandemia,False,1104721
+2015-08-27,2015,8,Hábil,Prepandemia,False,1158639
+2015-08-28,2015,8,Hábil,Prepandemia,False,1136706
+2015-08-29,2015,8,Sábado,Prepandemia,False,415727
+2015-08-30,2015,8,Domingo,Prepandemia,False,207521
+2015-08-31,2015,8,Hábil,Prepandemia,False,1097028
+2015-09-01,2015,9,Hábil,Prepandemia,False,1136325
+2015-09-02,2015,9,Hábil,Prepandemia,False,1141911
+2015-09-03,2015,9,Hábil,Prepandemia,False,1165133
+2015-09-04,2015,9,Hábil,Prepandemia,False,1148119
+2015-09-05,2015,9,Sábado,Prepandemia,False,443502
+2015-09-06,2015,9,Domingo,Prepandemia,False,219979
+2015-09-07,2015,9,Hábil,Prepandemia,False,1115644
+2015-09-08,2015,9,Hábil,Prepandemia,False,1149424
+2015-09-09,2015,9,Hábil,Prepandemia,False,1123801
+2015-09-10,2015,9,Hábil,Prepandemia,False,1184257
+2015-09-11,2015,9,Hábil,Prepandemia,False,1138769
+2015-09-12,2015,9,Sábado,Prepandemia,False,437818
+2015-09-13,2015,9,Domingo,Prepandemia,False,208050
+2015-09-14,2015,9,Hábil,Prepandemia,False,1091674
+2015-09-15,2015,9,Hábil,Prepandemia,False,1101552
+2015-09-16,2015,9,Hábil,Prepandemia,False,1154671
+2015-09-17,2015,9,Hábil,Prepandemia,False,1159572
+2015-09-18,2015,9,Hábil,Prepandemia,False,1134531
+2015-09-19,2015,9,Sábado,Prepandemia,False,424914
+2015-09-20,2015,9,Domingo,Prepandemia,False,216348
+2015-09-21,2015,9,Hábil,Prepandemia,False,997786
+2015-09-22,2015,9,Hábil,Prepandemia,False,1072617
+2015-09-23,2015,9,Hábil,Prepandemia,False,1051593
+2015-09-24,2015,9,Hábil,Prepandemia,False,1096986
+2015-09-25,2015,9,Hábil,Prepandemia,False,1137118
+2015-09-26,2015,9,Sábado,Prepandemia,False,425081
+2015-09-27,2015,9,Domingo,Prepandemia,False,216765
+2015-09-28,2015,9,Hábil,Prepandemia,False,1056911
+2015-09-29,2015,9,Hábil,Prepandemia,False,1151488
+2015-09-30,2015,9,Hábil,Prepandemia,False,1146898
+2015-10-01,2015,10,Hábil,Prepandemia,False,1085319
+2015-10-02,2015,10,Hábil,Prepandemia,False,1066597
+2015-10-03,2015,10,Sábado,Prepandemia,False,427869
+2015-10-04,2015,10,Domingo,Prepandemia,False,216493
+2015-10-05,2015,10,Hábil,Prepandemia,False,1113579
+2015-10-06,2015,10,Hábil,Prepandemia,False,1108724
+2015-10-07,2015,10,Hábil,Prepandemia,False,1172080
+2015-10-08,2015,10,Hábil,Prepandemia,False,1190863
+2015-10-09,2015,10,Hábil,Prepandemia,False,1159457
+2015-10-10,2015,10,Sábado,Prepandemia,False,468183
+2015-10-11,2015,10,Domingo,Prepandemia,False,214042
+2015-10-12,2015,10,Hábil,Prepandemia,True,218974
+2015-10-13,2015,10,Hábil,Prepandemia,False,1122935
+2015-10-14,2015,10,Hábil,Prepandemia,False,1118714
+2015-10-15,2015,10,Hábil,Prepandemia,False,1161893
+2015-10-16,2015,10,Hábil,Prepandemia,False,1166808
+2015-10-17,2015,10,Sábado,Prepandemia,False,469038
+2015-10-18,2015,10,Domingo,Prepandemia,False,199798
+2015-10-19,2015,10,Hábil,Prepandemia,False,843585
+2015-10-20,2015,10,Hábil,Prepandemia,False,1115727
+2015-10-21,2015,10,Hábil,Prepandemia,False,1126226
+2015-10-22,2015,10,Hábil,Prepandemia,False,1088535
+2015-10-23,2015,10,Hábil,Prepandemia,False,1100907
+2015-10-24,2015,10,Sábado,Prepandemia,False,368510
+2015-10-25,2015,10,Domingo,Prepandemia,False,191363
+2015-10-26,2015,10,Hábil,Prepandemia,False,1060257
+2015-10-27,2015,10,Hábil,Prepandemia,False,1108062
+2015-10-28,2015,10,Hábil,Prepandemia,False,1127194
+2015-10-29,2015,10,Hábil,Prepandemia,False,1097068
+2015-10-30,2015,10,Hábil,Prepandemia,False,1128433
+2015-10-31,2015,10,Sábado,Prepandemia,False,439304
+2015-11-01,2015,11,Domingo,Prepandemia,False,229639
+2015-11-02,2015,11,Hábil,Prepandemia,False,1102952
+2015-11-03,2015,11,Hábil,Prepandemia,False,1127078
+2015-11-04,2015,11,Hábil,Prepandemia,False,1149170
+2015-11-05,2015,11,Hábil,Prepandemia,False,1061892
+2015-11-06,2015,11,Hábil,Prepandemia,False,1059824
+2015-11-07,2015,11,Sábado,Prepandemia,False,470239
+2015-11-08,2015,11,Domingo,Prepandemia,False,208525
+2015-11-09,2015,11,Hábil,Prepandemia,False,1057647
+2015-11-10,2015,11,Hábil,Prepandemia,False,990980
+2015-11-11,2015,11,Hábil,Prepandemia,False,1138271
+2015-11-12,2015,11,Hábil,Prepandemia,False,1049392
+2015-11-13,2015,11,Hábil,Prepandemia,False,1131620
+2015-11-14,2015,11,Sábado,Prepandemia,False,437812
+2015-11-15,2015,11,Domingo,Prepandemia,False,196542
+2015-11-16,2015,11,Hábil,Prepandemia,False,1046345
+2015-11-17,2015,11,Hábil,Prepandemia,False,1022502
+2015-11-18,2015,11,Hábil,Prepandemia,False,1142382
+2015-11-19,2015,11,Hábil,Prepandemia,False,1029446
+2015-11-20,2015,11,Hábil,Prepandemia,False,1131409
+2015-11-21,2015,11,Sábado,Prepandemia,False,406369
+2015-11-22,2015,11,Domingo,Prepandemia,False,206085
+2015-11-23,2015,11,Hábil,Prepandemia,False,1034673
+2015-11-24,2015,11,Hábil,Prepandemia,False,1109213
+2015-11-25,2015,11,Hábil,Prepandemia,False,1196381
+2015-11-26,2015,11,Hábil,Prepandemia,False,1168620
+2015-11-27,2015,11,Hábil,Prepandemia,True,243225
+2015-11-28,2015,11,Sábado,Prepandemia,False,395587
+2015-11-29,2015,11,Domingo,Prepandemia,False,203219
+2015-11-30,2015,11,Hábil,Prepandemia,False,1076489
+2015-12-01,2015,12,Hábil,Prepandemia,False,1114641
+2015-12-02,2015,12,Hábil,Prepandemia,False,1123021
+2015-12-03,2015,12,Hábil,Prepandemia,False,1153111
+2015-12-04,2015,12,Hábil,Prepandemia,False,1151022
+2015-12-05,2015,12,Sábado,Prepandemia,False,435293
+2015-12-06,2015,12,Domingo,Prepandemia,False,221735
+2015-12-07,2015,12,Hábil,Prepandemia,True,241191
+2015-12-08,2015,12,Hábil,Prepandemia,True,220293
+2015-12-09,2015,12,Hábil,Prepandemia,False,1081064
+2015-12-10,2015,12,Hábil,Prepandemia,False,1047445
+2015-12-11,2015,12,Hábil,Prepandemia,False,1132925
+2015-12-12,2015,12,Sábado,Prepandemia,False,400014
+2015-12-13,2015,12,Domingo,Prepandemia,False,194635
+2015-12-14,2015,12,Hábil,Prepandemia,False,1061165
+2015-12-15,2015,12,Hábil,Prepandemia,False,1131364
+2015-12-16,2015,12,Hábil,Prepandemia,False,1108097
+2015-12-17,2015,12,Hábil,Prepandemia,False,913936
+2015-12-18,2015,12,Hábil,Prepandemia,False,1046371
+2015-12-19,2015,12,Sábado,Prepandemia,False,442379
+2015-12-20,2015,12,Domingo,Prepandemia,False,227444
+2015-12-21,2015,12,Hábil,Prepandemia,False,1137897
+2015-12-22,2015,12,Hábil,Prepandemia,False,1111159
+2015-12-23,2015,12,Hábil,Prepandemia,False,1105884
+2015-12-24,2015,12,Hábil,Prepandemia,True,366394
+2015-12-25,2015,12,Hábil,Prepandemia,True,84949
+2015-12-26,2015,12,Sábado,Prepandemia,False,284017
+2015-12-27,2015,12,Domingo,Prepandemia,False,156448
+2015-12-28,2015,12,Hábil,Prepandemia,False,882109
+2015-12-29,2015,12,Hábil,Prepandemia,False,901545
+2015-12-30,2015,12,Hábil,Prepandemia,False,794605
+2015-12-31,2015,12,Hábil,Prepandemia,True,257791
+2016-01-01,2016,1,Hábil,Prepandemia,True,73367
+2016-01-02,2016,1,Sábado,Prepandemia,False,219843
+2016-01-03,2016,1,Domingo,Prepandemia,False,129287
+2016-01-04,2016,1,Hábil,Prepandemia,False,767303
+2016-01-05,2016,1,Hábil,Prepandemia,False,800756
+2016-01-06,2016,1,Hábil,Prepandemia,False,834049
+2016-01-07,2016,1,Hábil,Prepandemia,False,796209
+2016-01-08,2016,1,Hábil,Prepandemia,False,814618
+2016-01-09,2016,1,Sábado,Prepandemia,False,291869
+2016-01-10,2016,1,Domingo,Prepandemia,False,143647
+2016-01-11,2016,1,Hábil,Prepandemia,False,803440
+2016-01-12,2016,1,Hábil,Prepandemia,False,829983
+2016-01-13,2016,1,Hábil,Prepandemia,False,824555
+2016-01-14,2016,1,Hábil,Prepandemia,False,812249
+2016-01-15,2016,1,Hábil,Prepandemia,False,789679
+2016-01-16,2016,1,Sábado,Prepandemia,False,288157
+2016-01-17,2016,1,Domingo,Prepandemia,False,143147
+2016-01-18,2016,1,Hábil,Prepandemia,False,785352
+2016-01-19,2016,1,Hábil,Prepandemia,False,793770
+2016-01-20,2016,1,Hábil,Prepandemia,False,787931
+2016-01-21,2016,1,Hábil,Prepandemia,False,781636
+2016-01-22,2016,1,Hábil,Prepandemia,False,729247
+2016-01-23,2016,1,Sábado,Prepandemia,False,229259
+2016-01-24,2016,1,Domingo,Prepandemia,False,117056
+2016-01-25,2016,1,Hábil,Prepandemia,False,751793
+2016-01-26,2016,1,Hábil,Prepandemia,False,784112
+2016-01-27,2016,1,Hábil,Prepandemia,False,798474
+2016-01-28,2016,1,Hábil,Prepandemia,False,782055
+2016-01-29,2016,1,Hábil,Prepandemia,False,759987
+2016-01-30,2016,1,Sábado,Prepandemia,False,277861
+2016-01-31,2016,1,Domingo,Prepandemia,False,159015
+2016-02-01,2016,2,Hábil,Prepandemia,False,835377
+2016-02-02,2016,2,Hábil,Prepandemia,False,864841
+2016-02-03,2016,2,Hábil,Prepandemia,False,863451
+2016-02-04,2016,2,Hábil,Prepandemia,False,816982
+2016-02-05,2016,2,Hábil,Prepandemia,False,835516
+2016-02-06,2016,2,Sábado,Prepandemia,False,289567
+2016-02-07,2016,2,Domingo,Prepandemia,False,138613
+2016-02-08,2016,2,Hábil,Prepandemia,True,173182
+2016-02-09,2016,2,Hábil,Prepandemia,True,175785
+2016-02-10,2016,2,Hábil,Prepandemia,False,865243
+2016-02-11,2016,2,Hábil,Prepandemia,False,878670
+2016-02-12,2016,2,Hábil,Prepandemia,False,828643
+2016-02-13,2016,2,Sábado,Prepandemia,False,296300
+2016-02-14,2016,2,Domingo,Prepandemia,False,171252
+2016-02-15,2016,2,Hábil,Prepandemia,False,839378
+2016-02-16,2016,2,Hábil,Prepandemia,False,840361
+2016-02-17,2016,2,Hábil,Prepandemia,False,831249
+2016-02-18,2016,2,Hábil,Prepandemia,False,878804
+2016-02-19,2016,2,Hábil,Prepandemia,False,830902
+2016-02-20,2016,2,Sábado,Prepandemia,False,325509
+2016-02-21,2016,2,Domingo,Prepandemia,False,154107
+2016-02-22,2016,2,Hábil,Prepandemia,False,874725
+2016-02-23,2016,2,Hábil,Prepandemia,False,887316
+2016-02-24,2016,2,Hábil,Prepandemia,False,872831
+2016-02-25,2016,2,Hábil,Prepandemia,False,931633
+2016-02-26,2016,2,Hábil,Prepandemia,False,866657
+2016-02-27,2016,2,Sábado,Prepandemia,False,330845
+2016-02-28,2016,2,Domingo,Prepandemia,False,164118
+2016-02-29,2016,2,Hábil,Prepandemia,False,935110
+2016-03-01,2016,3,Hábil,Prepandemia,False,987566
+2016-03-02,2016,3,Hábil,Prepandemia,False,994121
+2016-03-03,2016,3,Hábil,Prepandemia,False,1017501
+2016-03-04,2016,3,Hábil,Prepandemia,False,1010433
+2016-03-05,2016,3,Sábado,Prepandemia,False,382784
+2016-03-06,2016,3,Domingo,Prepandemia,False,192505
+2016-03-07,2016,3,Hábil,Prepandemia,False,1029160
+2016-03-08,2016,3,Hábil,Prepandemia,False,1068218
+2016-03-09,2016,3,Hábil,Prepandemia,False,1046423
+2016-03-10,2016,3,Hábil,Prepandemia,False,1069840
+2016-03-11,2016,3,Hábil,Prepandemia,False,1050820
+2016-03-12,2016,3,Sábado,Prepandemia,False,408426
+2016-03-13,2016,3,Domingo,Prepandemia,False,197081
+2016-03-14,2016,3,Hábil,Prepandemia,False,1064823
+2016-03-15,2016,3,Hábil,Prepandemia,False,1098681
+2016-03-16,2016,3,Hábil,Prepandemia,False,954690
+2016-03-17,2016,3,Hábil,Prepandemia,False,1089722
+2016-03-18,2016,3,Hábil,Prepandemia,False,975202
+2016-03-19,2016,3,Sábado,Prepandemia,False,417975
+2016-03-20,2016,3,Domingo,Prepandemia,False,207925
+2016-03-21,2016,3,Hábil,Prepandemia,False,1080743
+2016-03-22,2016,3,Hábil,Prepandemia,False,1117728
+2016-03-23,2016,3,Hábil,Prepandemia,False,940836
+2016-03-24,2016,3,Hábil,Prepandemia,True,410212
+2016-03-25,2016,3,Hábil,Prepandemia,True,213656
+2016-03-26,2016,3,Sábado,Prepandemia,False,325503
+2016-03-27,2016,3,Domingo,Prepandemia,False,174978
+2016-03-28,2016,3,Hábil,Prepandemia,False,1076200
+2016-03-29,2016,3,Hábil,Prepandemia,False,992301
+2016-03-30,2016,3,Hábil,Prepandemia,False,1104797
+2016-03-31,2016,3,Hábil,Prepandemia,False,1113603
+2016-04-01,2016,4,Hábil,Prepandemia,False,1057168
+2016-04-02,2016,4,Sábado,Prepandemia,False,297018
+2016-04-03,2016,4,Domingo,Prepandemia,False,206659
+2016-04-04,2016,4,Hábil,Prepandemia,False,1090598
+2016-04-05,2016,4,Hábil,Prepandemia,False,1131186
+2016-04-06,2016,4,Hábil,Prepandemia,False,1140535
+2016-04-07,2016,4,Hábil,Prepandemia,False,1172649
+2016-04-08,2016,4,Hábil,Prepandemia,False,1144508
+2016-04-09,2016,4,Sábado,Prepandemia,False,438735
+2016-04-10,2016,4,Domingo,Prepandemia,False,213930
+2016-04-11,2016,4,Hábil,Prepandemia,False,1136202
+2016-04-12,2016,4,Hábil,Prepandemia,False,1171167
+2016-04-13,2016,4,Hábil,Prepandemia,False,1155522
+2016-04-14,2016,4,Hábil,Prepandemia,False,1176441
+2016-04-15,2016,4,Hábil,Prepandemia,False,1087938
+2016-04-16,2016,4,Sábado,Prepandemia,False,412436
+2016-04-17,2016,4,Domingo,Prepandemia,False,179324
+2016-04-18,2016,4,Hábil,Prepandemia,False,1170636
+2016-04-19,2016,4,Hábil,Prepandemia,False,1153439
+2016-04-20,2016,4,Hábil,Prepandemia,False,1218892
+2016-04-21,2016,4,Hábil,Prepandemia,False,1183338
+2016-04-22,2016,4,Hábil,Prepandemia,False,1180164
+2016-04-23,2016,4,Sábado,Prepandemia,False,426141
+2016-04-24,2016,4,Domingo,Prepandemia,False,202878
+2016-04-25,2016,4,Hábil,Prepandemia,False,1120521
+2016-04-26,2016,4,Hábil,Prepandemia,False,1190682
+2016-04-27,2016,4,Hábil,Prepandemia,False,1190017
+2016-04-28,2016,4,Hábil,Prepandemia,False,1208032
+2016-04-29,2016,4,Hábil,Prepandemia,False,1127837
+2016-04-30,2016,4,Sábado,Prepandemia,False,467863
+2016-05-01,2016,5,Domingo,Prepandemia,False,190937
+2016-05-02,2016,5,Hábil,Prepandemia,False,1165510
+2016-05-03,2016,5,Hábil,Prepandemia,False,1203230
+2016-05-04,2016,5,Hábil,Prepandemia,False,1164172
+2016-05-05,2016,5,Hábil,Prepandemia,False,1180735
+2016-05-06,2016,5,Hábil,Prepandemia,False,1198933
+2016-05-07,2016,5,Sábado,Prepandemia,False,500579
+2016-05-08,2016,5,Domingo,Prepandemia,False,233314
+2016-05-09,2016,5,Hábil,Prepandemia,False,1152674
+2016-05-10,2016,5,Hábil,Prepandemia,False,1169282
+2016-05-11,2016,5,Hábil,Prepandemia,False,1173917
+2016-05-12,2016,5,Hábil,Prepandemia,False,1235775
+2016-05-13,2016,5,Hábil,Prepandemia,False,1185168
+2016-05-14,2016,5,Sábado,Prepandemia,False,455393
+2016-05-15,2016,5,Domingo,Prepandemia,False,190918
+2016-05-16,2016,5,Hábil,Prepandemia,False,1164475
+2016-05-17,2016,5,Hábil,Prepandemia,False,1188530
+2016-05-18,2016,5,Hábil,Prepandemia,False,1203381
+2016-05-19,2016,5,Hábil,Prepandemia,False,1217576
+2016-05-20,2016,5,Hábil,Prepandemia,False,1191208
+2016-05-21,2016,5,Sábado,Prepandemia,False,461361
+2016-05-22,2016,5,Domingo,Prepandemia,False,224295
+2016-05-23,2016,5,Hábil,Prepandemia,False,1174420
+2016-05-24,2016,5,Hábil,Prepandemia,False,1222461
+2016-05-25,2016,5,Hábil,Prepandemia,True,258252
+2016-05-26,2016,5,Hábil,Prepandemia,False,1209441
+2016-05-27,2016,5,Hábil,Prepandemia,False,1095155
+2016-05-28,2016,5,Sábado,Prepandemia,False,430176
+2016-05-29,2016,5,Domingo,Prepandemia,False,183255
+2016-05-30,2016,5,Hábil,Prepandemia,False,1165335
+2016-05-31,2016,5,Hábil,Prepandemia,False,1190341
+2016-06-01,2016,6,Hábil,Prepandemia,False,1209213
+2016-06-02,2016,6,Hábil,Prepandemia,False,1156228
+2016-06-03,2016,6,Hábil,Prepandemia,False,1270174
+2016-06-04,2016,6,Sábado,Prepandemia,False,423146
+2016-06-05,2016,6,Domingo,Prepandemia,False,239268
+2016-06-06,2016,6,Hábil,Prepandemia,False,1205734
+2016-06-07,2016,6,Hábil,Prepandemia,False,1226322
+2016-06-08,2016,6,Hábil,Prepandemia,False,1239273
+2016-06-09,2016,6,Hábil,Prepandemia,False,1254379
+2016-06-10,2016,6,Hábil,Prepandemia,False,1269334
+2016-06-11,2016,6,Sábado,Prepandemia,False,483913
+2016-06-12,2016,6,Domingo,Prepandemia,False,231712
+2016-06-13,2016,6,Hábil,Prepandemia,False,1203754
+2016-06-14,2016,6,Hábil,Prepandemia,False,1180993
+2016-06-15,2016,6,Hábil,Prepandemia,False,956644
+2016-06-16,2016,6,Hábil,Prepandemia,False,1303966
+2016-06-17,2016,6,Hábil,Prepandemia,True,336977
+2016-06-18,2016,6,Sábado,Prepandemia,False,398586
+2016-06-19,2016,6,Domingo,Prepandemia,False,213462
+2016-06-20,2016,6,Hábil,Prepandemia,True,226896
+2016-06-21,2016,6,Hábil,Prepandemia,False,1209318
+2016-06-22,2016,6,Hábil,Prepandemia,False,1204497
+2016-06-23,2016,6,Hábil,Prepandemia,False,1225743
+2016-06-24,2016,6,Hábil,Prepandemia,False,1212553
+2016-06-25,2016,6,Sábado,Prepandemia,False,453406
+2016-06-26,2016,6,Domingo,Prepandemia,False,193473
+2016-06-27,2016,6,Hábil,Prepandemia,False,983307
+2016-06-28,2016,6,Hábil,Prepandemia,False,1126739
+2016-06-29,2016,6,Hábil,Prepandemia,False,1140245
+2016-06-30,2016,6,Hábil,Prepandemia,False,1110079
+2016-07-01,2016,7,Hábil,Prepandemia,False,1124576
+2016-07-02,2016,7,Sábado,Prepandemia,False,391938
+2016-07-03,2016,7,Domingo,Prepandemia,False,173162
+2016-07-04,2016,7,Hábil,Prepandemia,False,1125909
+2016-07-05,2016,7,Hábil,Prepandemia,False,1204696
+2016-07-06,2016,7,Hábil,Prepandemia,False,1236307
+2016-07-07,2016,7,Hábil,Prepandemia,False,1279866
+2016-07-08,2016,7,Hábil,Prepandemia,True,378502
+2016-07-09,2016,7,Sábado,Prepandemia,False,359291
+2016-07-10,2016,7,Domingo,Prepandemia,False,254002
+2016-07-11,2016,7,Hábil,Prepandemia,False,1177359
+2016-07-12,2016,7,Hábil,Prepandemia,False,1247038
+2016-07-13,2016,7,Hábil,Prepandemia,False,1246938
+2016-07-14,2016,7,Hábil,Prepandemia,False,1273578
+2016-07-15,2016,7,Hábil,Prepandemia,False,1237624
+2016-07-16,2016,7,Sábado,Prepandemia,False,506791
+2016-07-17,2016,7,Domingo,Prepandemia,False,268777
+2016-07-18,2016,7,Hábil,Prepandemia,False,1106118
+2016-07-19,2016,7,Hábil,Prepandemia,False,1157240
+2016-07-20,2016,7,Hábil,Prepandemia,False,1161022
+2016-07-21,2016,7,Hábil,Prepandemia,False,1114078
+2016-07-22,2016,7,Hábil,Prepandemia,False,1121116
+2016-07-23,2016,7,Sábado,Prepandemia,False,490069
+2016-07-24,2016,7,Domingo,Prepandemia,False,266910
+2016-07-25,2016,7,Hábil,Prepandemia,False,974158
+2016-07-26,2016,7,Hábil,Prepandemia,False,966048
+2016-07-27,2016,7,Hábil,Prepandemia,False,1127593
+2016-07-28,2016,7,Hábil,Prepandemia,False,1135368
+2016-07-29,2016,7,Hábil,Prepandemia,False,1142488
+2016-07-30,2016,7,Sábado,Prepandemia,False,495137
+2016-07-31,2016,7,Domingo,Prepandemia,False,207571
+2016-08-01,2016,8,Hábil,Prepandemia,False,1161672
+2016-08-02,2016,8,Hábil,Prepandemia,False,1213657
+2016-08-03,2016,8,Hábil,Prepandemia,False,1213309
+2016-08-04,2016,8,Hábil,Prepandemia,False,1243850
+2016-08-05,2016,8,Hábil,Prepandemia,False,1220043
+2016-08-06,2016,8,Sábado,Prepandemia,False,507359
+2016-08-07,2016,8,Domingo,Prepandemia,False,286950
+2016-08-08,2016,8,Hábil,Prepandemia,False,1223976
+2016-08-09,2016,8,Hábil,Prepandemia,False,1273418
+2016-08-10,2016,8,Hábil,Prepandemia,False,1279923
+2016-08-11,2016,8,Hábil,Prepandemia,False,1308577
+2016-08-12,2016,8,Hábil,Prepandemia,False,1268693
+2016-08-13,2016,8,Sábado,Prepandemia,False,490838
+2016-08-14,2016,8,Domingo,Prepandemia,False,259733
+2016-08-15,2016,8,Hábil,Prepandemia,True,276625
+2016-08-16,2016,8,Hábil,Prepandemia,False,1271174
+2016-08-17,2016,8,Hábil,Prepandemia,False,1286371
+2016-08-18,2016,8,Hábil,Prepandemia,False,1296659
+2016-08-19,2016,8,Hábil,Prepandemia,False,1251425
+2016-08-20,2016,8,Sábado,Prepandemia,False,523403
+2016-08-21,2016,8,Domingo,Prepandemia,False,257383
+2016-08-22,2016,8,Hábil,Prepandemia,False,1235399
+2016-08-23,2016,8,Hábil,Prepandemia,False,1279611
+2016-08-24,2016,8,Hábil,Prepandemia,False,1282528
+2016-08-25,2016,8,Hábil,Prepandemia,False,1298764
+2016-08-26,2016,8,Hábil,Prepandemia,False,1273097
+2016-08-27,2016,8,Sábado,Prepandemia,False,364330
+2016-08-28,2016,8,Domingo,Prepandemia,False,238305
+2016-08-29,2016,8,Hábil,Prepandemia,False,1243938
+2016-08-30,2016,8,Hábil,Prepandemia,False,1280575
+2016-08-31,2016,8,Hábil,Prepandemia,False,1283221
+2016-09-01,2016,9,Hábil,Prepandemia,False,1287784
+2016-09-02,2016,9,Hábil,Prepandemia,False,1328841
+2016-09-03,2016,9,Sábado,Prepandemia,False,508695
+2016-09-04,2016,9,Domingo,Prepandemia,False,231421
+2016-09-05,2016,9,Hábil,Prepandemia,False,1177181
+2016-09-06,2016,9,Hábil,Prepandemia,False,1174117
+2016-09-07,2016,9,Hábil,Prepandemia,False,1297370
+2016-09-08,2016,9,Hábil,Prepandemia,False,1344346
+2016-09-09,2016,9,Hábil,Prepandemia,False,1303790
+2016-09-10,2016,9,Sábado,Prepandemia,False,524345
+2016-09-11,2016,9,Domingo,Prepandemia,False,277703
+2016-09-12,2016,9,Hábil,Prepandemia,False,1158047
+2016-09-13,2016,9,Hábil,Prepandemia,False,1242253
+2016-09-14,2016,9,Hábil,Prepandemia,False,1254328
+2016-09-15,2016,9,Hábil,Prepandemia,False,1282086
+2016-09-16,2016,9,Hábil,Prepandemia,False,1258127
+2016-09-17,2016,9,Sábado,Prepandemia,False,514578
+2016-09-18,2016,9,Domingo,Prepandemia,False,263089
+2016-09-19,2016,9,Hábil,Prepandemia,False,1263650
+2016-09-20,2016,9,Hábil,Prepandemia,False,1288849
+2016-09-21,2016,9,Hábil,Prepandemia,False,1192677
+2016-09-22,2016,9,Hábil,Prepandemia,False,1295144
+2016-09-23,2016,9,Hábil,Prepandemia,False,1249953
+2016-09-24,2016,9,Sábado,Prepandemia,False,501937
+2016-09-25,2016,9,Domingo,Prepandemia,False,256650
+2016-09-26,2016,9,Hábil,Prepandemia,False,1211372
+2016-09-27,2016,9,Hábil,Prepandemia,False,1276663
+2016-09-28,2016,9,Hábil,Prepandemia,False,1290877
+2016-09-29,2016,9,Hábil,Prepandemia,False,1295547
+2016-09-30,2016,9,Hábil,Prepandemia,False,1284719
+2016-10-01,2016,10,Sábado,Prepandemia,False,520589
+2016-10-02,2016,10,Domingo,Prepandemia,False,220786
+2016-10-03,2016,10,Hábil,Prepandemia,False,1255602
+2016-10-04,2016,10,Hábil,Prepandemia,False,1270280
+2016-10-05,2016,10,Hábil,Prepandemia,False,1272447
+2016-10-06,2016,10,Hábil,Prepandemia,False,1321716
+2016-10-07,2016,10,Hábil,Prepandemia,False,1263748
+2016-10-08,2016,10,Sábado,Prepandemia,False,516683
+2016-10-09,2016,10,Domingo,Prepandemia,False,322842
+2016-10-10,2016,10,Hábil,Prepandemia,True,264698
+2016-10-11,2016,10,Hábil,Prepandemia,False,1296848
+2016-10-12,2016,10,Hábil,Prepandemia,False,1259963
+2016-10-13,2016,10,Hábil,Prepandemia,False,1332029
+2016-10-14,2016,10,Hábil,Prepandemia,False,1326899
+2016-10-15,2016,10,Sábado,Prepandemia,False,448055
+2016-10-16,2016,10,Domingo,Prepandemia,False,242763
+2016-10-17,2016,10,Hábil,Prepandemia,False,1260058
+2016-10-18,2016,10,Hábil,Prepandemia,False,1260875
+2016-10-19,2016,10,Hábil,Prepandemia,False,1254967
+2016-10-20,2016,10,Hábil,Prepandemia,False,1312735
+2016-10-21,2016,10,Hábil,Prepandemia,False,1309146
+2016-10-22,2016,10,Sábado,Prepandemia,False,546913
+2016-10-23,2016,10,Domingo,Prepandemia,False,266212
+2016-10-24,2016,10,Hábil,Prepandemia,False,1262631
+2016-10-25,2016,10,Hábil,Prepandemia,False,1269359
+2016-10-26,2016,10,Hábil,Prepandemia,False,1237373
+2016-10-27,2016,10,Hábil,Prepandemia,False,1341137
+2016-10-28,2016,10,Hábil,Prepandemia,False,1300075
+2016-10-29,2016,10,Sábado,Prepandemia,False,466314
+2016-10-30,2016,10,Domingo,Prepandemia,False,262997
+2016-10-31,2016,10,Hábil,Prepandemia,False,1174529
+2016-11-01,2016,11,Hábil,Prepandemia,False,1143360
+2016-11-02,2016,11,Hábil,Prepandemia,False,1247946
+2016-11-03,2016,11,Hábil,Prepandemia,False,1271968
+2016-11-04,2016,11,Hábil,Prepandemia,False,1203111
+2016-11-05,2016,11,Sábado,Prepandemia,False,461951
+2016-11-06,2016,11,Domingo,Prepandemia,False,200641
+2016-11-07,2016,11,Hábil,Prepandemia,False,1117176
+2016-11-08,2016,11,Hábil,Prepandemia,False,1243223
+2016-11-09,2016,11,Hábil,Prepandemia,False,1238020
+2016-11-10,2016,11,Hábil,Prepandemia,False,1265378
+2016-11-11,2016,11,Hábil,Prepandemia,False,1214202
+2016-11-12,2016,11,Sábado,Prepandemia,False,499093
+2016-11-13,2016,11,Domingo,Prepandemia,False,202602
+2016-11-14,2016,11,Hábil,Prepandemia,False,1200664
+2016-11-15,2016,11,Hábil,Prepandemia,False,1214961
+2016-11-16,2016,11,Hábil,Prepandemia,False,1214199
+2016-11-17,2016,11,Hábil,Prepandemia,False,1267138
+2016-11-18,2016,11,Hábil,Prepandemia,False,1307816
+2016-11-19,2016,11,Sábado,Prepandemia,False,497342
+2016-11-20,2016,11,Domingo,Prepandemia,False,245739
+2016-11-21,2016,11,Hábil,Prepandemia,False,1131162
+2016-11-22,2016,11,Hábil,Prepandemia,False,1219011
+2016-11-23,2016,11,Hábil,Prepandemia,False,1222874
+2016-11-24,2016,11,Hábil,Prepandemia,False,1226816
+2016-11-25,2016,11,Hábil,Prepandemia,False,1188316
+2016-11-26,2016,11,Sábado,Prepandemia,False,423687
+2016-11-27,2016,11,Domingo,Prepandemia,False,256317
+2016-11-28,2016,11,Hábil,Prepandemia,True,243296
+2016-11-29,2016,11,Hábil,Prepandemia,False,1198542
+2016-11-30,2016,11,Hábil,Prepandemia,False,1220852
+2016-12-01,2016,12,Hábil,Prepandemia,False,1243637
+2016-12-02,2016,12,Hábil,Prepandemia,False,1202651
+2016-12-03,2016,12,Sábado,Prepandemia,False,465815
+2016-12-04,2016,12,Domingo,Prepandemia,False,226519
+2016-12-05,2016,12,Hábil,Prepandemia,False,1191723
+2016-12-06,2016,12,Hábil,Prepandemia,False,1293582
+2016-12-07,2016,12,Hábil,Prepandemia,True,80
+2016-12-08,2016,12,Hábil,Prepandemia,True,310264
+2016-12-09,2016,12,Hábil,Prepandemia,True,304272
+2016-12-10,2016,12,Sábado,Prepandemia,False,402176
+2016-12-11,2016,12,Domingo,Prepandemia,False,212935
+2016-12-12,2016,12,Hábil,Prepandemia,False,1171500
+2016-12-13,2016,12,Hábil,Prepandemia,False,1221565
+2016-12-14,2016,12,Hábil,Prepandemia,False,1225692
+2016-12-15,2016,12,Hábil,Prepandemia,False,1218778
+2016-12-16,2016,12,Hábil,Prepandemia,False,1192850
+2016-12-17,2016,12,Sábado,Prepandemia,False,471408
+2016-12-18,2016,12,Domingo,Prepandemia,False,206223
+2016-12-19,2016,12,Hábil,Prepandemia,True,587055
+2016-12-20,2016,12,Hábil,Prepandemia,False,1283357
+2016-12-21,2016,12,Hábil,Prepandemia,False,1221635
+2016-12-22,2016,12,Hábil,Prepandemia,False,1205854
+2016-12-23,2016,12,Hábil,Prepandemia,False,1039297
+2016-12-24,2016,12,Sábado,Prepandemia,False,262855
+2016-12-25,2016,12,Domingo,Prepandemia,True,89348
+2016-12-26,2016,12,Hábil,Prepandemia,False,917371
+2016-12-27,2016,12,Hábil,Prepandemia,False,1039064
+2016-12-28,2016,12,Hábil,Prepandemia,False,1027419
+2016-12-29,2016,12,Hábil,Prepandemia,False,1003912
+2016-12-30,2016,12,Hábil,Prepandemia,False,806978
+2016-12-31,2016,12,Sábado,Prepandemia,False,208374
+2017-01-01,2017,1,Domingo,Prepandemia,False,86802
+2017-01-02,2017,1,Hábil,Prepandemia,False,663477
+2017-01-03,2017,1,Hábil,Prepandemia,False,723515
+2017-01-04,2017,1,Hábil,Prepandemia,False,787069
+2017-01-05,2017,1,Hábil,Prepandemia,False,730365
+2017-01-06,2017,1,Hábil,Prepandemia,False,775428
+2017-01-07,2017,1,Sábado,Prepandemia,False,271450
+2017-01-08,2017,1,Domingo,Prepandemia,False,143239
+2017-01-09,2017,1,Hábil,Prepandemia,False,747081
+2017-01-10,2017,1,Hábil,Prepandemia,False,819240
+2017-01-11,2017,1,Hábil,Prepandemia,False,814507
+2017-01-12,2017,1,Hábil,Prepandemia,False,799767
+2017-01-13,2017,1,Hábil,Prepandemia,False,766584
+2017-01-14,2017,1,Sábado,Prepandemia,False,284366
+2017-01-15,2017,1,Domingo,Prepandemia,False,141962
+2017-01-16,2017,1,Hábil,Prepandemia,False,745990
+2017-01-17,2017,1,Hábil,Prepandemia,False,776468
+2017-01-18,2017,1,Hábil,Prepandemia,False,787328
+2017-01-19,2017,1,Hábil,Prepandemia,False,784809
+2017-01-20,2017,1,Hábil,Prepandemia,False,745261
+2017-01-21,2017,1,Sábado,Prepandemia,False,263604
+2017-01-22,2017,1,Domingo,Prepandemia,False,142402
+2017-01-23,2017,1,Hábil,Prepandemia,False,731431
+2017-01-24,2017,1,Hábil,Prepandemia,False,748181
+2017-01-25,2017,1,Hábil,Prepandemia,False,787500
+2017-01-26,2017,1,Hábil,Prepandemia,False,786772
+2017-01-27,2017,1,Hábil,Prepandemia,False,757021
+2017-01-28,2017,1,Sábado,Prepandemia,False,278332
+2017-01-29,2017,1,Domingo,Prepandemia,False,148596
+2017-01-30,2017,1,Hábil,Prepandemia,False,751247
+2017-01-31,2017,1,Hábil,Prepandemia,False,763117
+2017-02-01,2017,2,Hábil,Prepandemia,False,842897
+2017-02-02,2017,2,Hábil,Prepandemia,False,861630
+2017-02-03,2017,2,Hábil,Prepandemia,False,842156
+2017-02-04,2017,2,Sábado,Prepandemia,False,287132
+2017-02-05,2017,2,Domingo,Prepandemia,False,146845
+2017-02-06,2017,2,Hábil,Prepandemia,False,857238
+2017-02-07,2017,2,Hábil,Prepandemia,False,895889
+2017-02-08,2017,2,Hábil,Prepandemia,False,891945
+2017-02-09,2017,2,Hábil,Prepandemia,False,868777
+2017-02-10,2017,2,Hábil,Prepandemia,False,847133
+2017-02-11,2017,2,Sábado,Prepandemia,False,309274
+2017-02-12,2017,2,Domingo,Prepandemia,False,127457
+2017-02-13,2017,2,Hábil,Prepandemia,False,813439
+2017-02-14,2017,2,Hábil,Prepandemia,False,901738
+2017-02-15,2017,2,Hábil,Prepandemia,False,917143
+2017-02-16,2017,2,Hábil,Prepandemia,False,916890
+2017-02-17,2017,2,Hábil,Prepandemia,False,876059
+2017-02-18,2017,2,Sábado,Prepandemia,False,313579
+2017-02-19,2017,2,Domingo,Prepandemia,False,169681
+2017-02-20,2017,2,Hábil,Prepandemia,False,870346
+2017-02-21,2017,2,Hábil,Prepandemia,False,868368
+2017-02-22,2017,2,Hábil,Prepandemia,False,898434
+2017-02-23,2017,2,Hábil,Prepandemia,False,919620
+2017-02-24,2017,2,Hábil,Prepandemia,False,864944
+2017-02-25,2017,2,Sábado,Prepandemia,False,284027
+2017-02-26,2017,2,Domingo,Prepandemia,False,151411
+2017-02-27,2017,2,Hábil,Prepandemia,True,163846
+2017-02-28,2017,2,Hábil,Prepandemia,True,175570
+2017-03-01,2017,3,Hábil,Prepandemia,False,1023625
+2017-03-02,2017,3,Hábil,Prepandemia,False,1023265
+2017-03-03,2017,3,Hábil,Prepandemia,False,1062138
+2017-03-04,2017,3,Sábado,Prepandemia,False,383924
+2017-03-05,2017,3,Domingo,Prepandemia,False,204013
+2017-03-06,2017,3,Hábil,Prepandemia,False,1127782
+2017-03-07,2017,3,Hábil,Prepandemia,False,1067557
+2017-03-08,2017,3,Hábil,Prepandemia,False,1212724
+2017-03-09,2017,3,Hábil,Prepandemia,False,1108654
+2017-03-10,2017,3,Hábil,Prepandemia,False,1174929
+2017-03-11,2017,3,Sábado,Prepandemia,False,407366
+2017-03-12,2017,3,Domingo,Prepandemia,False,215105
+2017-03-13,2017,3,Hábil,Prepandemia,False,1140012
+2017-03-14,2017,3,Hábil,Prepandemia,False,1220083
+2017-03-15,2017,3,Hábil,Prepandemia,False,1199530
+2017-03-16,2017,3,Hábil,Prepandemia,False,1213230
+2017-03-17,2017,3,Hábil,Prepandemia,False,1206813
+2017-03-18,2017,3,Sábado,Prepandemia,False,463275
+2017-03-19,2017,3,Domingo,Prepandemia,False,228126
+2017-03-20,2017,3,Hábil,Prepandemia,False,1181149
+2017-03-21,2017,3,Hábil,Prepandemia,False,1219981
+2017-03-22,2017,3,Hábil,Prepandemia,False,1291195
+2017-03-23,2017,3,Hábil,Prepandemia,False,1280562
+2017-03-24,2017,3,Hábil,Prepandemia,True,416412
+2017-03-25,2017,3,Sábado,Prepandemia,False,408944
+2017-03-26,2017,3,Domingo,Prepandemia,False,213945
+2017-03-27,2017,3,Hábil,Prepandemia,False,1190777
+2017-03-28,2017,3,Hábil,Prepandemia,False,1203715
+2017-03-29,2017,3,Hábil,Prepandemia,False,1168348
+2017-03-30,2017,3,Hábil,Prepandemia,False,1167905
+2017-03-31,2017,3,Hábil,Prepandemia,False,1207525
+2017-04-01,2017,4,Sábado,Prepandemia,False,512874
+2017-04-02,2017,4,Domingo,Prepandemia,False,211190
+2017-04-03,2017,4,Hábil,Prepandemia,False,1231398
+2017-04-04,2017,4,Hábil,Prepandemia,False,1270437
+2017-04-05,2017,4,Hábil,Prepandemia,False,1312644
+2017-04-06,2017,4,Hábil,Prepandemia,True,2
+2017-04-07,2017,4,Hábil,Prepandemia,False,1317155
+2017-04-08,2017,4,Sábado,Prepandemia,False,443298
+2017-04-09,2017,4,Domingo,Prepandemia,False,196699
+2017-04-10,2017,4,Hábil,Prepandemia,False,1223958
+2017-04-11,2017,4,Hábil,Prepandemia,False,1283657
+2017-04-12,2017,4,Hábil,Prepandemia,False,1337122
+2017-04-13,2017,4,Hábil,Prepandemia,True,500891
+2017-04-14,2017,4,Hábil,Prepandemia,True,272930
+2017-04-15,2017,4,Sábado,Prepandemia,False,388772
+2017-04-16,2017,4,Domingo,Prepandemia,False,210256
+2017-04-17,2017,4,Hábil,Prepandemia,False,1206542
+2017-04-18,2017,4,Hábil,Prepandemia,False,1241652
+2017-04-19,2017,4,Hábil,Prepandemia,False,1272983
+2017-04-20,2017,4,Hábil,Prepandemia,False,1272609
+2017-04-21,2017,4,Hábil,Prepandemia,False,1230574
+2017-04-22,2017,4,Sábado,Prepandemia,False,485804
+2017-04-23,2017,4,Domingo,Prepandemia,False,246907
+2017-04-24,2017,4,Hábil,Prepandemia,False,1215088
+2017-04-25,2017,4,Hábil,Prepandemia,False,1213865
+2017-04-26,2017,4,Hábil,Prepandemia,False,1257408
+2017-04-27,2017,4,Hábil,Prepandemia,False,1267971
+2017-04-28,2017,4,Hábil,Prepandemia,False,1253929
+2017-04-29,2017,4,Sábado,Prepandemia,False,505272
+2017-04-30,2017,4,Domingo,Prepandemia,False,277661
+2017-05-01,2017,5,Hábil,Prepandemia,True,204710
+2017-05-02,2017,5,Hábil,Prepandemia,False,1247488
+2017-05-03,2017,5,Hábil,Prepandemia,False,1275933
+2017-05-04,2017,5,Hábil,Prepandemia,False,1290190
+2017-05-05,2017,5,Hábil,Prepandemia,False,1289073
+2017-05-06,2017,5,Sábado,Prepandemia,False,523058
+2017-05-07,2017,5,Domingo,Prepandemia,False,214225
+2017-05-08,2017,5,Hábil,Prepandemia,False,1116311
+2017-05-09,2017,5,Hábil,Prepandemia,False,1278642
+2017-05-10,2017,5,Hábil,Prepandemia,False,1386044
+2017-05-11,2017,5,Hábil,Prepandemia,False,1274737
+2017-05-12,2017,5,Hábil,Prepandemia,False,1136831
+2017-05-13,2017,5,Sábado,Prepandemia,False,507619
+2017-05-14,2017,5,Domingo,Prepandemia,False,232152
+2017-05-15,2017,5,Hábil,Prepandemia,False,1228659
+2017-05-16,2017,5,Hábil,Prepandemia,False,1268315
+2017-05-17,2017,5,Hábil,Prepandemia,False,1276860
+2017-05-18,2017,5,Hábil,Prepandemia,False,1235256
+2017-05-19,2017,5,Hábil,Prepandemia,False,1216302
+2017-05-20,2017,5,Sábado,Prepandemia,False,467817
+2017-05-21,2017,5,Domingo,Prepandemia,False,224074
+2017-05-22,2017,5,Hábil,Prepandemia,False,1232424
+2017-05-23,2017,5,Hábil,Prepandemia,False,1285057
+2017-05-24,2017,5,Hábil,Prepandemia,False,1284462
+2017-05-25,2017,5,Hábil,Prepandemia,True,251702
+2017-05-26,2017,5,Hábil,Prepandemia,False,1228975
+2017-05-27,2017,5,Sábado,Prepandemia,False,500022
+2017-05-28,2017,5,Domingo,Prepandemia,False,222110
+2017-05-29,2017,5,Hábil,Prepandemia,False,1209161
+2017-05-30,2017,5,Hábil,Prepandemia,False,1254359
+2017-05-31,2017,5,Hábil,Prepandemia,False,1267758
+2017-06-01,2017,6,Hábil,Prepandemia,False,1233405
+2017-06-02,2017,6,Hábil,Prepandemia,False,1240296
+2017-06-03,2017,6,Sábado,Prepandemia,False,513040
+2017-06-04,2017,6,Domingo,Prepandemia,False,233470
+2017-06-05,2017,6,Hábil,Prepandemia,False,1226338
+2017-06-06,2017,6,Hábil,Prepandemia,False,1251690
+2017-06-07,2017,6,Hábil,Prepandemia,False,1236905
+2017-06-08,2017,6,Hábil,Prepandemia,False,1242290
+2017-06-09,2017,6,Hábil,Prepandemia,False,1250459
+2017-06-10,2017,6,Sábado,Prepandemia,False,520866
+2017-06-11,2017,6,Domingo,Prepandemia,False,253884
+2017-06-12,2017,6,Hábil,Prepandemia,False,1222041
+2017-06-13,2017,6,Hábil,Prepandemia,False,1232087
+2017-06-14,2017,6,Hábil,Prepandemia,False,1278303
+2017-06-15,2017,6,Hábil,Prepandemia,False,1167108
+2017-06-16,2017,6,Hábil,Prepandemia,False,1255844
+2017-06-17,2017,6,Sábado,Prepandemia,False,426555
+2017-06-18,2017,6,Domingo,Prepandemia,False,230326
+2017-06-19,2017,6,Hábil,Prepandemia,False,1209142
+2017-06-20,2017,6,Hábil,Prepandemia,True,280193
+2017-06-21,2017,6,Hábil,Prepandemia,False,1250312
+2017-06-22,2017,6,Hábil,Prepandemia,False,1244572
+2017-06-23,2017,6,Hábil,Prepandemia,False,1242427
+2017-06-24,2017,6,Sábado,Prepandemia,False,488705
+2017-06-25,2017,6,Domingo,Prepandemia,False,236831
+2017-06-26,2017,6,Hábil,Prepandemia,False,1215669
+2017-06-27,2017,6,Hábil,Prepandemia,False,1188029
+2017-06-28,2017,6,Hábil,Prepandemia,False,1278556
+2017-06-29,2017,6,Hábil,Prepandemia,False,1258781
+2017-06-30,2017,6,Hábil,Prepandemia,False,1262910
+2017-07-01,2017,7,Sábado,Prepandemia,False,517625
+2017-07-02,2017,7,Domingo,Prepandemia,False,254198
+2017-07-03,2017,7,Hábil,Prepandemia,False,1214424
+2017-07-04,2017,7,Hábil,Prepandemia,False,1255156
+2017-07-05,2017,7,Hábil,Prepandemia,False,1117701
+2017-07-06,2017,7,Hábil,Prepandemia,False,1241259
+2017-07-07,2017,7,Hábil,Prepandemia,False,1261510
+2017-07-08,2017,7,Sábado,Prepandemia,False,497666
+2017-07-09,2017,7,Domingo,Prepandemia,False,202820
+2017-07-10,2017,7,Hábil,Prepandemia,False,1237436
+2017-07-11,2017,7,Hábil,Prepandemia,False,1279260
+2017-07-12,2017,7,Hábil,Prepandemia,False,1201146
+2017-07-13,2017,7,Hábil,Prepandemia,False,1296190
+2017-07-14,2017,7,Hábil,Prepandemia,False,1251438
+2017-07-15,2017,7,Sábado,Prepandemia,False,494370
+2017-07-16,2017,7,Domingo,Prepandemia,False,282575
+2017-07-17,2017,7,Hábil,Prepandemia,False,1165387
+2017-07-18,2017,7,Hábil,Prepandemia,False,1188515
+2017-07-19,2017,7,Hábil,Prepandemia,False,1187853
+2017-07-20,2017,7,Hábil,Prepandemia,False,1182614
+2017-07-21,2017,7,Hábil,Prepandemia,False,1147028
+2017-07-22,2017,7,Sábado,Prepandemia,False,529468
+2017-07-23,2017,7,Domingo,Prepandemia,False,286747
+2017-07-24,2017,7,Hábil,Prepandemia,False,1064855
+2017-07-25,2017,7,Hábil,Prepandemia,False,1137969
+2017-07-26,2017,7,Hábil,Prepandemia,False,1124904
+2017-07-27,2017,7,Hábil,Prepandemia,False,1113395
+2017-07-28,2017,7,Hábil,Prepandemia,False,1143302
+2017-07-29,2017,7,Sábado,Prepandemia,False,520614
+2017-07-30,2017,7,Domingo,Prepandemia,False,223862
+2017-07-31,2017,7,Hábil,Prepandemia,False,1125329
+2017-08-01,2017,8,Hábil,Prepandemia,False,1142687
+2017-08-02,2017,8,Hábil,Prepandemia,False,1230278
+2017-08-03,2017,8,Hábil,Prepandemia,False,1221646
+2017-08-04,2017,8,Hábil,Prepandemia,False,1238358
+2017-08-05,2017,8,Sábado,Prepandemia,False,530674
+2017-08-06,2017,8,Domingo,Prepandemia,False,278624
+2017-08-07,2017,8,Hábil,Prepandemia,False,1284598
+2017-08-08,2017,8,Hábil,Prepandemia,False,1261984
+2017-08-09,2017,8,Hábil,Prepandemia,False,1291754
+2017-08-10,2017,8,Hábil,Prepandemia,False,1241335
+2017-08-11,2017,8,Hábil,Prepandemia,False,1231057
+2017-08-12,2017,8,Sábado,Prepandemia,False,485011
+2017-08-13,2017,8,Domingo,Prepandemia,False,262831
+2017-08-14,2017,8,Hábil,Prepandemia,False,1251660
+2017-08-15,2017,8,Hábil,Prepandemia,False,1234632
+2017-08-16,2017,8,Hábil,Prepandemia,False,1303085
+2017-08-17,2017,8,Hábil,Prepandemia,False,1301709
+2017-08-18,2017,8,Hábil,Prepandemia,False,1281950
+2017-08-19,2017,8,Sábado,Prepandemia,False,506400
+2017-08-20,2017,8,Domingo,Prepandemia,False,329169
+2017-08-21,2017,8,Hábil,Prepandemia,True,280327
+2017-08-22,2017,8,Hábil,Prepandemia,False,1310458
+2017-08-23,2017,8,Hábil,Prepandemia,False,1227324
+2017-08-24,2017,8,Hábil,Prepandemia,False,1240708
+2017-08-25,2017,8,Hábil,Prepandemia,False,1232718
+2017-08-26,2017,8,Sábado,Prepandemia,False,527077
+2017-08-27,2017,8,Domingo,Prepandemia,False,250185
+2017-08-28,2017,8,Hábil,Prepandemia,False,1271593
+2017-08-29,2017,8,Hábil,Prepandemia,False,1250887
+2017-08-30,2017,8,Hábil,Prepandemia,False,1300091
+2017-08-31,2017,8,Hábil,Prepandemia,False,1291685
+2017-09-01,2017,9,Hábil,Prepandemia,False,1358682
+2017-09-02,2017,9,Sábado,Prepandemia,False,518758
+2017-09-03,2017,9,Domingo,Prepandemia,False,213047
+2017-09-04,2017,9,Hábil,Prepandemia,False,1251827
+2017-09-05,2017,9,Hábil,Prepandemia,False,1310600
+2017-09-06,2017,9,Hábil,Prepandemia,False,1314294
+2017-09-07,2017,9,Hábil,Prepandemia,False,1329729
+2017-09-08,2017,9,Hábil,Prepandemia,False,1300103
+2017-09-09,2017,9,Sábado,Prepandemia,False,471827
+2017-09-10,2017,9,Domingo,Prepandemia,False,184048
+2017-09-11,2017,9,Hábil,Prepandemia,False,1232203
+2017-09-12,2017,9,Hábil,Prepandemia,False,1314067
+2017-09-13,2017,9,Hábil,Prepandemia,False,1312592
+2017-09-14,2017,9,Hábil,Prepandemia,False,1295202
+2017-09-15,2017,9,Hábil,Prepandemia,False,1321219
+2017-09-16,2017,9,Sábado,Prepandemia,False,550071
+2017-09-17,2017,9,Domingo,Prepandemia,False,303643
+2017-09-18,2017,9,Hábil,Prepandemia,False,1272014
+2017-09-19,2017,9,Hábil,Prepandemia,False,1299029
+2017-09-20,2017,9,Hábil,Prepandemia,False,1313151
+2017-09-21,2017,9,Hábil,Prepandemia,False,1096523
+2017-09-22,2017,9,Hábil,Prepandemia,False,1278699
+2017-09-23,2017,9,Sábado,Prepandemia,False,533843
+2017-09-24,2017,9,Domingo,Prepandemia,False,275006
+2017-09-25,2017,9,Hábil,Prepandemia,False,1208698
+2017-09-26,2017,9,Hábil,Prepandemia,False,1280612
+2017-09-27,2017,9,Hábil,Prepandemia,False,1290182
+2017-09-28,2017,9,Hábil,Prepandemia,False,1307120
+2017-09-29,2017,9,Hábil,Prepandemia,False,1304613
+2017-09-30,2017,9,Sábado,Prepandemia,False,524848
+2017-10-01,2017,10,Domingo,Prepandemia,False,264654
+2017-10-02,2017,10,Hábil,Prepandemia,False,1256573
+2017-10-03,2017,10,Hábil,Prepandemia,False,1328605
+2017-10-04,2017,10,Hábil,Prepandemia,False,1355559
+2017-10-05,2017,10,Hábil,Prepandemia,False,1325262
+2017-10-06,2017,10,Hábil,Prepandemia,False,1329341
+2017-10-07,2017,10,Sábado,Prepandemia,False,589641
+2017-10-08,2017,10,Domingo,Prepandemia,False,267572
+2017-10-09,2017,10,Hábil,Prepandemia,False,1276811
+2017-10-10,2017,10,Hábil,Prepandemia,False,1331296
+2017-10-11,2017,10,Hábil,Prepandemia,False,1353991
+2017-10-12,2017,10,Hábil,Prepandemia,False,1328878
+2017-10-13,2017,10,Hábil,Prepandemia,False,1338847
+2017-10-14,2017,10,Sábado,Prepandemia,False,555046
+2017-10-15,2017,10,Domingo,Prepandemia,False,265021
+2017-10-16,2017,10,Hábil,Prepandemia,True,279669
+2017-10-17,2017,10,Hábil,Prepandemia,False,1298909
+2017-10-18,2017,10,Hábil,Prepandemia,False,1317884
+2017-10-19,2017,10,Hábil,Prepandemia,False,1359188
+2017-10-20,2017,10,Hábil,Prepandemia,False,1340334
+2017-10-21,2017,10,Sábado,Prepandemia,False,534671
+2017-10-22,2017,10,Domingo,Prepandemia,False,260114
+2017-10-23,2017,10,Hábil,Prepandemia,False,1275171
+2017-10-24,2017,10,Hábil,Prepandemia,False,1319377
+2017-10-25,2017,10,Hábil,Prepandemia,False,1312563
+2017-10-26,2017,10,Hábil,Prepandemia,False,1328819
+2017-10-27,2017,10,Hábil,Prepandemia,False,1283042
+2017-10-28,2017,10,Sábado,Prepandemia,False,545596
+2017-10-29,2017,10,Domingo,Prepandemia,False,261486
+2017-10-30,2017,10,Hábil,Prepandemia,False,1281792
+2017-10-31,2017,10,Hábil,Prepandemia,False,1307802
+2017-11-01,2017,11,Hábil,Prepandemia,False,1344586
+2017-11-02,2017,11,Hábil,Prepandemia,False,1267609
+2017-11-03,2017,11,Hábil,Prepandemia,False,1343013
+2017-11-04,2017,11,Sábado,Prepandemia,False,483239
+2017-11-05,2017,11,Domingo,Prepandemia,False,274801
+2017-11-06,2017,11,Hábil,Prepandemia,False,1222426
+2017-11-07,2017,11,Hábil,Prepandemia,False,1338095
+2017-11-08,2017,11,Hábil,Prepandemia,False,1351222
+2017-11-09,2017,11,Hábil,Prepandemia,False,1355180
+2017-11-10,2017,11,Hábil,Prepandemia,False,1334336
+2017-11-11,2017,11,Sábado,Prepandemia,False,555141
+2017-11-12,2017,11,Domingo,Prepandemia,False,282038
+2017-11-13,2017,11,Hábil,Prepandemia,False,1271201
+2017-11-14,2017,11,Hábil,Prepandemia,False,1306995
+2017-11-15,2017,11,Hábil,Prepandemia,False,1293809
+2017-11-16,2017,11,Hábil,Prepandemia,False,1333623
+2017-11-17,2017,11,Hábil,Prepandemia,False,1313379
+2017-11-18,2017,11,Sábado,Prepandemia,False,577534
+2017-11-19,2017,11,Domingo,Prepandemia,False,291718
+2017-11-20,2017,11,Hábil,Prepandemia,True,225028
+2017-11-21,2017,11,Hábil,Prepandemia,False,1312464
+2017-11-22,2017,11,Hábil,Prepandemia,False,1321005
+2017-11-23,2017,11,Hábil,Prepandemia,False,1319322
+2017-11-24,2017,11,Hábil,Prepandemia,False,1316181
+2017-11-25,2017,11,Sábado,Prepandemia,False,539463
+2017-11-26,2017,11,Domingo,Prepandemia,False,273023
+2017-11-27,2017,11,Hábil,Prepandemia,False,1245004
+2017-11-28,2017,11,Hábil,Prepandemia,False,1281485
+2017-11-29,2017,11,Hábil,Prepandemia,False,1255759
+2017-11-30,2017,11,Hábil,Prepandemia,False,1286414
+2017-12-01,2017,12,Hábil,Prepandemia,False,1280079
+2017-12-02,2017,12,Sábado,Prepandemia,False,533174
+2017-12-03,2017,12,Domingo,Prepandemia,False,229666
+2017-12-04,2017,12,Hábil,Prepandemia,False,1238455
+2017-12-05,2017,12,Hábil,Prepandemia,False,1305532
+2017-12-06,2017,12,Hábil,Prepandemia,False,1363861
+2017-12-07,2017,12,Hábil,Prepandemia,False,1387470
+2017-12-08,2017,12,Hábil,Prepandemia,True,346480
+2017-12-09,2017,12,Sábado,Prepandemia,False,469448
+2017-12-10,2017,12,Domingo,Prepandemia,False,254992
+2017-12-11,2017,12,Hábil,Prepandemia,False,1298388
+2017-12-12,2017,12,Hábil,Prepandemia,False,1321708
+2017-12-13,2017,12,Hábil,Prepandemia,False,1357922
+2017-12-14,2017,12,Hábil,Prepandemia,False,1314770
+2017-12-15,2017,12,Hábil,Prepandemia,False,1171387
+2017-12-16,2017,12,Sábado,Prepandemia,False,497594
+2017-12-17,2017,12,Domingo,Prepandemia,False,301951
+2017-12-18,2017,12,Hábil,Prepandemia,False,928144
+2017-12-19,2017,12,Hábil,Prepandemia,True,525674
+2017-12-20,2017,12,Hábil,Prepandemia,False,1388437
+2017-12-21,2017,12,Hábil,Prepandemia,False,1371153
+2017-12-22,2017,12,Hábil,Prepandemia,False,1274014
+2017-12-23,2017,12,Sábado,Prepandemia,False,491634
+2017-12-24,2017,12,Domingo,Prepandemia,False,183199
+2017-12-25,2017,12,Hábil,Prepandemia,True,115571
+2017-12-26,2017,12,Hábil,Prepandemia,False,1057194
+2017-12-27,2017,12,Hábil,Prepandemia,False,1113623
+2017-12-28,2017,12,Hábil,Prepandemia,False,808864
+2017-12-29,2017,12,Hábil,Prepandemia,False,944220
+2017-12-30,2017,12,Sábado,Prepandemia,False,346485
+2017-12-31,2017,12,Domingo,Prepandemia,False,154772
+2018-01-01,2018,1,Hábil,Prepandemia,True,108483
+2018-01-02,2018,1,Hábil,Prepandemia,False,898909
+2018-01-03,2018,1,Hábil,Prepandemia,False,970114
+2018-01-04,2018,1,Hábil,Prepandemia,False,929510
+2018-01-05,2018,1,Hábil,Prepandemia,False,950626
+2018-01-06,2018,1,Sábado,Prepandemia,False,401540
+2018-01-07,2018,1,Domingo,Prepandemia,False,205291
+2018-01-08,2018,1,Hábil,Prepandemia,False,956922
+2018-01-09,2018,1,Hábil,Prepandemia,False,967555
+2018-01-10,2018,1,Hábil,Prepandemia,False,973891
+2018-01-11,2018,1,Hábil,Prepandemia,False,931509
+2018-01-12,2018,1,Hábil,Prepandemia,False,916474
+2018-01-13,2018,1,Sábado,Prepandemia,False,358787
+2018-01-14,2018,1,Domingo,Prepandemia,False,188296
+2018-01-15,2018,1,Hábil,Prepandemia,False,961815
+2018-01-16,2018,1,Hábil,Prepandemia,False,972510
+2018-01-17,2018,1,Hábil,Prepandemia,False,956357
+2018-01-18,2018,1,Hábil,Prepandemia,False,961093
+2018-01-19,2018,1,Hábil,Prepandemia,False,948491
+2018-01-20,2018,1,Sábado,Prepandemia,False,381087
+2018-01-21,2018,1,Domingo,Prepandemia,False,203542
+2018-01-22,2018,1,Hábil,Prepandemia,False,899912
+2018-01-23,2018,1,Hábil,Prepandemia,False,920394
+2018-01-24,2018,1,Hábil,Prepandemia,False,973634
+2018-01-25,2018,1,Hábil,Prepandemia,False,981039
+2018-01-26,2018,1,Hábil,Prepandemia,False,952553
+2018-01-27,2018,1,Sábado,Prepandemia,False,380191
+2018-01-28,2018,1,Domingo,Prepandemia,False,202782
+2018-01-29,2018,1,Hábil,Prepandemia,False,946077
+2018-01-30,2018,1,Hábil,Prepandemia,False,988036
+2018-01-31,2018,1,Hábil,Prepandemia,False,976651
+2018-02-01,2018,2,Hábil,Prepandemia,False,1020449
+2018-02-02,2018,2,Hábil,Prepandemia,False,1004893
+2018-02-03,2018,2,Sábado,Prepandemia,False,412616
+2018-02-04,2018,2,Domingo,Prepandemia,False,214122
+2018-02-05,2018,2,Hábil,Prepandemia,False,1022758
+2018-02-06,2018,2,Hábil,Prepandemia,False,1018131
+2018-02-07,2018,2,Hábil,Prepandemia,False,1056180
+2018-02-08,2018,2,Hábil,Prepandemia,False,1045257
+2018-02-09,2018,2,Hábil,Prepandemia,False,991945
+2018-02-10,2018,2,Sábado,Prepandemia,False,409476
+2018-02-11,2018,2,Domingo,Prepandemia,False,232020
+2018-02-12,2018,2,Hábil,Prepandemia,True,243688
+2018-02-13,2018,2,Hábil,Prepandemia,True,239993
+2018-02-14,2018,2,Hábil,Prepandemia,False,1099350
+2018-02-15,2018,2,Hábil,Prepandemia,False,1111911
+2018-02-16,2018,2,Hábil,Prepandemia,False,1085288
+2018-02-17,2018,2,Sábado,Prepandemia,False,414507
+2018-02-18,2018,2,Domingo,Prepandemia,False,207426
+2018-02-19,2018,2,Hábil,Prepandemia,False,1034353
+2018-02-20,2018,2,Hábil,Prepandemia,False,1094042
+2018-02-21,2018,2,Hábil,Prepandemia,False,1085649
+2018-02-22,2018,2,Hábil,Prepandemia,False,1177535
+2018-02-23,2018,2,Hábil,Prepandemia,False,1137707
+2018-02-24,2018,2,Sábado,Prepandemia,False,442470
+2018-02-25,2018,2,Domingo,Prepandemia,False,225987
+2018-02-26,2018,2,Hábil,Prepandemia,False,1125015
+2018-02-27,2018,2,Hábil,Prepandemia,False,1140102
+2018-02-28,2018,2,Hábil,Prepandemia,False,1169376
+2018-03-01,2018,3,Hábil,Prepandemia,False,1183888
+2018-03-02,2018,3,Hábil,Prepandemia,False,1187870
+2018-03-03,2018,3,Sábado,Prepandemia,False,467045
+2018-03-04,2018,3,Domingo,Prepandemia,False,239851
+2018-03-05,2018,3,Hábil,Prepandemia,False,1189478
+2018-03-06,2018,3,Hábil,Prepandemia,False,1212422
+2018-03-07,2018,3,Hábil,Prepandemia,False,1254499
+2018-03-08,2018,3,Hábil,Prepandemia,False,1363659
+2018-03-09,2018,3,Hábil,Prepandemia,False,1259669
+2018-03-10,2018,3,Sábado,Prepandemia,False,518969
+2018-03-11,2018,3,Domingo,Prepandemia,False,264746
+2018-03-12,2018,3,Hábil,Prepandemia,False,1267879
+2018-03-13,2018,3,Hábil,Prepandemia,False,1164150
+2018-03-14,2018,3,Hábil,Prepandemia,False,1232136
+2018-03-15,2018,3,Hábil,Prepandemia,False,1323859
+2018-03-16,2018,3,Hábil,Prepandemia,False,1314180
+2018-03-17,2018,3,Sábado,Prepandemia,False,510641
+2018-03-18,2018,3,Domingo,Prepandemia,False,210955
+2018-03-19,2018,3,Hábil,Prepandemia,False,1183530
+2018-03-20,2018,3,Hábil,Prepandemia,False,1345674
+2018-03-21,2018,3,Hábil,Prepandemia,False,1320344
+2018-03-22,2018,3,Hábil,Prepandemia,False,1342234
+2018-03-23,2018,3,Hábil,Prepandemia,False,1312253
+2018-03-24,2018,3,Sábado,Prepandemia,False,534391
+2018-03-25,2018,3,Domingo,Prepandemia,False,272367
+2018-03-26,2018,3,Hábil,Prepandemia,False,1332509
+2018-03-27,2018,3,Hábil,Prepandemia,False,1346945
+2018-03-28,2018,3,Hábil,Prepandemia,False,1400144
+2018-03-29,2018,3,Hábil,Prepandemia,True,554355
+2018-03-30,2018,3,Hábil,Prepandemia,True,289738
+2018-03-31,2018,3,Sábado,Prepandemia,False,414852
+2018-04-01,2018,4,Domingo,Prepandemia,False,237599
+2018-04-02,2018,4,Hábil,Prepandemia,True,257936
+2018-04-03,2018,4,Hábil,Prepandemia,False,1332231
+2018-04-04,2018,4,Hábil,Prepandemia,False,1375701
+2018-04-05,2018,4,Hábil,Prepandemia,False,1400692
+2018-04-06,2018,4,Hábil,Prepandemia,False,1120032
+2018-04-07,2018,4,Sábado,Prepandemia,False,527309
+2018-04-08,2018,4,Domingo,Prepandemia,False,237430
+2018-04-09,2018,4,Hábil,Prepandemia,False,1379146
+2018-04-10,2018,4,Hábil,Prepandemia,False,1394036
+2018-04-11,2018,4,Hábil,Prepandemia,False,1367661
+2018-04-12,2018,4,Hábil,Prepandemia,False,1431432
+2018-04-13,2018,4,Hábil,Prepandemia,False,1394663
+2018-04-14,2018,4,Sábado,Prepandemia,False,591711
+2018-04-15,2018,4,Domingo,Prepandemia,False,290593
+2018-04-16,2018,4,Hábil,Prepandemia,False,1341600
+2018-04-17,2018,4,Hábil,Prepandemia,False,1328298
+2018-04-18,2018,4,Hábil,Prepandemia,False,1354206
+2018-04-19,2018,4,Hábil,Prepandemia,False,1395178
+2018-04-20,2018,4,Hábil,Prepandemia,False,1309222
+2018-04-21,2018,4,Sábado,Prepandemia,False,544300
+2018-04-22,2018,4,Domingo,Prepandemia,False,276993
+2018-04-23,2018,4,Hábil,Prepandemia,False,1308563
+2018-04-24,2018,4,Hábil,Prepandemia,False,1384377
+2018-04-25,2018,4,Hábil,Prepandemia,False,1396348
+2018-04-26,2018,4,Hábil,Prepandemia,False,1370032
+2018-04-27,2018,4,Hábil,Prepandemia,False,1368713
+2018-04-28,2018,4,Sábado,Prepandemia,False,490663
+2018-04-29,2018,4,Domingo,Prepandemia,False,170892
+2018-04-30,2018,4,Hábil,Prepandemia,True,472091
+2018-05-01,2018,5,Hábil,Prepandemia,True,217601
+2018-05-02,2018,5,Hábil,Prepandemia,False,1333583
+2018-05-03,2018,5,Hábil,Prepandemia,False,1405804
+2018-05-04,2018,5,Hábil,Prepandemia,False,1391301
+2018-05-05,2018,5,Sábado,Prepandemia,False,555246
+2018-05-06,2018,5,Domingo,Prepandemia,False,275137
+2018-05-07,2018,5,Hábil,Prepandemia,False,1335531
+2018-05-08,2018,5,Hábil,Prepandemia,False,1317109
+2018-05-09,2018,5,Hábil,Prepandemia,False,1395125
+2018-05-10,2018,5,Hábil,Prepandemia,False,1296309
+2018-05-11,2018,5,Hábil,Prepandemia,False,1324372
+2018-05-12,2018,5,Sábado,Prepandemia,False,599177
+2018-05-13,2018,5,Domingo,Prepandemia,False,292703
+2018-05-14,2018,5,Hábil,Prepandemia,False,1318445
+2018-05-15,2018,5,Hábil,Prepandemia,False,1395431
+2018-05-16,2018,5,Hábil,Prepandemia,False,1121776
+2018-05-17,2018,5,Hábil,Prepandemia,False,1282872
+2018-05-18,2018,5,Hábil,Prepandemia,False,1107765
+2018-05-19,2018,5,Sábado,Prepandemia,False,570033
+2018-05-20,2018,5,Domingo,Prepandemia,False,295625
+2018-05-21,2018,5,Hábil,Prepandemia,False,1324609
+2018-05-22,2018,5,Hábil,Prepandemia,True,405455
+2018-05-23,2018,5,Hábil,Prepandemia,False,1232182
+2018-05-24,2018,5,Hábil,Prepandemia,False,1380794
+2018-05-25,2018,5,Hábil,Prepandemia,True,401504
+2018-05-26,2018,5,Sábado,Prepandemia,False,517219
+2018-05-27,2018,5,Domingo,Prepandemia,False,270464
+2018-05-28,2018,5,Hábil,Prepandemia,False,1291154
+2018-05-29,2018,5,Hábil,Prepandemia,False,1310807
+2018-05-30,2018,5,Hábil,Prepandemia,False,1316839
+2018-05-31,2018,5,Hábil,Prepandemia,False,1359084
+2018-06-01,2018,6,Hábil,Prepandemia,False,1408799
+2018-06-02,2018,6,Sábado,Prepandemia,False,588007
+2018-06-03,2018,6,Domingo,Prepandemia,False,282307
+2018-06-04,2018,6,Hábil,Prepandemia,False,1393114
+2018-06-05,2018,6,Hábil,Prepandemia,False,1368586
+2018-06-06,2018,6,Hábil,Prepandemia,False,1407862
+2018-06-07,2018,6,Hábil,Prepandemia,False,1408187
+2018-06-08,2018,6,Hábil,Prepandemia,False,1410447
+2018-06-09,2018,6,Sábado,Prepandemia,False,608594
+2018-06-10,2018,6,Domingo,Prepandemia,False,269682
+2018-06-11,2018,6,Hábil,Prepandemia,False,1358788
+2018-06-12,2018,6,Hábil,Prepandemia,False,1348566
+2018-06-13,2018,6,Hábil,Prepandemia,False,1551815
+2018-06-14,2018,6,Hábil,Prepandemia,False,1207475
+2018-06-15,2018,6,Hábil,Prepandemia,False,1390793
+2018-06-16,2018,6,Sábado,Prepandemia,False,490893
+2018-06-17,2018,6,Domingo,Prepandemia,False,263102
+2018-06-18,2018,6,Hábil,Prepandemia,False,1363615
+2018-06-19,2018,6,Hábil,Prepandemia,False,1426273
+2018-06-20,2018,6,Hábil,Prepandemia,True,332452
+2018-06-21,2018,6,Hábil,Prepandemia,False,1300575
+2018-06-22,2018,6,Hábil,Prepandemia,False,1403506
+2018-06-23,2018,6,Sábado,Prepandemia,False,585447
+2018-06-24,2018,6,Domingo,Prepandemia,False,275352
+2018-06-25,2018,6,Hábil,Prepandemia,True,4
+2018-06-26,2018,6,Hábil,Prepandemia,False,1302120
+2018-06-27,2018,6,Hábil,Prepandemia,False,1340734
+2018-06-28,2018,6,Hábil,Prepandemia,False,1406839
+2018-06-29,2018,6,Hábil,Prepandemia,False,1401379
+2018-06-30,2018,6,Sábado,Prepandemia,False,468316
+2018-07-01,2018,7,Domingo,Prepandemia,False,249497
+2018-07-02,2018,7,Hábil,Prepandemia,False,1345087
+2018-07-03,2018,7,Hábil,Prepandemia,False,1370986
+2018-07-04,2018,7,Hábil,Prepandemia,False,1375815
+2018-07-05,2018,7,Hábil,Prepandemia,False,1420262
+2018-07-06,2018,7,Hábil,Prepandemia,False,1404049
+2018-07-07,2018,7,Sábado,Prepandemia,False,537671
+2018-07-08,2018,7,Domingo,Prepandemia,False,325475
+2018-07-09,2018,7,Hábil,Prepandemia,True,333125
+2018-07-10,2018,7,Hábil,Prepandemia,False,1388096
+2018-07-11,2018,7,Hábil,Prepandemia,False,1377237
+2018-07-12,2018,7,Hábil,Prepandemia,False,1418235
+2018-07-13,2018,7,Hábil,Prepandemia,False,1403563
+2018-07-14,2018,7,Sábado,Prepandemia,False,607244
+2018-07-15,2018,7,Domingo,Prepandemia,False,311470
+2018-07-16,2018,7,Hábil,Prepandemia,False,1258313
+2018-07-17,2018,7,Hábil,Prepandemia,False,1250907
+2018-07-18,2018,7,Hábil,Prepandemia,False,1249884
+2018-07-19,2018,7,Hábil,Prepandemia,False,1042952
+2018-07-20,2018,7,Hábil,Prepandemia,False,1261186
+2018-07-21,2018,7,Sábado,Prepandemia,False,570607
+2018-07-22,2018,7,Domingo,Prepandemia,False,323549
+2018-07-23,2018,7,Hábil,Prepandemia,False,1156074
+2018-07-24,2018,7,Hábil,Prepandemia,False,1228785
+2018-07-25,2018,7,Hábil,Prepandemia,False,1186093
+2018-07-26,2018,7,Hábil,Prepandemia,False,1157933
+2018-07-27,2018,7,Hábil,Prepandemia,False,1183101
+2018-07-28,2018,7,Sábado,Prepandemia,False,514593
+2018-07-29,2018,7,Domingo,Prepandemia,False,287470
+2018-07-30,2018,7,Hábil,Prepandemia,False,1266653
+2018-07-31,2018,7,Hábil,Prepandemia,False,1300257
+2018-08-01,2018,8,Hábil,Prepandemia,False,1355582
+2018-08-02,2018,8,Hábil,Prepandemia,False,1343187
+2018-08-03,2018,8,Hábil,Prepandemia,False,1304539
+2018-08-04,2018,8,Sábado,Prepandemia,False,599043
+2018-08-05,2018,8,Domingo,Prepandemia,False,308808
+2018-08-06,2018,8,Hábil,Prepandemia,False,1313901
+2018-08-07,2018,8,Hábil,Prepandemia,False,1397961
+2018-08-08,2018,8,Hábil,Prepandemia,False,1565926
+2018-08-09,2018,8,Hábil,Prepandemia,False,1305826
+2018-08-10,2018,8,Hábil,Prepandemia,False,1383132
+2018-08-11,2018,8,Sábado,Prepandemia,False,567288
+2018-08-12,2018,8,Domingo,Prepandemia,False,308056
+2018-08-13,2018,8,Hábil,Prepandemia,False,1354117
+2018-08-14,2018,8,Hábil,Prepandemia,False,1401384
+2018-08-15,2018,8,Hábil,Prepandemia,False,1353912
+2018-08-16,2018,8,Hábil,Prepandemia,False,1402255
+2018-08-17,2018,8,Hábil,Prepandemia,False,1241730
+2018-08-18,2018,8,Sábado,Prepandemia,False,541028
+2018-08-19,2018,8,Domingo,Prepandemia,False,302781
+2018-08-20,2018,8,Hábil,Prepandemia,True,292135
+2018-08-21,2018,8,Hábil,Prepandemia,False,1369405
+2018-08-22,2018,8,Hábil,Prepandemia,False,1393955
+2018-08-23,2018,8,Hábil,Prepandemia,False,1379298
+2018-08-24,2018,8,Hábil,Prepandemia,False,1363046
+2018-08-25,2018,8,Sábado,Prepandemia,False,565316
+2018-08-26,2018,8,Domingo,Prepandemia,False,296257
+2018-08-27,2018,8,Hábil,Prepandemia,False,1341987
+2018-08-28,2018,8,Hábil,Prepandemia,False,1372456
+2018-08-29,2018,8,Hábil,Prepandemia,False,1378066
+2018-08-30,2018,8,Hábil,Prepandemia,False,1447632
+2018-08-31,2018,8,Hábil,Prepandemia,False,767566
+2018-09-01,2018,9,Sábado,Prepandemia,False,538999
+2018-09-02,2018,9,Domingo,Prepandemia,False,284456
+2018-09-03,2018,9,Hábil,Prepandemia,False,1331418
+2018-09-04,2018,9,Hábil,Prepandemia,False,1335159
+2018-09-05,2018,9,Hábil,Prepandemia,False,1351999
+2018-09-06,2018,9,Hábil,Prepandemia,False,1402698
+2018-09-07,2018,9,Hábil,Prepandemia,False,1405041
+2018-09-08,2018,9,Sábado,Prepandemia,False,594574
+2018-09-09,2018,9,Domingo,Prepandemia,False,284710
+2018-09-10,2018,9,Hábil,Prepandemia,False,1309688
+2018-09-11,2018,9,Hábil,Prepandemia,False,1304581
+2018-09-12,2018,9,Hábil,Prepandemia,False,1343400
+2018-09-13,2018,9,Hábil,Prepandemia,False,1391323
+2018-09-14,2018,9,Hábil,Prepandemia,False,1347060
+2018-09-15,2018,9,Sábado,Prepandemia,False,526680
+2018-09-16,2018,9,Domingo,Prepandemia,False,251139
+2018-09-17,2018,9,Hábil,Prepandemia,False,1328472
+2018-09-18,2018,9,Hábil,Prepandemia,False,1348247
+2018-09-19,2018,9,Hábil,Prepandemia,False,1321358
+2018-09-20,2018,9,Hábil,Prepandemia,False,1390625
+2018-09-21,2018,9,Hábil,Prepandemia,False,1241326
+2018-09-22,2018,9,Sábado,Prepandemia,False,500266
+2018-09-23,2018,9,Domingo,Prepandemia,False,268173
+2018-09-24,2018,9,Hábil,Prepandemia,False,1148218
+2018-09-25,2018,9,Hábil,Prepandemia,True,2
+2018-09-26,2018,9,Hábil,Prepandemia,False,1410367
+2018-09-27,2018,9,Hábil,Prepandemia,False,1373635
+2018-09-28,2018,9,Hábil,Prepandemia,False,1368928
+2018-09-29,2018,9,Sábado,Prepandemia,False,381897
+2018-09-30,2018,9,Domingo,Prepandemia,False,256708
+2018-10-01,2018,10,Hábil,Prepandemia,False,1335096
+2018-10-02,2018,10,Hábil,Prepandemia,False,1343318
+2018-10-03,2018,10,Hábil,Prepandemia,False,1379311
+2018-10-04,2018,10,Hábil,Prepandemia,False,1430670
+2018-10-05,2018,10,Hábil,Prepandemia,False,1430155
+2018-10-06,2018,10,Sábado,Prepandemia,False,656250
+2018-10-07,2018,10,Domingo,Prepandemia,False,302095
+2018-10-08,2018,10,Hábil,Prepandemia,False,1334946
+2018-10-09,2018,10,Hábil,Prepandemia,False,1367703
+2018-10-10,2018,10,Hábil,Prepandemia,False,1379267
+2018-10-11,2018,10,Hábil,Prepandemia,False,1372754
+2018-10-12,2018,10,Hábil,Prepandemia,False,1346773
+2018-10-13,2018,10,Sábado,Prepandemia,False,555623
+2018-10-14,2018,10,Domingo,Prepandemia,False,307559
+2018-10-15,2018,10,Hábil,Prepandemia,True,288790
+2018-10-16,2018,10,Hábil,Prepandemia,False,1350352
+2018-10-17,2018,10,Hábil,Prepandemia,False,1331087
+2018-10-18,2018,10,Hábil,Prepandemia,False,1375299
+2018-10-19,2018,10,Hábil,Prepandemia,False,1343923
+2018-10-20,2018,10,Sábado,Prepandemia,False,544627
+2018-10-21,2018,10,Domingo,Prepandemia,False,250375
+2018-10-22,2018,10,Hábil,Prepandemia,False,1279106
+2018-10-23,2018,10,Hábil,Prepandemia,False,1360143
+2018-10-24,2018,10,Hábil,Prepandemia,False,1322434
+2018-10-25,2018,10,Hábil,Prepandemia,False,1356137
+2018-10-26,2018,10,Hábil,Prepandemia,False,1330947
+2018-10-27,2018,10,Sábado,Prepandemia,False,552382
+2018-10-28,2018,10,Domingo,Prepandemia,False,291913
+2018-10-29,2018,10,Hábil,Prepandemia,False,1280075
+2018-10-30,2018,10,Hábil,Prepandemia,False,1287024
+2018-10-31,2018,10,Hábil,Prepandemia,True,313083
+2018-11-01,2018,11,Hábil,Prepandemia,False,1357213
+2018-11-02,2018,11,Hábil,Prepandemia,False,1336902
+2018-11-03,2018,11,Sábado,Prepandemia,False,570153
+2018-11-04,2018,11,Domingo,Prepandemia,False,290235
+2018-11-05,2018,11,Hábil,Prepandemia,False,1308930
+2018-11-06,2018,11,Hábil,Prepandemia,False,1290532
+2018-11-07,2018,11,Hábil,Prepandemia,False,1395315
+2018-11-08,2018,11,Hábil,Prepandemia,False,1384840
+2018-11-09,2018,11,Hábil,Prepandemia,False,1351392
+2018-11-10,2018,11,Sábado,Prepandemia,False,320015
+2018-11-11,2018,11,Domingo,Prepandemia,False,233969
+2018-11-12,2018,11,Hábil,Prepandemia,False,1275537
+2018-11-13,2018,11,Hábil,Prepandemia,False,1294210
+2018-11-14,2018,11,Hábil,Prepandemia,False,1350744
+2018-11-15,2018,11,Hábil,Prepandemia,False,1293109
+2018-11-16,2018,11,Hábil,Prepandemia,False,1323634
+2018-11-17,2018,11,Sábado,Prepandemia,False,567346
+2018-11-18,2018,11,Domingo,Prepandemia,False,305982
+2018-11-19,2018,11,Hábil,Prepandemia,True,301564
+2018-11-20,2018,11,Hábil,Prepandemia,False,1329406
+2018-11-21,2018,11,Hábil,Prepandemia,False,1348594
+2018-11-22,2018,11,Hábil,Prepandemia,False,1308647
+2018-11-23,2018,11,Hábil,Prepandemia,False,1324500
+2018-11-24,2018,11,Sábado,Prepandemia,False,453682
+2018-11-25,2018,11,Domingo,Prepandemia,False,249275
+2018-11-26,2018,11,Hábil,Prepandemia,False,1285451
+2018-11-27,2018,11,Hábil,Prepandemia,False,1155052
+2018-11-28,2018,11,Hábil,Prepandemia,False,1350170
+2018-11-29,2018,11,Hábil,Prepandemia,False,872387
+2018-11-30,2018,11,Hábil,Prepandemia,True,1
+2018-12-01,2018,12,Sábado,Prepandemia,True,5
+2018-12-02,2018,12,Domingo,Prepandemia,False,208635
+2018-12-03,2018,12,Hábil,Prepandemia,False,1279037
+2018-12-04,2018,12,Hábil,Prepandemia,False,1318064
+2018-12-05,2018,12,Hábil,Prepandemia,False,1368707
+2018-12-06,2018,12,Hábil,Prepandemia,False,1369648
+2018-12-07,2018,12,Hábil,Prepandemia,False,1329433
+2018-12-08,2018,12,Sábado,Prepandemia,False,475236
+2018-12-09,2018,12,Domingo,Prepandemia,False,264469
+2018-12-10,2018,12,Hábil,Prepandemia,False,1290287
+2018-12-11,2018,12,Hábil,Prepandemia,False,1227444
+2018-12-12,2018,12,Hábil,Prepandemia,False,1336807
+2018-12-13,2018,12,Hábil,Prepandemia,False,1190171
+2018-12-14,2018,12,Hábil,Prepandemia,False,1265717
+2018-12-15,2018,12,Sábado,Prepandemia,False,578982
+2018-12-16,2018,12,Domingo,Prepandemia,False,289550
+2018-12-17,2018,12,Hábil,Prepandemia,False,1172330
+2018-12-18,2018,12,Hábil,Prepandemia,False,1341827
+2018-12-19,2018,12,Hábil,Prepandemia,False,1328029
+2018-12-20,2018,12,Hábil,Prepandemia,False,1203573
+2018-12-21,2018,12,Hábil,Prepandemia,False,1316151
+2018-12-22,2018,12,Sábado,Prepandemia,False,565760
+2018-12-23,2018,12,Domingo,Prepandemia,False,281807
+2018-12-24,2018,12,Hábil,Prepandemia,True,327598
+2018-12-25,2018,12,Hábil,Prepandemia,True,115365
+2018-12-26,2018,12,Hábil,Prepandemia,False,1057340
+2018-12-27,2018,12,Hábil,Prepandemia,False,1099215
+2018-12-28,2018,12,Hábil,Prepandemia,False,1040850
+2018-12-29,2018,12,Sábado,Prepandemia,False,379614
+2018-12-30,2018,12,Domingo,Prepandemia,False,219976
+2018-12-31,2018,12,Hábil,Prepandemia,True,269710
+2019-01-01,2019,1,Hábil,Prepandemia,True,102173
+2019-01-02,2019,1,Hábil,Prepandemia,False,836802
+2019-01-03,2019,1,Hábil,Prepandemia,False,996409
+2019-01-04,2019,1,Hábil,Prepandemia,False,996049
+2019-01-05,2019,1,Sábado,Prepandemia,False,396647
+2019-01-06,2019,1,Domingo,Prepandemia,False,188425
+2019-01-07,2019,1,Hábil,Prepandemia,False,970274
+2019-01-08,2019,1,Hábil,Prepandemia,False,980746
+2019-01-09,2019,1,Hábil,Prepandemia,False,984150
+2019-01-10,2019,1,Hábil,Prepandemia,False,1018846
+2019-01-11,2019,1,Hábil,Prepandemia,False,994952
+2019-01-12,2019,1,Sábado,Prepandemia,False,397409
+2019-01-13,2019,1,Domingo,Prepandemia,False,183503
+2019-01-14,2019,1,Hábil,Prepandemia,False,946262
+2019-01-15,2019,1,Hábil,Prepandemia,False,915536
+2019-01-16,2019,1,Hábil,Prepandemia,False,984692
+2019-01-17,2019,1,Hábil,Prepandemia,False,989057
+2019-01-18,2019,1,Hábil,Prepandemia,False,971025
+2019-01-19,2019,1,Sábado,Prepandemia,False,383773
+2019-01-20,2019,1,Domingo,Prepandemia,False,216698
+2019-01-21,2019,1,Hábil,Prepandemia,False,936048
+2019-01-22,2019,1,Hábil,Prepandemia,False,885592
+2019-01-23,2019,1,Hábil,Prepandemia,False,957828
+2019-01-24,2019,1,Hábil,Prepandemia,False,956799
+2019-01-25,2019,1,Hábil,Prepandemia,False,889240
+2019-01-26,2019,1,Sábado,Prepandemia,False,374623
+2019-01-27,2019,1,Domingo,Prepandemia,False,198569
+2019-01-28,2019,1,Hábil,Prepandemia,False,894880
+2019-01-29,2019,1,Hábil,Prepandemia,False,877227
+2019-01-30,2019,1,Hábil,Prepandemia,False,942983
+2019-01-31,2019,1,Hábil,Prepandemia,False,482142
+2019-02-01,2019,2,Hábil,Prepandemia,False,987492
+2019-02-02,2019,2,Sábado,Prepandemia,False,412739
+2019-02-03,2019,2,Domingo,Prepandemia,False,230194
+2019-02-04,2019,2,Hábil,Prepandemia,False,1017429
+2019-02-05,2019,2,Hábil,Prepandemia,False,1053391
+2019-02-06,2019,2,Hábil,Prepandemia,False,1071843
+2019-02-07,2019,2,Hábil,Prepandemia,False,1078101
+2019-02-08,2019,2,Hábil,Prepandemia,False,1030018
+2019-02-09,2019,2,Sábado,Prepandemia,False,395079
+2019-02-10,2019,2,Domingo,Prepandemia,False,206622
+2019-02-11,2019,2,Hábil,Prepandemia,False,1009257
+2019-02-12,2019,2,Hábil,Prepandemia,False,1042703
+2019-02-13,2019,2,Hábil,Prepandemia,False,1123826
+2019-02-14,2019,2,Hábil,Prepandemia,False,1097110
+2019-02-15,2019,2,Hábil,Prepandemia,False,1070610
+2019-02-16,2019,2,Sábado,Prepandemia,False,412957
+2019-02-17,2019,2,Domingo,Prepandemia,False,214543
+2019-02-18,2019,2,Hábil,Prepandemia,False,1043089
+2019-02-19,2019,2,Hábil,Prepandemia,False,1063443
+2019-02-20,2019,2,Hábil,Prepandemia,False,1023036
+2019-02-21,2019,2,Hábil,Prepandemia,False,1035354
+2019-02-22,2019,2,Hábil,Prepandemia,False,1034231
+2019-02-23,2019,2,Sábado,Prepandemia,False,382448
+2019-02-24,2019,2,Domingo,Prepandemia,False,222317
+2019-02-25,2019,2,Hábil,Prepandemia,False,1079756
+2019-02-26,2019,2,Hábil,Prepandemia,False,1116379
+2019-02-27,2019,2,Hábil,Prepandemia,False,1092319
+2019-02-28,2019,2,Hábil,Prepandemia,False,1130663
+2019-03-01,2019,3,Hábil,Prepandemia,False,1070185
+2019-03-02,2019,3,Sábado,Prepandemia,False,410054
+2019-03-03,2019,3,Domingo,Prepandemia,False,222061
+2019-03-04,2019,3,Hábil,Prepandemia,True,224257
+2019-03-05,2019,3,Hábil,Prepandemia,True,249411
+2019-03-06,2019,3,Hábil,Prepandemia,False,1147419
+2019-03-07,2019,3,Hábil,Prepandemia,False,1172518
+2019-03-08,2019,3,Hábil,Prepandemia,False,1306474
+2019-03-09,2019,3,Sábado,Prepandemia,False,459291
+2019-03-10,2019,3,Domingo,Prepandemia,False,231974
+2019-03-11,2019,3,Hábil,Prepandemia,False,1201361
+2019-03-12,2019,3,Hábil,Prepandemia,False,1183016
+2019-03-13,2019,3,Hábil,Prepandemia,False,1249771
+2019-03-14,2019,3,Hábil,Prepandemia,False,1288492
+2019-03-15,2019,3,Hábil,Prepandemia,False,1246592
+2019-03-16,2019,3,Sábado,Prepandemia,False,477738
+2019-03-17,2019,3,Domingo,Prepandemia,False,245176
+2019-03-18,2019,3,Hábil,Prepandemia,False,1233209
+2019-03-19,2019,3,Hábil,Prepandemia,False,1268348
+2019-03-20,2019,3,Hábil,Prepandemia,False,1275092
+2019-03-21,2019,3,Hábil,Prepandemia,False,1303961
+2019-03-22,2019,3,Hábil,Prepandemia,False,1266443
+2019-03-23,2019,3,Sábado,Prepandemia,False,494485
+2019-03-24,2019,3,Domingo,Prepandemia,False,343696
+2019-03-25,2019,3,Hábil,Prepandemia,False,1288488
+2019-03-26,2019,3,Hábil,Prepandemia,False,1284180
+2019-03-27,2019,3,Hábil,Prepandemia,False,1305241
+2019-03-28,2019,3,Hábil,Prepandemia,False,1336444
+2019-03-29,2019,3,Hábil,Prepandemia,False,1295712
+2019-03-30,2019,3,Sábado,Prepandemia,False,489001
+2019-03-31,2019,3,Domingo,Prepandemia,False,238372
+2019-04-01,2019,4,Hábil,Prepandemia,False,1290974
+2019-04-02,2019,4,Hábil,Prepandemia,True,277946
+2019-04-03,2019,4,Hábil,Prepandemia,False,1355843
+2019-04-04,2019,4,Hábil,Prepandemia,False,1357377
+2019-04-05,2019,4,Hábil,Prepandemia,False,1376196
+2019-04-06,2019,4,Sábado,Prepandemia,False,538417
+2019-04-07,2019,4,Domingo,Prepandemia,False,266289
+2019-04-08,2019,4,Hábil,Prepandemia,False,1322026
+2019-04-09,2019,4,Hábil,Prepandemia,False,1335077
+2019-04-10,2019,4,Hábil,Prepandemia,False,1344144
+2019-04-11,2019,4,Hábil,Prepandemia,False,1416175
+2019-04-12,2019,4,Hábil,Prepandemia,False,1354360
+2019-04-13,2019,4,Sábado,Prepandemia,False,562150
+2019-04-14,2019,4,Domingo,Prepandemia,False,252291
+2019-04-15,2019,4,Hábil,Prepandemia,False,1317906
+2019-04-16,2019,4,Hábil,Prepandemia,False,1327200
+2019-04-17,2019,4,Hábil,Prepandemia,False,1338212
+2019-04-18,2019,4,Hábil,Prepandemia,True,550875
+2019-04-19,2019,4,Hábil,Prepandemia,True,290004
+2019-04-20,2019,4,Sábado,Prepandemia,False,408532
+2019-04-21,2019,4,Domingo,Prepandemia,False,226386
+2019-04-22,2019,4,Hábil,Prepandemia,False,1249891
+2019-04-23,2019,4,Hábil,Prepandemia,False,1304092
+2019-04-24,2019,4,Hábil,Prepandemia,False,1301332
+2019-04-25,2019,4,Hábil,Prepandemia,False,1311997
+2019-04-26,2019,4,Hábil,Prepandemia,False,1244219
+2019-04-27,2019,4,Sábado,Prepandemia,False,492572
+2019-04-28,2019,4,Domingo,Prepandemia,False,250271
+2019-04-29,2019,4,Hábil,Prepandemia,False,1349311
+2019-05-02,2019,5,Hábil,Prepandemia,False,1375828
+2019-05-03,2019,5,Hábil,Prepandemia,False,1345012
+2019-05-04,2019,5,Sábado,Prepandemia,False,537085
+2019-05-05,2019,5,Domingo,Prepandemia,False,206127
+2019-05-06,2019,5,Hábil,Prepandemia,False,1314805
+2019-05-07,2019,5,Hábil,Prepandemia,False,1358922
+2019-05-08,2019,5,Hábil,Prepandemia,False,1342681
+2019-05-09,2019,5,Hábil,Prepandemia,False,1276726
+2019-05-10,2019,5,Hábil,Prepandemia,False,1323645
+2019-05-11,2019,5,Sábado,Prepandemia,False,533544
+2019-05-12,2019,5,Domingo,Prepandemia,False,277254
+2019-05-13,2019,5,Hábil,Prepandemia,False,1294289
+2019-05-14,2019,5,Hábil,Prepandemia,False,1317315
+2019-05-15,2019,5,Hábil,Prepandemia,False,1310467
+2019-05-16,2019,5,Hábil,Prepandemia,False,1316548
+2019-05-17,2019,5,Hábil,Prepandemia,False,1298278
+2019-05-18,2019,5,Sábado,Prepandemia,False,490082
+2019-05-19,2019,5,Domingo,Prepandemia,False,244420
+2019-05-20,2019,5,Hábil,Prepandemia,False,1273326
+2019-05-21,2019,5,Hábil,Prepandemia,False,1287661
+2019-05-22,2019,5,Hábil,Prepandemia,False,1311286
+2019-05-23,2019,5,Hábil,Prepandemia,False,1305664
+2019-05-24,2019,5,Hábil,Prepandemia,False,1302852
+2019-05-25,2019,5,Sábado,Prepandemia,False,287867
+2019-05-26,2019,5,Domingo,Prepandemia,False,256659
+2019-05-27,2019,5,Hábil,Prepandemia,False,1263630
+2019-05-28,2019,5,Hábil,Prepandemia,False,1371462
+2019-05-30,2019,5,Hábil,Prepandemia,False,1309861
+2019-05-31,2019,5,Hábil,Prepandemia,False,1296709
+2019-06-01,2019,6,Sábado,Prepandemia,False,519702
+2019-06-02,2019,6,Domingo,Prepandemia,False,258016
+2019-06-03,2019,6,Hábil,Prepandemia,False,1317461
+2019-06-04,2019,6,Hábil,Prepandemia,False,1311704
+2019-06-05,2019,6,Hábil,Prepandemia,False,1317221
+2019-06-06,2019,6,Hábil,Prepandemia,False,1337874
+2019-06-07,2019,6,Hábil,Prepandemia,False,1333330
+2019-06-08,2019,6,Sábado,Prepandemia,False,549724
+2019-06-09,2019,6,Domingo,Prepandemia,False,269812
+2019-06-10,2019,6,Hábil,Prepandemia,False,1272609
+2019-06-11,2019,6,Hábil,Prepandemia,False,1303164
+2019-06-12,2019,6,Hábil,Prepandemia,False,1260022
+2019-06-13,2019,6,Hábil,Prepandemia,False,1264327
+2019-06-14,2019,6,Hábil,Prepandemia,False,1319651
+2019-06-15,2019,6,Sábado,Prepandemia,False,428644
+2019-06-16,2019,6,Domingo,Prepandemia,True,17953
+2019-06-17,2019,6,Hábil,Prepandemia,True,187712
+2019-06-18,2019,6,Hábil,Prepandemia,False,1224652
+2019-06-19,2019,6,Hábil,Prepandemia,False,1356660
+2019-06-20,2019,6,Hábil,Prepandemia,True,305558
+2019-06-21,2019,6,Hábil,Prepandemia,False,1309671
+2019-06-22,2019,6,Sábado,Prepandemia,False,525073
+2019-06-23,2019,6,Domingo,Prepandemia,False,226197
+2019-06-24,2019,6,Hábil,Prepandemia,False,1246611
+2019-06-25,2019,6,Hábil,Prepandemia,False,1264070
+2019-06-26,2019,6,Hábil,Prepandemia,False,1258914
+2019-06-27,2019,6,Hábil,Prepandemia,False,1245016
+2019-06-28,2019,6,Hábil,Prepandemia,False,1276042
+2019-06-29,2019,6,Sábado,Prepandemia,False,513105
+2019-06-30,2019,6,Domingo,Prepandemia,False,250680
+2019-07-01,2019,7,Hábil,Prepandemia,False,1261458
+2019-07-02,2019,7,Hábil,Prepandemia,False,1264485
+2019-07-03,2019,7,Hábil,Prepandemia,False,1293465
+2019-07-04,2019,7,Hábil,Prepandemia,False,1312327
+2019-07-05,2019,7,Hábil,Prepandemia,False,1316945
+2019-07-06,2019,7,Sábado,Prepandemia,False,541955
+2019-07-07,2019,7,Domingo,Prepandemia,False,289005
+2019-07-08,2019,7,Hábil,Prepandemia,True,472333
+2019-07-09,2019,7,Hábil,Prepandemia,True,295570
+2019-07-10,2019,7,Hábil,Prepandemia,False,1344177
+2019-07-11,2019,7,Hábil,Prepandemia,False,1329207
+2019-07-12,2019,7,Hábil,Prepandemia,False,1288742
+2019-07-13,2019,7,Sábado,Prepandemia,False,579083
+2019-07-14,2019,7,Domingo,Prepandemia,False,306827
+2019-07-15,2019,7,Hábil,Prepandemia,False,1252532
+2019-07-16,2019,7,Hábil,Prepandemia,False,1228359
+2019-07-17,2019,7,Hábil,Prepandemia,False,1303864
+2019-07-18,2019,7,Hábil,Prepandemia,False,1299889
+2019-07-19,2019,7,Hábil,Prepandemia,False,1293741
+2019-07-20,2019,7,Sábado,Prepandemia,False,546373
+2019-07-21,2019,7,Domingo,Prepandemia,False,261165
+2019-07-22,2019,7,Hábil,Prepandemia,False,1094111
+2019-07-23,2019,7,Hábil,Prepandemia,False,1151421
+2019-07-24,2019,7,Hábil,Prepandemia,False,1167063
+2019-07-25,2019,7,Hábil,Prepandemia,False,1149051
+2019-07-26,2019,7,Hábil,Prepandemia,False,1113411
+2019-07-27,2019,7,Sábado,Prepandemia,False,555814
+2019-07-28,2019,7,Domingo,Prepandemia,False,291246
+2019-07-29,2019,7,Hábil,Prepandemia,False,1093280
+2019-07-30,2019,7,Hábil,Prepandemia,False,1159924
+2019-07-31,2019,7,Hábil,Prepandemia,False,1169962
+2019-08-01,2019,8,Hábil,Prepandemia,False,1190171
+2019-08-02,2019,8,Hábil,Prepandemia,False,1183234
+2019-08-03,2019,8,Sábado,Prepandemia,False,554241
+2019-08-04,2019,8,Domingo,Prepandemia,False,306819
+2019-08-05,2019,8,Hábil,Prepandemia,False,1239612
+2019-08-06,2019,8,Hábil,Prepandemia,False,1281560
+2019-08-07,2019,8,Hábil,Prepandemia,False,1328255
+2019-08-08,2019,8,Hábil,Prepandemia,False,1238149
+2019-08-09,2019,8,Hábil,Prepandemia,False,1243443
+2019-08-10,2019,8,Sábado,Prepandemia,False,530947
+2019-08-11,2019,8,Domingo,Prepandemia,False,268640
+2019-08-12,2019,8,Hábil,Prepandemia,False,1274923
+2019-08-13,2019,8,Hábil,Prepandemia,False,1311284
+2019-08-14,2019,8,Hábil,Prepandemia,False,1232719
+2019-08-15,2019,8,Hábil,Prepandemia,False,1318959
+2019-08-16,2019,8,Hábil,Prepandemia,False,1318114
+2019-08-17,2019,8,Sábado,Prepandemia,False,415336
+2019-08-18,2019,8,Domingo,Prepandemia,False,306895
+2019-08-19,2019,8,Hábil,Prepandemia,True,419302
+2019-08-20,2019,8,Hábil,Prepandemia,False,1298920
+2019-08-21,2019,8,Hábil,Prepandemia,False,1303129
+2019-08-22,2019,8,Hábil,Prepandemia,False,1367380
+2019-08-23,2019,8,Hábil,Prepandemia,False,1318698
+2019-08-24,2019,8,Sábado,Prepandemia,False,581578
+2019-08-25,2019,8,Domingo,Prepandemia,False,271015
+2019-08-26,2019,8,Hábil,Prepandemia,False,1270787
+2019-08-27,2019,8,Hábil,Prepandemia,False,1310425
+2019-08-28,2019,8,Hábil,Prepandemia,False,1243903
+2019-08-29,2019,8,Hábil,Prepandemia,False,1243824
+2019-08-30,2019,8,Hábil,Prepandemia,False,1321687
+2019-08-31,2019,8,Sábado,Prepandemia,False,543470
+2019-09-01,2019,9,Domingo,Prepandemia,False,271354
+2019-09-02,2019,9,Hábil,Prepandemia,False,1250931
+2019-09-03,2019,9,Hábil,Prepandemia,False,1309921
+2019-09-04,2019,9,Hábil,Prepandemia,False,1348071
+2019-09-05,2019,9,Hábil,Prepandemia,False,1354029
+2019-09-06,2019,9,Hábil,Prepandemia,False,938807
+2019-09-07,2019,9,Sábado,Prepandemia,False,552157
+2019-09-08,2019,9,Domingo,Prepandemia,False,263377
+2019-09-09,2019,9,Hábil,Prepandemia,False,1226391
+2019-09-10,2019,9,Hábil,Prepandemia,False,1321255
+2019-09-11,2019,9,Hábil,Prepandemia,False,1216089
+2019-09-12,2019,9,Hábil,Prepandemia,False,1342214
+2019-09-13,2019,9,Hábil,Prepandemia,False,1334808
+2019-09-14,2019,9,Sábado,Prepandemia,False,555204
+2019-09-15,2019,9,Domingo,Prepandemia,False,290058
+2019-09-16,2019,9,Hábil,Prepandemia,False,1281970
+2019-09-17,2019,9,Hábil,Prepandemia,False,1292380
+2019-09-18,2019,9,Hábil,Prepandemia,False,1325114
+2019-09-19,2019,9,Hábil,Prepandemia,False,1330549
+2019-09-20,2019,9,Hábil,Prepandemia,False,1320337
+2019-09-21,2019,9,Sábado,Prepandemia,False,533715
+2019-09-22,2019,9,Domingo,Prepandemia,False,292809
+2019-09-23,2019,9,Hábil,Prepandemia,False,1226079
+2019-09-24,2019,9,Hábil,Prepandemia,False,1295117
+2019-09-25,2019,9,Hábil,Prepandemia,False,1302472
+2019-09-26,2019,9,Hábil,Prepandemia,False,1331641
+2019-09-27,2019,9,Hábil,Prepandemia,False,1321093
+2019-09-28,2019,9,Sábado,Prepandemia,False,563536
+2019-09-29,2019,9,Domingo,Prepandemia,False,294317
+2019-09-30,2019,9,Hábil,Prepandemia,False,1222386
+2019-10-01,2019,10,Hábil,Prepandemia,False,1223429
+2019-10-02,2019,10,Hábil,Prepandemia,False,1344934
+2019-10-03,2019,10,Hábil,Prepandemia,False,1360238
+2019-10-04,2019,10,Hábil,Prepandemia,False,1311735
+2019-10-05,2019,10,Sábado,Prepandemia,False,603354
+2019-10-06,2019,10,Domingo,Prepandemia,False,315491
+2019-10-07,2019,10,Hábil,Prepandemia,False,1334814
+2019-10-08,2019,10,Hábil,Prepandemia,False,1346114
+2019-10-09,2019,10,Hábil,Prepandemia,False,1316934
+2019-10-10,2019,10,Hábil,Prepandemia,False,1352865
+2019-10-11,2019,10,Hábil,Prepandemia,False,1246002
+2019-10-12,2019,10,Sábado,Prepandemia,True,243475
+2019-10-13,2019,10,Domingo,Prepandemia,False,303669
+2019-10-14,2019,10,Hábil,Prepandemia,True,427124
+2019-10-15,2019,10,Hábil,Prepandemia,False,1317597
+2019-10-16,2019,10,Hábil,Prepandemia,False,1340665
+2019-10-17,2019,10,Hábil,Prepandemia,False,1284120
+2019-10-18,2019,10,Hábil,Prepandemia,False,1376196
+2019-10-19,2019,10,Sábado,Prepandemia,False,664021
+2019-10-20,2019,10,Domingo,Prepandemia,False,265281
+2019-10-21,2019,10,Hábil,Prepandemia,False,1252004
+2019-10-22,2019,10,Hábil,Prepandemia,False,1301458
+2019-10-23,2019,10,Hábil,Prepandemia,False,1328325
+2019-10-24,2019,10,Hábil,Prepandemia,False,1365621
+2019-10-25,2019,10,Hábil,Prepandemia,False,1322995
+2019-10-26,2019,10,Sábado,Prepandemia,False,508093
+2019-10-27,2019,10,Domingo,Prepandemia,False,258109
+2019-10-28,2019,10,Hábil,Prepandemia,False,1191021
+2019-10-29,2019,10,Hábil,Prepandemia,False,1315976
+2019-10-30,2019,10,Hábil,Prepandemia,False,1305714
+2019-10-31,2019,10,Hábil,Prepandemia,False,1363461
+2019-11-01,2019,11,Hábil,Prepandemia,False,1271341
+2019-11-02,2019,11,Sábado,Prepandemia,False,471037
+2019-11-03,2019,11,Domingo,Prepandemia,False,286497
+2019-11-04,2019,11,Hábil,Prepandemia,False,1200195
+2019-11-05,2019,11,Hábil,Prepandemia,False,1322515
+2019-11-06,2019,11,Hábil,Prepandemia,False,1275918
+2019-11-07,2019,11,Hábil,Prepandemia,False,1360304
+2019-11-08,2019,11,Hábil,Prepandemia,False,1342154
+2019-11-09,2019,11,Sábado,Prepandemia,False,560483
+2019-11-10,2019,11,Domingo,Prepandemia,False,290924
+2019-11-11,2019,11,Hábil,Prepandemia,False,1305781
+2019-11-12,2019,11,Hábil,Prepandemia,False,1297072
+2019-11-13,2019,11,Hábil,Prepandemia,False,1304573
+2019-11-14,2019,11,Hábil,Prepandemia,False,1320977
+2019-11-15,2019,11,Hábil,Prepandemia,False,1301724
+2019-11-16,2019,11,Sábado,Prepandemia,False,502815
+2019-11-17,2019,11,Domingo,Prepandemia,False,291829
+2019-11-18,2019,11,Hábil,Prepandemia,True,280700
+2019-11-19,2019,11,Hábil,Prepandemia,False,1285851
+2019-11-20,2019,11,Hábil,Prepandemia,False,1062392
+2019-11-21,2019,11,Hábil,Prepandemia,False,1310013
+2019-11-22,2019,11,Hábil,Prepandemia,False,1303717
+2019-11-23,2019,11,Sábado,Prepandemia,False,520728
+2019-11-24,2019,11,Domingo,Prepandemia,False,262093
+2019-11-25,2019,11,Hábil,Prepandemia,False,1215438
+2019-11-26,2019,11,Hábil,Prepandemia,False,1257264
+2019-11-27,2019,11,Hábil,Prepandemia,False,1260486
+2019-11-28,2019,11,Hábil,Prepandemia,False,1297211
+2019-11-29,2019,11,Hábil,Prepandemia,False,1140647
+2019-11-30,2019,11,Sábado,Prepandemia,False,556207
+2019-12-01,2019,12,Domingo,Prepandemia,False,284852
+2019-12-02,2019,12,Hábil,Prepandemia,False,1244249
+2019-12-03,2019,12,Hábil,Prepandemia,False,1211153
+2019-12-04,2019,12,Hábil,Prepandemia,False,1283653
+2019-12-05,2019,12,Hábil,Prepandemia,False,1308731
+2019-12-06,2019,12,Hábil,Prepandemia,False,1302992
+2019-12-07,2019,12,Sábado,Prepandemia,False,585851
+2019-12-08,2019,12,Domingo,Prepandemia,False,273988
+2019-12-09,2019,12,Hábil,Prepandemia,False,1269399
+2019-12-10,2019,12,Hábil,Prepandemia,False,1335037
+2019-12-11,2019,12,Hábil,Prepandemia,False,1224754
+2019-12-12,2019,12,Hábil,Prepandemia,False,1321347
+2019-12-13,2019,12,Hábil,Prepandemia,False,1260093
+2019-12-14,2019,12,Sábado,Prepandemia,False,527448
+2019-12-15,2019,12,Domingo,Prepandemia,False,253846
+2019-12-16,2019,12,Hábil,Prepandemia,False,1286601
+2019-12-17,2019,12,Hábil,Prepandemia,False,1358601
+2019-12-18,2019,12,Hábil,Prepandemia,False,1292803
+2019-12-19,2019,12,Hábil,Prepandemia,False,1339819
+2019-12-20,2019,12,Hábil,Prepandemia,False,1280914
+2019-12-21,2019,12,Sábado,Prepandemia,False,588140
+2019-12-22,2019,12,Domingo,Prepandemia,False,293945
+2019-12-23,2019,12,Hábil,Prepandemia,False,1196521
+2019-12-24,2019,12,Hábil,Prepandemia,True,377031
+2019-12-25,2019,12,Hábil,Prepandemia,True,115460
+2019-12-26,2019,12,Hábil,Prepandemia,False,1064407
+2019-12-27,2019,12,Hábil,Prepandemia,False,1080310
+2019-12-28,2019,12,Sábado,Prepandemia,False,408094
+2019-12-29,2019,12,Domingo,Prepandemia,False,213081
+2019-12-30,2019,12,Hábil,Prepandemia,False,865096
+2019-12-31,2019,12,Hábil,Prepandemia,True,307615
+2020-01-01,2020,1,Hábil,Prepandemia,True,109974
+2020-01-02,2020,1,Hábil,Prepandemia,False,927080
+2020-01-03,2020,1,Hábil,Prepandemia,False,968953
+2020-01-04,2020,1,Sábado,Prepandemia,False,397700
+2020-01-05,2020,1,Domingo,Prepandemia,False,211988
+2020-01-06,2020,1,Hábil,Prepandemia,False,990436
+2020-01-07,2020,1,Hábil,Prepandemia,False,1011702
+2020-01-08,2020,1,Hábil,Prepandemia,False,996506
+2020-01-09,2020,1,Hábil,Prepandemia,False,1001753
+2020-01-10,2020,1,Hábil,Prepandemia,False,991589
+2020-01-11,2020,1,Sábado,Prepandemia,False,395037
+2020-01-12,2020,1,Domingo,Prepandemia,False,210639
+2020-01-13,2020,1,Hábil,Prepandemia,False,974353
+2020-01-14,2020,1,Hábil,Prepandemia,False,931131
+2020-01-15,2020,1,Hábil,Prepandemia,False,926238
+2020-01-16,2020,1,Hábil,Prepandemia,False,1023451
+2020-01-17,2020,1,Hábil,Prepandemia,False,964770
+2020-01-18,2020,1,Sábado,Prepandemia,False,336634
+2020-01-19,2020,1,Domingo,Prepandemia,False,167325
+2020-01-20,2020,1,Hábil,Prepandemia,False,765751
+2020-01-21,2020,1,Hábil,Prepandemia,False,774069
+2020-01-22,2020,1,Hábil,Prepandemia,False,809448
+2020-01-23,2020,1,Hábil,Prepandemia,False,806111
+2020-01-24,2020,1,Hábil,Prepandemia,False,781782
+2020-01-25,2020,1,Sábado,Prepandemia,False,300722
+2020-01-26,2020,1,Domingo,Prepandemia,False,171000
+2020-01-27,2020,1,Hábil,Prepandemia,False,796466
+2020-01-28,2020,1,Hábil,Prepandemia,False,817704
+2020-01-29,2020,1,Hábil,Prepandemia,False,805250
+2020-01-30,2020,1,Hábil,Prepandemia,False,835770
+2020-01-31,2020,1,Hábil,Prepandemia,False,817263
+2020-02-01,2020,2,Sábado,Prepandemia,False,331100
+2020-02-02,2020,2,Domingo,Prepandemia,False,169664
+2020-02-03,2020,2,Hábil,Prepandemia,False,951776
+2020-02-04,2020,2,Hábil,Prepandemia,False,971508
+2020-02-05,2020,2,Hábil,Prepandemia,False,985078
+2020-02-06,2020,2,Hábil,Prepandemia,False,986887
+2020-02-07,2020,2,Hábil,Prepandemia,False,959843
+2020-02-08,2020,2,Sábado,Prepandemia,False,420764
+2020-02-09,2020,2,Domingo,Prepandemia,False,230086
+2020-02-10,2020,2,Hábil,Prepandemia,False,1035204
+2020-02-11,2020,2,Hábil,Prepandemia,False,1123044
+2020-02-12,2020,2,Hábil,Prepandemia,False,1092781
+2020-02-13,2020,2,Hábil,Prepandemia,False,1070715
+2020-02-14,2020,2,Hábil,Prepandemia,False,1043956
+2020-02-15,2020,2,Sábado,Prepandemia,False,416518
+2020-02-16,2020,2,Domingo,Prepandemia,False,207806
+2020-02-17,2020,2,Hábil,Prepandemia,False,997984
+2020-02-18,2020,2,Hábil,Prepandemia,False,1058227
+2020-02-19,2020,2,Hábil,Prepandemia,False,1110110
+2020-02-20,2020,2,Hábil,Prepandemia,False,1092168
+2020-02-21,2020,2,Hábil,Prepandemia,False,1070044
+2020-02-22,2020,2,Sábado,Prepandemia,False,414114
+2020-02-23,2020,2,Domingo,Prepandemia,False,235417
+2020-02-24,2020,2,Hábil,Prepandemia,True,270008
+2020-02-25,2020,2,Hábil,Prepandemia,True,240567
+2020-02-26,2020,2,Hábil,Prepandemia,False,1089072
+2020-02-27,2020,2,Hábil,Prepandemia,False,1119445
+2020-02-28,2020,2,Hábil,Prepandemia,False,1123792
+2020-02-29,2020,2,Sábado,Prepandemia,False,450534
+2020-03-01,2020,3,Domingo,Prepandemia,False,218016
+2020-03-02,2020,3,Hábil,Prepandemia,False,1076987
+2020-03-03,2020,3,Hábil,Prepandemia,False,1118806
+2020-03-04,2020,3,Hábil,Prepandemia,False,1135479
+2020-03-05,2020,3,Hábil,Prepandemia,False,1164013
+2020-03-06,2020,3,Hábil,Prepandemia,False,1141886
+2020-03-07,2020,3,Sábado,Prepandemia,False,478154
+2020-03-08,2020,3,Domingo,Prepandemia,False,232414
+2020-03-09,2020,3,Hábil,Prepandemia,False,1255832
+2020-03-10,2020,3,Hábil,Prepandemia,False,1202398
+2020-03-11,2020,3,Hábil,Prepandemia,False,1041336
+2020-03-12,2020,3,Hábil,Prepandemia,False,1129217
+2020-03-13,2020,3,Hábil,Prepandemia,False,1069155
+2020-03-14,2020,3,Sábado,Prepandemia,False,302305
+2020-03-15,2020,3,Domingo,Prepandemia,False,147093
+2020-03-16,2020,3,Hábil,Prepandemia,False,608855
+2020-03-17,2020,3,Hábil,Prepandemia,True,441360
+2020-03-18,2020,3,Hábil,Prepandemia,True,335797
+2020-03-19,2020,3,Hábil,Prepandemia,True,163776
+2020-03-20,2020,3,Hábil,Restricciones 2020,False,32303
+2020-03-21,2020,3,Sábado,Restricciones 2020,False,13787
+2020-03-22,2020,3,Domingo,Restricciones 2020,False,7541
+2020-03-23,2020,3,Hábil,Restricciones 2020,False,8178
+2020-03-24,2020,3,Hábil,Restricciones 2020,False,7098
+2020-03-25,2020,3,Hábil,Restricciones 2020,False,23419
+2020-03-26,2020,3,Hábil,Restricciones 2020,False,22154
+2020-03-27,2020,3,Hábil,Restricciones 2020,False,22566
+2020-03-28,2020,3,Sábado,Restricciones 2020,False,11427
+2020-03-29,2020,3,Domingo,Restricciones 2020,False,5979
+2020-03-30,2020,3,Hábil,Restricciones 2020,False,19842
+2020-03-31,2020,3,Hábil,Restricciones 2020,False,8494
+2020-04-01,2020,4,Hábil,Restricciones 2020,False,23310
+2020-04-02,2020,4,Hábil,Restricciones 2020,False,22688
+2020-04-03,2020,4,Hábil,Restricciones 2020,False,25884
+2020-04-04,2020,4,Sábado,Restricciones 2020,False,13745
+2020-04-05,2020,4,Domingo,Restricciones 2020,False,7441
+2020-04-06,2020,4,Hábil,Restricciones 2020,False,27165
+2020-04-07,2020,4,Hábil,Restricciones 2020,False,27049
+2020-04-08,2020,4,Hábil,Restricciones 2020,False,28566
+2020-04-09,2020,4,Hábil,Restricciones 2020,False,17155
+2020-04-10,2020,4,Hábil,Restricciones 2020,False,10000
+2020-04-11,2020,4,Sábado,Restricciones 2020,False,13238
+2020-04-12,2020,4,Domingo,Restricciones 2020,False,7385
+2020-04-13,2020,4,Hábil,Restricciones 2020,False,34447
+2020-04-14,2020,4,Hábil,Restricciones 2020,False,32844
+2020-04-15,2020,4,Hábil,Restricciones 2020,False,35753
+2020-04-16,2020,4,Hábil,Restricciones 2020,False,36749
+2020-04-17,2020,4,Hábil,Restricciones 2020,False,38571
+2020-04-18,2020,4,Sábado,Restricciones 2020,False,17011
+2020-04-19,2020,4,Domingo,Restricciones 2020,False,8464
+2020-04-20,2020,4,Hábil,Restricciones 2020,False,40522
+2020-04-21,2020,4,Hábil,Restricciones 2020,False,40396
+2020-04-22,2020,4,Hábil,Restricciones 2020,False,42631
+2020-04-23,2020,4,Hábil,Restricciones 2020,False,41997
+2020-04-24,2020,4,Hábil,Restricciones 2020,False,44000
+2020-04-25,2020,4,Sábado,Restricciones 2020,False,18513
+2020-04-26,2020,4,Domingo,Restricciones 2020,False,8888
+2020-04-27,2020,4,Hábil,Restricciones 2020,False,46825
+2020-04-28,2020,4,Hábil,Restricciones 2020,False,39373
+2020-04-29,2020,4,Hábil,Restricciones 2020,False,49518
+2020-04-30,2020,4,Hábil,Restricciones 2020,False,52782
+2020-05-01,2020,5,Hábil,Restricciones 2020,False,12107
+2020-05-02,2020,5,Sábado,Restricciones 2020,False,21026
+2020-05-03,2020,5,Domingo,Restricciones 2020,False,9898
+2020-05-04,2020,5,Hábil,Restricciones 2020,False,52152
+2020-05-05,2020,5,Hábil,Restricciones 2020,False,51783
+2020-05-06,2020,5,Hábil,Restricciones 2020,False,54791
+2020-05-07,2020,5,Hábil,Restricciones 2020,False,55146
+2020-05-08,2020,5,Hábil,Restricciones 2020,False,58078
+2020-05-09,2020,5,Sábado,Restricciones 2020,False,24283
+2020-05-10,2020,5,Domingo,Restricciones 2020,False,11127
+2020-05-11,2020,5,Hábil,Restricciones 2020,False,58744
+2020-05-12,2020,5,Hábil,Restricciones 2020,False,59304
+2020-05-13,2020,5,Hábil,Restricciones 2020,False,61041
+2020-05-14,2020,5,Hábil,Restricciones 2020,False,62675
+2020-05-15,2020,5,Hábil,Restricciones 2020,False,63371
+2020-05-16,2020,5,Sábado,Restricciones 2020,False,26481
+2020-05-17,2020,5,Domingo,Restricciones 2020,False,11714
+2020-05-18,2020,5,Hábil,Restricciones 2020,False,65108
+2020-05-19,2020,5,Hábil,Restricciones 2020,False,63604
+2020-05-20,2020,5,Hábil,Restricciones 2020,False,64646
+2020-05-21,2020,5,Hábil,Restricciones 2020,False,63351
+2020-05-22,2020,5,Hábil,Restricciones 2020,False,65574
+2020-05-23,2020,5,Sábado,Restricciones 2020,False,27120
+2020-05-24,2020,5,Domingo,Restricciones 2020,False,11818
+2020-05-25,2020,5,Hábil,Restricciones 2020,False,13768
+2020-05-26,2020,5,Hábil,Restricciones 2020,False,58511
+2020-05-27,2020,5,Hábil,Restricciones 2020,False,59228
+2020-05-28,2020,5,Hábil,Restricciones 2020,False,60119
+2020-05-29,2020,5,Hábil,Restricciones 2020,False,60255
+2020-05-30,2020,5,Sábado,Restricciones 2020,False,21866
+2020-05-31,2020,5,Domingo,Restricciones 2020,False,10481
+2020-06-01,2020,6,Hábil,Restricciones 2020,False,56426
+2020-06-02,2020,6,Hábil,Restricciones 2020,False,57762
+2020-06-03,2020,6,Hábil,Restricciones 2020,False,58976
+2020-06-04,2020,6,Hábil,Restricciones 2020,False,58957
+2020-06-05,2020,6,Hábil,Restricciones 2020,False,62234
+2020-06-06,2020,6,Sábado,Restricciones 2020,False,25234
+2020-06-07,2020,6,Domingo,Restricciones 2020,False,11526
+2020-06-08,2020,6,Hábil,Restricciones 2020,False,63284
+2020-06-09,2020,6,Hábil,Restricciones 2020,False,62627
+2020-06-10,2020,6,Hábil,Restricciones 2020,False,63676
+2020-06-11,2020,6,Hábil,Restricciones 2020,False,66118
+2020-06-12,2020,6,Hábil,Restricciones 2020,False,66645
+2020-06-13,2020,6,Sábado,Restricciones 2020,False,27752
+2020-06-14,2020,6,Domingo,Restricciones 2020,False,11674
+2020-06-15,2020,6,Hábil,Restricciones 2020,False,17343
+2020-06-16,2020,6,Hábil,Restricciones 2020,False,66017
+2020-06-17,2020,6,Hábil,Restricciones 2020,False,63150
+2020-06-18,2020,6,Hábil,Restricciones 2020,False,62255
+2020-06-19,2020,6,Hábil,Restricciones 2020,False,57156
+2020-06-20,2020,6,Sábado,Restricciones 2020,False,18792
+2020-06-21,2020,6,Domingo,Restricciones 2020,False,10857
+2020-06-22,2020,6,Hábil,Restricciones 2020,False,55026
+2020-06-23,2020,6,Hábil,Restricciones 2020,False,55792
+2020-06-24,2020,6,Hábil,Restricciones 2020,False,56223
+2020-06-25,2020,6,Hábil,Restricciones 2020,False,57120
+2020-06-26,2020,6,Hábil,Restricciones 2020,False,57129
+2020-06-27,2020,6,Sábado,Restricciones 2020,False,24890
+2020-06-28,2020,6,Domingo,Restricciones 2020,False,10967
+2020-06-29,2020,6,Hábil,Restricciones 2020,False,52605
+2020-06-30,2020,6,Hábil,Restricciones 2020,False,53676
+2020-07-01,2020,7,Hábil,Restricciones 2020,False,42426
+2020-07-02,2020,7,Hábil,Restricciones 2020,False,45244
+2020-07-03,2020,7,Hábil,Restricciones 2020,False,48088
+2020-07-04,2020,7,Sábado,Restricciones 2020,False,21197
+2020-07-05,2020,7,Domingo,Restricciones 2020,False,10326
+2020-07-06,2020,7,Hábil,Restricciones 2020,False,49948
+2020-07-07,2020,7,Hábil,Restricciones 2020,False,50518
+2020-07-08,2020,7,Hábil,Restricciones 2020,False,52029
+2020-07-09,2020,7,Hábil,Restricciones 2020,False,15786
+2020-07-10,2020,7,Hábil,Restricciones 2020,False,18069
+2020-07-11,2020,7,Sábado,Restricciones 2020,False,21525
+2020-07-12,2020,7,Domingo,Restricciones 2020,False,10509
+2020-07-13,2020,7,Hábil,Restricciones 2020,False,52875
+2020-07-14,2020,7,Hábil,Restricciones 2020,False,51290
+2020-07-15,2020,7,Hábil,Restricciones 2020,False,52806
+2020-07-16,2020,7,Hábil,Restricciones 2020,False,51635
+2020-07-17,2020,7,Hábil,Restricciones 2020,False,54645
+2020-07-18,2020,7,Sábado,Restricciones 2020,False,23803
+2020-07-19,2020,7,Domingo,Restricciones 2020,False,11607
+2020-07-20,2020,7,Hábil,Restricciones 2020,False,56135
+2020-07-21,2020,7,Hábil,Restricciones 2020,False,55605
+2020-07-22,2020,7,Hábil,Restricciones 2020,False,57303
+2020-07-23,2020,7,Hábil,Restricciones 2020,False,56720
+2020-07-24,2020,7,Hábil,Restricciones 2020,False,59866
+2020-07-25,2020,7,Sábado,Restricciones 2020,False,25844
+2020-07-26,2020,7,Domingo,Restricciones 2020,False,11878
+2020-07-27,2020,7,Hábil,Restricciones 2020,False,60221
+2020-07-28,2020,7,Hábil,Restricciones 2020,False,59555
+2020-07-29,2020,7,Hábil,Restricciones 2020,False,61228
+2020-07-30,2020,7,Hábil,Restricciones 2020,False,61159
+2020-07-31,2020,7,Hábil,Restricciones 2020,False,63293
+2020-08-01,2020,8,Sábado,Restricciones 2020,False,28630
+2020-08-02,2020,8,Domingo,Restricciones 2020,False,12493
+2020-08-03,2020,8,Hábil,Restricciones 2020,False,63418
+2020-08-04,2020,8,Hábil,Restricciones 2020,False,63778
+2020-08-05,2020,8,Hábil,Restricciones 2020,False,65452
+2020-08-06,2020,8,Hábil,Restricciones 2020,False,65332
+2020-08-07,2020,8,Hábil,Restricciones 2020,False,65660
+2020-08-08,2020,8,Sábado,Restricciones 2020,False,29937
+2020-08-09,2020,8,Domingo,Restricciones 2020,False,12541
+2020-08-10,2020,8,Hábil,Restricciones 2020,False,67366
+2020-08-11,2020,8,Hábil,Restricciones 2020,False,69883
+2020-08-12,2020,8,Hábil,Restricciones 2020,False,69112
+2020-08-13,2020,8,Hábil,Restricciones 2020,False,69370
+2020-08-14,2020,8,Hábil,Restricciones 2020,False,71427
+2020-08-15,2020,8,Sábado,Restricciones 2020,False,31789
+2020-08-16,2020,8,Domingo,Restricciones 2020,False,13949
+2020-08-17,2020,8,Hábil,Restricciones 2020,False,19522
+2020-08-18,2020,8,Hábil,Restricciones 2020,False,60689
+2020-08-19,2020,8,Hábil,Restricciones 2020,False,67765
+2020-08-20,2020,8,Hábil,Restricciones 2020,False,69640
+2020-08-21,2020,8,Hábil,Restricciones 2020,False,72475
+2020-08-22,2020,8,Sábado,Restricciones 2020,False,32885
+2020-08-23,2020,8,Domingo,Restricciones 2020,False,14009
+2020-08-24,2020,8,Hábil,Restricciones 2020,False,70481
+2020-08-25,2020,8,Hábil,Restricciones 2020,False,70587
+2020-08-26,2020,8,Hábil,Restricciones 2020,False,70532
+2020-08-27,2020,8,Hábil,Restricciones 2020,False,76453
+2020-08-28,2020,8,Hábil,Restricciones 2020,False,70707
+2020-08-29,2020,8,Sábado,Restricciones 2020,False,32004
+2020-08-30,2020,8,Domingo,Restricciones 2020,False,15233
+2020-08-31,2020,8,Hábil,Restricciones 2020,False,77576
+2020-09-01,2020,9,Hábil,Restricciones 2020,False,76007
+2020-09-02,2020,9,Hábil,Restricciones 2020,False,67011
+2020-09-03,2020,9,Hábil,Restricciones 2020,False,81204
+2020-09-04,2020,9,Hábil,Restricciones 2020,False,92285
+2020-09-05,2020,9,Sábado,Restricciones 2020,False,38973
+2020-09-06,2020,9,Domingo,Restricciones 2020,False,16473
+2020-09-07,2020,9,Hábil,Restricciones 2020,False,80324
+2020-09-08,2020,9,Hábil,Restricciones 2020,False,80758
+2020-09-09,2020,9,Hábil,Restricciones 2020,False,80523
+2020-09-10,2020,9,Hábil,Restricciones 2020,False,80972
+2020-09-11,2020,9,Hábil,Restricciones 2020,False,81511
+2020-09-12,2020,9,Sábado,Restricciones 2020,False,39773
+2020-09-13,2020,9,Domingo,Restricciones 2020,False,17508
+2020-09-14,2020,9,Hábil,Restricciones 2020,False,82033
+2020-09-15,2020,9,Hábil,Restricciones 2020,False,85288
+2020-09-16,2020,9,Hábil,Restricciones 2020,False,84820
+2020-09-17,2020,9,Hábil,Restricciones 2020,False,89422
+2020-09-18,2020,9,Hábil,Restricciones 2020,False,88439
+2020-09-19,2020,9,Sábado,Restricciones 2020,False,42602
+2020-09-20,2020,9,Domingo,Restricciones 2020,False,18516
+2020-09-21,2020,9,Hábil,Restricciones 2020,False,84412
+2020-09-22,2020,9,Hábil,Restricciones 2020,False,86596
+2020-09-23,2020,9,Hábil,Restricciones 2020,False,88519
+2020-09-24,2020,9,Hábil,Restricciones 2020,False,88657
+2020-09-25,2020,9,Hábil,Restricciones 2020,False,88842
+2020-09-26,2020,9,Sábado,Restricciones 2020,False,34820
+2020-09-27,2020,9,Domingo,Restricciones 2020,False,17094
+2020-09-28,2020,9,Hábil,Restricciones 2020,False,84759
+2020-09-29,2020,9,Hábil,Restricciones 2020,False,92183
+2020-09-30,2020,9,Hábil,Restricciones 2020,False,91911
+2020-10-01,2020,10,Hábil,Restricciones 2020,False,95167
+2020-10-02,2020,10,Hábil,Restricciones 2020,False,102037
+2020-10-03,2020,10,Sábado,Restricciones 2020,False,46996
+2020-10-04,2020,10,Domingo,Restricciones 2020,False,18567
+2020-10-05,2020,10,Hábil,Restricciones 2020,False,95140
+2020-10-06,2020,10,Hábil,Restricciones 2020,False,97359
+2020-10-07,2020,10,Hábil,Restricciones 2020,False,102501
+2020-10-08,2020,10,Hábil,Restricciones 2020,False,100445
+2020-10-09,2020,10,Hábil,Restricciones 2020,False,103346
+2020-10-10,2020,10,Sábado,Restricciones 2020,False,52417
+2020-10-11,2020,10,Domingo,Restricciones 2020,False,21028
+2020-10-12,2020,10,Hábil,Restricciones 2020,False,30206
+2020-10-13,2020,10,Hábil,Restricciones 2020,False,105492
+2020-10-14,2020,10,Hábil,Restricciones 2020,False,108232
+2020-10-15,2020,10,Hábil,Restricciones 2020,False,104468
+2020-10-16,2020,10,Hábil,Restricciones 2020,False,111751
+2020-10-17,2020,10,Sábado,Restricciones 2020,False,55506
+2020-10-18,2020,10,Domingo,Restricciones 2020,False,25488
+2020-10-19,2020,10,Hábil,Restricciones 2020,False,98018
+2020-10-20,2020,10,Hábil,Restricciones 2020,False,94835
+2020-10-21,2020,10,Hábil,Restricciones 2020,False,108476
+2020-10-22,2020,10,Hábil,Restricciones 2020,False,95291
+2020-10-23,2020,10,Hábil,Restricciones 2020,False,116342
+2020-10-24,2020,10,Sábado,Restricciones 2020,False,56535
+2020-10-25,2020,10,Domingo,Restricciones 2020,False,19368
+2020-10-26,2020,10,Hábil,Restricciones 2020,False,108790
+2020-10-27,2020,10,Hábil,Restricciones 2020,False,113634
+2020-10-28,2020,10,Hábil,Restricciones 2020,False,112173
+2020-10-29,2020,10,Hábil,Restricciones 2020,False,122177
+2020-10-30,2020,10,Hábil,Restricciones 2020,False,125494
+2020-10-31,2020,10,Sábado,Restricciones 2020,False,61468
+2020-11-01,2020,11,Domingo,Restricciones 2020,False,27952
+2020-11-02,2020,11,Hábil,Restricciones 2020,False,113444
+2020-11-03,2020,11,Hábil,Restricciones 2020,False,119639
+2020-11-04,2020,11,Hábil,Restricciones 2020,False,123207
+2020-11-05,2020,11,Hábil,Restricciones 2020,False,127129
+2020-11-06,2020,11,Hábil,Restricciones 2020,False,128517
+2020-11-07,2020,11,Sábado,Restricciones 2020,False,70375
+2020-11-08,2020,11,Domingo,Restricciones 2020,False,32593
+2020-11-09,2020,11,Hábil,Restricciones 2020,False,126257
+2020-11-10,2020,11,Hábil,Restricciones 2020,False,131627
+2020-11-11,2020,11,Hábil,Restricciones 2020,False,131157
+2020-11-12,2020,11,Hábil,Restricciones 2020,False,133233
+2020-11-13,2020,11,Hábil,Restricciones 2020,False,134857
+2020-11-14,2020,11,Sábado,Restricciones 2020,False,70386
+2020-11-15,2020,11,Domingo,Restricciones 2020,False,33342
+2020-11-16,2020,11,Hábil,Restricciones 2020,False,130964
+2020-11-17,2020,11,Hábil,Restricciones 2020,False,142786
+2020-11-18,2020,11,Hábil,Restricciones 2020,False,136531
+2020-11-19,2020,11,Hábil,Restricciones 2020,False,151969
+2020-11-20,2020,11,Hábil,Restricciones 2020,False,148936
+2020-11-21,2020,11,Sábado,Restricciones 2020,False,78396
+2020-11-22,2020,11,Domingo,Restricciones 2020,False,36102
+2020-11-23,2020,11,Hábil,Restricciones 2020,False,40593
+2020-11-24,2020,11,Hábil,Restricciones 2020,False,144430
+2020-11-25,2020,11,Hábil,Restricciones 2020,False,138807
+2020-11-26,2020,11,Hábil,Restricciones 2020,False,149286
+2020-11-27,2020,11,Hábil,Restricciones 2020,False,151022
+2020-11-28,2020,11,Sábado,Restricciones 2020,False,70635
+2020-11-29,2020,11,Domingo,Restricciones 2020,False,35339
+2020-11-30,2020,11,Hábil,Restricciones 2020,False,134071
+2020-12-01,2020,12,Hábil,Restricciones 2020,False,156996
+2020-12-02,2020,12,Hábil,Restricciones 2020,False,158858
+2020-12-03,2020,12,Hábil,Restricciones 2020,False,179535
+2020-12-04,2020,12,Hábil,Restricciones 2020,False,187543
+2020-12-05,2020,12,Sábado,Restricciones 2020,False,106114
+2020-12-06,2020,12,Domingo,Restricciones 2020,False,48501
+2020-12-07,2020,12,Hábil,Restricciones 2020,False,62145
+2020-12-08,2020,12,Hábil,Restricciones 2020,False,52393
+2020-12-09,2020,12,Hábil,Restricciones 2020,False,189382
+2020-12-10,2020,12,Hábil,Restricciones 2020,False,199529
+2020-12-11,2020,12,Hábil,Restricciones 2020,False,190301
+2020-12-12,2020,12,Sábado,Restricciones 2020,False,105429
+2020-12-13,2020,12,Domingo,Restricciones 2020,False,42584
+2020-12-14,2020,12,Hábil,Restricciones 2020,False,183375
+2020-12-15,2020,12,Hábil,Restricciones 2020,False,182384
+2020-12-16,2020,12,Hábil,Restricciones 2020,False,194298
+2020-12-17,2020,12,Hábil,Restricciones 2020,False,196374
+2020-12-18,2020,12,Hábil,Restricciones 2020,False,210120
+2020-12-19,2020,12,Sábado,Restricciones 2020,False,123485
+2020-12-20,2020,12,Domingo,Restricciones 2020,False,56330
+2020-12-21,2020,12,Hábil,Restricciones 2020,False,221203
+2020-12-22,2020,12,Hábil,Restricciones 2020,False,192433
+2020-12-23,2020,12,Hábil,Restricciones 2020,False,219411
+2020-12-24,2020,12,Hábil,Restricciones 2020,False,93237
+2020-12-25,2020,12,Hábil,Restricciones 2020,False,23341
+2020-12-26,2020,12,Sábado,Restricciones 2020,False,82533
+2020-12-27,2020,12,Domingo,Restricciones 2020,False,44064
+2020-12-28,2020,12,Hábil,Restricciones 2020,False,184434
+2020-12-29,2020,12,Hábil,Restricciones 2020,False,201798
+2020-12-30,2020,12,Hábil,Restricciones 2020,False,179777
+2020-12-31,2020,12,Hábil,Restricciones 2020,False,82062
+2021-01-01,2021,1,Hábil,Recuperación 2021,False,22591
+2021-01-02,2021,1,Sábado,Recuperación 2021,False,73252
+2021-01-03,2021,1,Domingo,Recuperación 2021,False,41610
+2021-01-04,2021,1,Hábil,Recuperación 2021,False,166811
+2021-01-05,2021,1,Hábil,Recuperación 2021,False,170293
+2021-01-06,2021,1,Hábil,Recuperación 2021,False,171605
+2021-01-07,2021,1,Hábil,Recuperación 2021,False,174010
+2021-01-08,2021,1,Hábil,Recuperación 2021,False,173757
+2021-01-09,2021,1,Sábado,Recuperación 2021,False,92191
+2021-01-10,2021,1,Domingo,Recuperación 2021,False,42910
+2021-01-11,2021,1,Hábil,Recuperación 2021,False,139277
+2021-01-12,2021,1,Hábil,Recuperación 2021,False,177482
+2021-01-13,2021,1,Hábil,Recuperación 2021,False,174625
+2021-01-14,2021,1,Hábil,Recuperación 2021,False,173630
+2021-01-15,2021,1,Hábil,Recuperación 2021,False,167617
+2021-01-16,2021,1,Sábado,Recuperación 2021,False,87824
+2021-01-17,2021,1,Domingo,Recuperación 2021,False,47261
+2021-01-18,2021,1,Hábil,Recuperación 2021,False,170201
+2021-01-19,2021,1,Hábil,Recuperación 2021,False,172754
+2021-01-20,2021,1,Hábil,Recuperación 2021,False,174099
+2021-01-21,2021,1,Hábil,Recuperación 2021,False,171361
+2021-01-22,2021,1,Hábil,Recuperación 2021,False,174944
+2021-01-23,2021,1,Sábado,Recuperación 2021,False,92150
+2021-01-24,2021,1,Domingo,Recuperación 2021,False,43264
+2021-01-25,2021,1,Hábil,Recuperación 2021,False,150555
+2021-01-26,2021,1,Hábil,Recuperación 2021,False,164907
+2021-01-27,2021,1,Hábil,Recuperación 2021,False,174307
+2021-01-28,2021,1,Hábil,Recuperación 2021,False,178300
+2021-01-29,2021,1,Hábil,Recuperación 2021,False,174525
+2021-01-30,2021,1,Sábado,Recuperación 2021,False,80474
+2021-01-31,2021,1,Domingo,Recuperación 2021,False,41251
+2021-02-01,2021,2,Hábil,Recuperación 2021,False,164004
+2021-02-02,2021,2,Hábil,Recuperación 2021,False,184520
+2021-02-03,2021,2,Hábil,Recuperación 2021,False,146028
+2021-02-04,2021,2,Hábil,Recuperación 2021,False,191833
+2021-02-05,2021,2,Hábil,Recuperación 2021,False,186108
+2021-02-06,2021,2,Sábado,Recuperación 2021,False,106245
+2021-02-07,2021,2,Domingo,Recuperación 2021,False,51512
+2021-02-08,2021,2,Hábil,Recuperación 2021,False,183239
+2021-02-09,2021,2,Hábil,Recuperación 2021,False,195260
+2021-02-10,2021,2,Hábil,Recuperación 2021,False,199832
+2021-02-11,2021,2,Hábil,Recuperación 2021,False,203220
+2021-02-12,2021,2,Hábil,Recuperación 2021,False,202866
+2021-02-13,2021,2,Sábado,Recuperación 2021,False,106847
+2021-02-14,2021,2,Domingo,Recuperación 2021,False,57816
+2021-02-15,2021,2,Hábil,Recuperación 2021,False,64246
+2021-02-16,2021,2,Hábil,Recuperación 2021,False,61118
+2021-02-17,2021,2,Hábil,Recuperación 2021,False,210522
+2021-02-18,2021,2,Hábil,Recuperación 2021,False,220743
+2021-02-19,2021,2,Hábil,Recuperación 2021,False,216205
+2021-02-20,2021,2,Sábado,Recuperación 2021,False,116594
+2021-02-21,2021,2,Domingo,Recuperación 2021,False,58496
+2021-02-22,2021,2,Hábil,Recuperación 2021,False,188038
+2021-02-23,2021,2,Hábil,Recuperación 2021,False,221811
+2021-02-24,2021,2,Hábil,Recuperación 2021,False,220421
+2021-02-25,2021,2,Hábil,Recuperación 2021,False,228979
+2021-02-26,2021,2,Hábil,Recuperación 2021,False,226216
+2021-02-27,2021,2,Sábado,Recuperación 2021,False,122007
+2021-02-28,2021,2,Domingo,Recuperación 2021,False,57543
+2021-03-01,2021,3,Hábil,Recuperación 2021,False,210696
+2021-03-02,2021,3,Hábil,Recuperación 2021,False,224652
+2021-03-03,2021,3,Hábil,Recuperación 2021,False,234638
+2021-03-04,2021,3,Hábil,Recuperación 2021,False,182254
+2021-03-05,2021,3,Hábil,Recuperación 2021,False,244592
+2021-03-06,2021,3,Sábado,Recuperación 2021,False,131362
+2021-03-07,2021,3,Domingo,Recuperación 2021,False,65412
+2021-03-08,2021,3,Hábil,Recuperación 2021,False,257826
+2021-03-09,2021,3,Hábil,Recuperación 2021,False,254798
+2021-03-10,2021,3,Hábil,Recuperación 2021,False,259045
+2021-03-11,2021,3,Hábil,Recuperación 2021,False,258427
+2021-03-12,2021,3,Hábil,Recuperación 2021,False,262367
+2021-03-13,2021,3,Sábado,Recuperación 2021,False,134465
+2021-03-14,2021,3,Domingo,Recuperación 2021,False,66883
+2021-03-15,2021,3,Hábil,Recuperación 2021,False,250688
+2021-03-16,2021,3,Hábil,Recuperación 2021,False,250016
+2021-03-17,2021,3,Hábil,Recuperación 2021,False,263074
+2021-03-18,2021,3,Hábil,Recuperación 2021,False,294287
+2021-03-19,2021,3,Hábil,Recuperación 2021,False,273214
+2021-03-20,2021,3,Sábado,Recuperación 2021,False,111696
+2021-03-21,2021,3,Domingo,Recuperación 2021,False,72532
+2021-03-22,2021,3,Hábil,Recuperación 2021,False,263632
+2021-03-23,2021,3,Hábil,Recuperación 2021,False,276809
+2021-03-24,2021,3,Hábil,Recuperación 2021,False,101279
+2021-03-25,2021,3,Hábil,Recuperación 2021,False,227924
+2021-03-26,2021,3,Hábil,Recuperación 2021,False,271363
+2021-03-27,2021,3,Sábado,Recuperación 2021,False,129465
+2021-03-28,2021,3,Domingo,Recuperación 2021,False,65456
+2021-03-29,2021,3,Hábil,Recuperación 2021,False,265154
+2021-03-30,2021,3,Hábil,Recuperación 2021,False,267067
+2021-03-31,2021,3,Hábil,Recuperación 2021,False,280034
+2021-04-01,2021,4,Hábil,Recuperación 2021,False,131542
+2021-04-02,2021,4,Hábil,Recuperación 2021,False,74403
+2021-04-03,2021,4,Sábado,Recuperación 2021,False,47176
+2021-04-04,2021,4,Domingo,Recuperación 2021,False,60044
+2021-04-05,2021,4,Hábil,Recuperación 2021,False,248535
+2021-04-06,2021,4,Hábil,Recuperación 2021,False,252618
+2021-04-07,2021,4,Hábil,Recuperación 2021,False,245038
+2021-04-08,2021,4,Hábil,Recuperación 2021,False,257530
+2021-04-09,2021,4,Hábil,Recuperación 2021,False,206146
+2021-04-10,2021,4,Sábado,Recuperación 2021,False,85527
+2021-04-11,2021,4,Domingo,Recuperación 2021,False,47012
+2021-04-12,2021,4,Hábil,Recuperación 2021,False,209256
+2021-04-13,2021,4,Hábil,Recuperación 2021,False,213495
+2021-04-14,2021,4,Hábil,Recuperación 2021,False,210049
+2021-04-15,2021,4,Hábil,Recuperación 2021,False,211256
+2021-04-16,2021,4,Hábil,Recuperación 2021,False,204607
+2021-04-17,2021,4,Sábado,Recuperación 2021,False,85685
+2021-04-18,2021,4,Domingo,Recuperación 2021,False,36516
+2021-04-19,2021,4,Hábil,Recuperación 2021,False,179964
+2021-04-20,2021,4,Hábil,Recuperación 2021,False,192578
+2021-04-21,2021,4,Hábil,Recuperación 2021,False,193295
+2021-04-22,2021,4,Hábil,Recuperación 2021,False,194327
+2021-04-23,2021,4,Hábil,Recuperación 2021,False,195655
+2021-04-24,2021,4,Sábado,Recuperación 2021,False,84859
+2021-04-25,2021,4,Domingo,Recuperación 2021,False,38347
+2021-04-26,2021,4,Hábil,Recuperación 2021,False,187419
+2021-04-27,2021,4,Hábil,Recuperación 2021,False,198949
+2021-04-28,2021,4,Hábil,Recuperación 2021,False,197423
+2021-04-29,2021,4,Hábil,Recuperación 2021,False,197725
+2021-04-30,2021,4,Hábil,Recuperación 2021,False,200345
+2021-05-01,2021,5,Sábado,Recuperación 2021,False,44671
+2021-05-02,2021,5,Domingo,Recuperación 2021,False,35152
+2021-05-03,2021,5,Hábil,Recuperación 2021,False,166604
+2021-05-04,2021,5,Hábil,Recuperación 2021,False,178007
+2021-05-05,2021,5,Hábil,Recuperación 2021,False,182678
+2021-05-06,2021,5,Hábil,Recuperación 2021,False,184900
+2021-05-07,2021,5,Hábil,Recuperación 2021,False,186453
+2021-05-08,2021,5,Sábado,Recuperación 2021,False,92527
+2021-05-09,2021,5,Domingo,Recuperación 2021,False,37623
+2021-05-10,2021,5,Hábil,Recuperación 2021,False,185834
+2021-05-11,2021,5,Hábil,Recuperación 2021,False,189469
+2021-05-12,2021,5,Hábil,Recuperación 2021,False,192686
+2021-05-13,2021,5,Hábil,Recuperación 2021,False,193854
+2021-05-14,2021,5,Hábil,Recuperación 2021,False,195194
+2021-05-15,2021,5,Sábado,Recuperación 2021,False,93326
+2021-05-16,2021,5,Domingo,Recuperación 2021,False,40099
+2021-05-17,2021,5,Hábil,Recuperación 2021,False,186651
+2021-05-18,2021,5,Hábil,Recuperación 2021,False,185690
+2021-05-19,2021,5,Hábil,Recuperación 2021,False,189731
+2021-05-20,2021,5,Hábil,Recuperación 2021,False,195399
+2021-05-21,2021,5,Hábil,Recuperación 2021,False,194645
+2021-05-22,2021,5,Sábado,Recuperación 2021,False,40290
+2021-05-23,2021,5,Domingo,Recuperación 2021,False,18617
+2021-05-24,2021,5,Hábil,Recuperación 2021,False,34113
+2021-05-25,2021,5,Hábil,Recuperación 2021,False,28075
+2021-05-26,2021,5,Hábil,Recuperación 2021,False,124391
+2021-05-27,2021,5,Hábil,Recuperación 2021,False,126096
+2021-05-28,2021,5,Hábil,Recuperación 2021,False,131501
+2021-05-29,2021,5,Sábado,Recuperación 2021,False,55522
+2021-05-30,2021,5,Domingo,Recuperación 2021,False,25434
+2021-05-31,2021,5,Hábil,Recuperación 2021,False,172706
+2021-06-01,2021,6,Hábil,Recuperación 2021,False,182799
+2021-06-02,2021,6,Hábil,Recuperación 2021,False,191431
+2021-06-03,2021,6,Hábil,Recuperación 2021,False,196409
+2021-06-04,2021,6,Hábil,Recuperación 2021,False,197445
+2021-06-05,2021,6,Sábado,Recuperación 2021,False,66499
+2021-06-06,2021,6,Domingo,Recuperación 2021,False,36091
+2021-06-07,2021,6,Hábil,Recuperación 2021,False,195583
+2021-06-08,2021,6,Hábil,Recuperación 2021,False,199321
+2021-06-09,2021,6,Hábil,Recuperación 2021,False,198825
+2021-06-10,2021,6,Hábil,Recuperación 2021,False,205845
+2021-06-11,2021,6,Hábil,Recuperación 2021,False,218406
+2021-06-12,2021,6,Sábado,Recuperación 2021,False,89075
+2021-06-13,2021,6,Domingo,Recuperación 2021,False,42675
+2021-06-14,2021,6,Hábil,Recuperación 2021,False,206135
+2021-06-15,2021,6,Hábil,Recuperación 2021,False,213717
+2021-06-16,2021,6,Hábil,Recuperación 2021,False,211797
+2021-06-17,2021,6,Hábil,Recuperación 2021,False,220318
+2021-06-18,2021,6,Hábil,Recuperación 2021,False,249306
+2021-06-19,2021,6,Sábado,Recuperación 2021,False,110048
+2021-06-20,2021,6,Domingo,Recuperación 2021,False,47284
+2021-06-21,2021,6,Hábil,Recuperación 2021,False,54587
+2021-06-22,2021,6,Hábil,Recuperación 2021,False,222313
+2021-06-23,2021,6,Hábil,Recuperación 2021,False,220936
+2021-06-24,2021,6,Hábil,Recuperación 2021,False,223145
+2021-06-25,2021,6,Hábil,Recuperación 2021,False,235889
+2021-06-26,2021,6,Sábado,Recuperación 2021,False,114801
+2021-06-27,2021,6,Domingo,Recuperación 2021,False,46554
+2021-06-28,2021,6,Hábil,Recuperación 2021,False,218515
+2021-06-29,2021,6,Hábil,Recuperación 2021,False,218861
+2021-06-30,2021,6,Hábil,Recuperación 2021,False,224631
+2021-07-01,2021,7,Hábil,Recuperación 2021,False,235549
+2021-07-02,2021,7,Hábil,Recuperación 2021,False,246767
+2021-07-03,2021,7,Sábado,Recuperación 2021,False,129240
+2021-07-04,2021,7,Domingo,Recuperación 2021,False,61534
+2021-07-05,2021,7,Hábil,Recuperación 2021,False,239896
+2021-07-06,2021,7,Hábil,Recuperación 2021,False,250522
+2021-07-07,2021,7,Hábil,Recuperación 2021,False,240984
+2021-07-08,2021,7,Hábil,Recuperación 2021,False,281685
+2021-07-09,2021,7,Hábil,Recuperación 2021,False,99612
+2021-07-10,2021,7,Sábado,Recuperación 2021,False,136827
+2021-07-11,2021,7,Domingo,Recuperación 2021,False,65784
+2021-07-12,2021,7,Hábil,Recuperación 2021,False,245846
+2021-07-13,2021,7,Hábil,Recuperación 2021,False,266185
+2021-07-14,2021,7,Hábil,Recuperación 2021,False,268346
+2021-07-15,2021,7,Hábil,Recuperación 2021,False,283388
+2021-07-16,2021,7,Hábil,Recuperación 2021,False,293985
+2021-07-17,2021,7,Sábado,Recuperación 2021,False,160809
+2021-07-18,2021,7,Domingo,Recuperación 2021,False,78327
+2021-07-19,2021,7,Hábil,Recuperación 2021,False,257881
+2021-07-20,2021,7,Hábil,Recuperación 2021,False,283477
+2021-07-21,2021,7,Hábil,Recuperación 2021,False,273764
+2021-07-22,2021,7,Hábil,Recuperación 2021,False,279021
+2021-07-23,2021,7,Hábil,Recuperación 2021,False,287974
+2021-07-24,2021,7,Sábado,Recuperación 2021,False,157484
+2021-07-25,2021,7,Domingo,Recuperación 2021,False,76720
+2021-07-26,2021,7,Hábil,Recuperación 2021,False,268018
+2021-07-27,2021,7,Hábil,Recuperación 2021,False,275516
+2021-07-28,2021,7,Hábil,Recuperación 2021,False,283345
+2021-07-29,2021,7,Hábil,Recuperación 2021,False,281449
+2021-07-30,2021,7,Hábil,Recuperación 2021,False,292807
+2021-07-31,2021,7,Sábado,Recuperación 2021,False,173224
+2021-08-01,2021,8,Domingo,Recuperación 2021,False,94319
+2021-08-02,2021,8,Hábil,Recuperación 2021,False,288612
+2021-08-03,2021,8,Hábil,Recuperación 2021,False,298875
+2021-08-04,2021,8,Hábil,Recuperación 2021,False,307360
+2021-08-05,2021,8,Hábil,Recuperación 2021,False,332751
+2021-08-06,2021,8,Hábil,Recuperación 2021,False,324455
+2021-08-07,2021,8,Sábado,Recuperación 2021,False,219865
+2021-08-08,2021,8,Domingo,Recuperación 2021,False,66190
+2021-08-09,2021,8,Hábil,Recuperación 2021,False,290758
+2021-08-10,2021,8,Hábil,Recuperación 2021,False,331384
+2021-08-11,2021,8,Hábil,Recuperación 2021,False,341001
+2021-08-12,2021,8,Hábil,Recuperación 2021,False,343907
+2021-08-13,2021,8,Hábil,Recuperación 2021,False,355112
+2021-08-14,2021,8,Sábado,Recuperación 2021,False,202259
+2021-08-15,2021,8,Domingo,Recuperación 2021,False,118891
+2021-08-16,2021,8,Hábil,Recuperación 2021,False,111501
+2021-08-17,2021,8,Hábil,Recuperación 2021,False,351190
+2021-08-18,2021,8,Hábil,Recuperación 2021,False,390095
+2021-08-19,2021,8,Hábil,Recuperación 2021,False,351138
+2021-08-20,2021,8,Hábil,Recuperación 2021,False,372148
+2021-08-21,2021,8,Sábado,Recuperación 2021,False,192450
+2021-08-22,2021,8,Domingo,Recuperación 2021,False,106640
+2021-08-23,2021,8,Hábil,Recuperación 2021,False,351174
+2021-08-24,2021,8,Hábil,Recuperación 2021,False,367606
+2021-08-25,2021,8,Hábil,Recuperación 2021,False,364195
+2021-08-26,2021,8,Hábil,Recuperación 2021,False,372449
+2021-08-27,2021,8,Hábil,Recuperación 2021,False,391532
+2021-08-28,2021,8,Sábado,Recuperación 2021,False,201328
+2021-08-29,2021,8,Domingo,Recuperación 2021,False,107891
+2021-08-30,2021,8,Hábil,Recuperación 2021,False,354541
+2021-08-31,2021,8,Hábil,Recuperación 2021,False,373144
+2021-09-01,2021,9,Hábil,Recuperación 2021,False,364885
+2021-09-02,2021,9,Hábil,Recuperación 2021,False,375856
+2021-09-03,2021,9,Hábil,Recuperación 2021,False,412466
+2021-09-04,2021,9,Sábado,Recuperación 2021,False,210428
+2021-09-05,2021,9,Domingo,Recuperación 2021,False,110936
+2021-09-06,2021,9,Hábil,Recuperación 2021,False,392690
+2021-09-07,2021,9,Hábil,Recuperación 2021,False,374723
+2021-09-08,2021,9,Hábil,Recuperación 2021,False,363378
+2021-09-09,2021,9,Hábil,Recuperación 2021,False,413073
+2021-09-10,2021,9,Hábil,Recuperación 2021,False,437618
+2021-09-11,2021,9,Sábado,Recuperación 2021,False,217961
+2021-09-12,2021,9,Domingo,Recuperación 2021,False,344
+2021-09-13,2021,9,Hábil,Recuperación 2021,False,395050
+2021-09-14,2021,9,Hábil,Recuperación 2021,False,428281
+2021-09-15,2021,9,Hábil,Recuperación 2021,False,435924
+2021-09-16,2021,9,Hábil,Recuperación 2021,False,433185
+2021-09-17,2021,9,Hábil,Recuperación 2021,False,460705
+2021-09-18,2021,9,Sábado,Recuperación 2021,False,243218
+2021-09-19,2021,9,Domingo,Recuperación 2021,False,127367
+2021-09-20,2021,9,Hábil,Recuperación 2021,False,422389
+2021-09-21,2021,9,Hábil,Recuperación 2021,False,459751
+2021-09-22,2021,9,Hábil,Recuperación 2021,False,441532
+2021-09-23,2021,9,Hábil,Recuperación 2021,False,453838
+2021-09-24,2021,9,Hábil,Recuperación 2021,False,471728
+2021-09-25,2021,9,Sábado,Recuperación 2021,False,236156
+2021-09-26,2021,9,Domingo,Recuperación 2021,False,136840
+2021-09-27,2021,9,Hábil,Recuperación 2021,False,416293
+2021-09-28,2021,9,Hábil,Recuperación 2021,False,445680
+2021-09-29,2021,9,Hábil,Recuperación 2021,False,457249
+2021-09-30,2021,9,Hábil,Recuperación 2021,False,443162
+2021-10-01,2021,10,Hábil,Recuperación 2021,False,489306
+2021-10-02,2021,10,Sábado,Recuperación 2021,False,234540
+2021-10-03,2021,10,Domingo,Recuperación 2021,False,136535
+2021-10-04,2021,10,Hábil,Recuperación 2021,False,461101
+2021-10-05,2021,10,Hábil,Recuperación 2021,False,502674
+2021-10-06,2021,10,Hábil,Recuperación 2021,False,517150
+2021-10-07,2021,10,Hábil,Recuperación 2021,False,554937
+2021-10-08,2021,10,Hábil,Recuperación 2021,False,233215
+2021-10-09,2021,10,Sábado,Recuperación 2021,False,285950
+2021-10-10,2021,10,Domingo,Recuperación 2021,False,166251
+2021-10-11,2021,10,Hábil,Recuperación 2021,False,140524
+2021-10-12,2021,10,Hábil,Recuperación 2021,False,505222
+2021-10-13,2021,10,Hábil,Recuperación 2021,False,509058
+2021-10-14,2021,10,Hábil,Recuperación 2021,False,543899
+2021-10-15,2021,10,Hábil,Recuperación 2021,False,543784
+2021-10-16,2021,10,Sábado,Recuperación 2021,False,289920
+2021-10-17,2021,10,Domingo,Recuperación 2021,False,166547
+2021-10-18,2021,10,Hábil,Recuperación 2021,False,524950
+2021-10-19,2021,10,Hábil,Recuperación 2021,False,517171
+2021-10-20,2021,10,Hábil,Recuperación 2021,False,530421
+2021-10-21,2021,10,Hábil,Recuperación 2021,False,535094
+2021-10-22,2021,10,Hábil,Recuperación 2021,False,529583
+2021-10-23,2021,10,Sábado,Recuperación 2021,False,285195
+2021-10-24,2021,10,Domingo,Recuperación 2021,False,156744
+2021-10-25,2021,10,Hábil,Recuperación 2021,False,504475
+2021-10-26,2021,10,Hábil,Recuperación 2021,False,534310
+2021-10-27,2021,10,Hábil,Recuperación 2021,False,523705
+2021-10-28,2021,10,Hábil,Recuperación 2021,False,546957
+2021-10-29,2021,10,Hábil,Recuperación 2021,False,531916
+2021-10-30,2021,10,Sábado,Recuperación 2021,False,219492
+2021-10-31,2021,10,Domingo,Recuperación 2021,False,139854
+2021-11-01,2021,11,Hábil,Recuperación 2021,False,517192
+2021-11-02,2021,11,Hábil,Recuperación 2021,False,532796
+2021-11-03,2021,11,Hábil,Recuperación 2021,False,556172
+2021-11-04,2021,11,Hábil,Recuperación 2021,False,583581
+2021-11-05,2021,11,Hábil,Recuperación 2021,False,584356
+2021-11-06,2021,11,Sábado,Recuperación 2021,False,406513
+2021-11-07,2021,11,Domingo,Recuperación 2021,False,165662
+2021-11-08,2021,11,Hábil,Recuperación 2021,False,551843
+2021-11-09,2021,11,Hábil,Recuperación 2021,False,568839
+2021-11-10,2021,11,Hábil,Recuperación 2021,False,582403
+2021-11-11,2021,11,Hábil,Recuperación 2021,False,593301
+2021-11-12,2021,11,Hábil,Recuperación 2021,False,583700
+2021-11-13,2021,11,Sábado,Recuperación 2021,False,296286
+2021-11-15,2021,11,Hábil,Recuperación 2021,False,541585
+2021-11-16,2021,11,Hábil,Recuperación 2021,False,550610
+2021-11-17,2021,11,Hábil,Recuperación 2021,False,628131
+2021-11-18,2021,11,Hábil,Recuperación 2021,False,607701
+2021-11-19,2021,11,Hábil,Recuperación 2021,False,595983
+2021-11-20,2021,11,Sábado,Recuperación 2021,False,297835
+2021-11-21,2021,11,Domingo,Recuperación 2021,False,169194
+2021-11-22,2021,11,Hábil,Recuperación 2021,False,157741
+2021-11-23,2021,11,Hábil,Recuperación 2021,False,630798
+2021-11-24,2021,11,Hábil,Recuperación 2021,False,595758
+2021-11-25,2021,11,Hábil,Recuperación 2021,False,590460
+2021-11-26,2021,11,Hábil,Recuperación 2021,False,607526
+2021-11-27,2021,11,Sábado,Recuperación 2021,False,307399
+2021-11-28,2021,11,Domingo,Recuperación 2021,False,105041
+2021-11-29,2021,11,Hábil,Recuperación 2021,False,553647
+2021-11-30,2021,11,Hábil,Recuperación 2021,False,588403
+2021-12-01,2021,12,Hábil,Recuperación 2021,False,607090
+2021-12-02,2021,12,Hábil,Recuperación 2021,False,640508
+2021-12-03,2021,12,Hábil,Recuperación 2021,False,627032
+2021-12-04,2021,12,Sábado,Recuperación 2021,False,392736
+2021-12-05,2021,12,Domingo,Recuperación 2021,False,170503
+2021-12-06,2021,12,Hábil,Recuperación 2021,False,625404
+2021-12-07,2021,12,Hábil,Recuperación 2021,False,691867
+2021-12-08,2021,12,Hábil,Recuperación 2021,False,225402
+2021-12-09,2021,12,Hábil,Recuperación 2021,False,682936
+2021-12-10,2021,12,Hábil,Recuperación 2021,False,696384
+2021-12-11,2021,12,Sábado,Recuperación 2021,False,382122
+2021-12-12,2021,12,Domingo,Recuperación 2021,False,160835
+2021-12-13,2021,12,Hábil,Recuperación 2021,False,634911
+2021-12-14,2021,12,Hábil,Recuperación 2021,False,642830
+2021-12-15,2021,12,Hábil,Recuperación 2021,False,655282
+2021-12-16,2021,12,Hábil,Recuperación 2021,False,665119
+2021-12-17,2021,12,Hábil,Recuperación 2021,False,674747
+2021-12-18,2021,12,Sábado,Recuperación 2021,False,406915
+2021-12-19,2021,12,Domingo,Recuperación 2021,False,211377
+2021-12-20,2021,12,Hábil,Recuperación 2021,False,713058
+2021-12-21,2021,12,Hábil,Recuperación 2021,False,672157
+2021-12-22,2021,12,Hábil,Recuperación 2021,False,661893
+2021-12-23,2021,12,Hábil,Recuperación 2021,False,600021
+2021-12-24,2021,12,Hábil,Recuperación 2021,False,211728
+2021-12-25,2021,12,Sábado,Recuperación 2021,False,71375
+2021-12-26,2021,12,Domingo,Recuperación 2021,False,135889
+2021-12-27,2021,12,Hábil,Recuperación 2021,False,476841
+2021-12-28,2021,12,Hábil,Recuperación 2021,False,482821
+2021-12-29,2021,12,Hábil,Recuperación 2021,False,455009
+2021-12-30,2021,12,Hábil,Recuperación 2021,False,436598
+2021-12-31,2021,12,Hábil,Recuperación 2021,False,163685
